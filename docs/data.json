@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r75",
-    "last_updated": "May 08, 2026",
+    "revision": "r76",
+    "last_updated": "May 09, 2026",
     "unsorted_total": 1967,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -148,35 +148,29 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-09T07:53:29Z",
-    "checked_at_display": "2026-05-09 07:53 UTC",
+    "checked_at": "2026-05-09T13:11:25Z",
+    "checked_at_display": "2026-05-09 13:11 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://learning.studying.vocabulary.geography.drama.tongdailyve.com",
+      "https://nova.vixenlights.com"
+    ]
   },
   "failing_links": {
-    "https://learning.studying.vocabulary.geography.drama.tongdailyve.com": 2,
-    "https://rchbr.fritsche.org": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://pythagoras.academinctools.pw": 1,
-    "https://mathematics.calculus.reformarchive.com": 1,
-    "https://english.seminar.lervs.ro": 1,
-    "https://math.science.lervs.ro": 1,
-    "https://nova.vixenlights.com": 2,
-    "https://svp.reformarchive.com": 1,
-    "https://hvtzw.reformarchive.com": 1,
-    "https://math.rcdx93.net": 1,
-    "https://science.weatherpixel.com": 1,
-    "https://awxkcn.glyphosateinfood.com": 1,
-    "https://learning-track.divvyboard.com": 1,
-    "https://revision-system.fiedleracres.com": 1,
-    "https://math.questions.bsodomizer.com": 1,
-    "https://frosted.webinfo.tw": 1,
-    "https://frosted.numbercraftacademy.com": 1,
-    "https://api.notariamelipilla.cl": 1,
-    "https://frosted.vta-international.com": 1,
-    "https://lightspeedsotuff.recepist.fi": 1
+    "https://apsciencetutoring.luhe.tw/#home": 1,
+    "https://aphistorytutoring.bisblick.org": 1,
+    "https://epicgrammar.pandeybikalpa.com.np": 1,
+    "https://pythagoras.academinctools.pw": 2,
+    "https://mathematics.calculus.reformarchive.com": 2,
+    "https://english.seminar.lervs.ro": 2,
+    "https://math.science.lervs.ro": 2,
+    "https://math.questions.bsodomizer.com": 2,
+    "https://frosted.webinfo.tw": 2,
+    "https://frosted.numbercraftacademy.com": 2,
+    "https://api.notariamelipilla.cl": 2,
+    "https://frosted.vta-international.com": 2
   },
   "links": [
     {
@@ -33861,25 +33855,6 @@
         "pending"
       ],
       "locked": "",
-      "link": "https://learning.studying.vocabulary.geography.drama.tongdailyve.com/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "Strongdog",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
       "link": "https://programming.teacher.grammar.physics.vocabulary.natkajoyas.cl/",
       "found": "4/26/2026",
       "username": "N/A",
@@ -36218,25 +36193,6 @@
       ],
       "locked": "",
       "link": "https://kronos.onl.academinctools.pw/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🏔️ Peak",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://nova.vixenlights.com/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
