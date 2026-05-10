@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r79 | Last Updated: May 10, 2026
+> r80 | Last Updated: May 10, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -2446,7 +2446,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | pending | pending | pending | 21 |
+> | pending | pending | pending | 20 |
 
 > [!IMPORTANT]
 > This section has not been categorized or checked for protocol(s) and capabilities.
@@ -2461,7 +2461,6 @@ Fixed a security vulnerability.
 | | https://art.literature.homework.science.student.derementeria.cl | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://technology.reading.drama.programming.geometry.kormann.name | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://computer.biology.teacher.campus.seminar.ianmaffett.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://geography.physics.classroom.engineering.computer.cwbots.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://lecture.campus.chemistry.science.music.onachile.cl | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://geometry.grammar.math.seminar.english.nabinkhadka.com.np | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://vocabulary.studying.physics.art.history.clinicamarshaka.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
