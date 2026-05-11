@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r82",
+    "revision": "r83",
     "last_updated": "May 11, 2026",
     "unsorted_total": 1967,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -148,48 +148,39 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-11T14:44:45Z",
-    "checked_at_display": "2026-05-11 14:44 UTC",
+    "checked_at": "2026-05-11T19:44:40Z",
+    "checked_at_display": "2026-05-11 19:44 UTC",
     "added_count": 0,
-    "removed_count": 9,
+    "removed_count": 5,
     "added_links": [],
     "removed_links": [
-      "https://math.rcdx93.net",
-      "https://bloxians.appwrite.network",
-      "https://blox.appwrite.network",
-      "https://bloxy.appwrite.network",
-      "https://unblocked-games.appwrite.network",
-      "https://unblockedgames.appwrite.network",
-      "https://gaming.appwrite.network",
-      "https://math-worksheets.appwrite.network",
-      "https://pythagoras.academinctools.pw"
+      "https://vorg-has.me-at-gun-point3.cyberninja.ie",
+      "https://quick-learning.gorich.hk",
+      "https://1259pm.kaskjer.org",
+      "https://testifies.birds.com.chickenkiller.com",
+      "https://laweducation.clipfaktory.com"
     ]
   },
   "failing_links": {
-    "https://vorg-has.me-at-gun-point3.cyberninja.ie": 2,
-    "https://novacs.letiatours.com": 1,
-    "https://virtualgeo.letiatours.com": 1,
-    "https://learning-science.cloudfare.teimporto.cl": 1,
-    "https://evenmore.delafuentefunerales.cl": 1,
-    "https://51.222.206.184.nar0.com": 1,
-    "https://quick-learning.gorich.hk": 2,
-    "https://15.204.247.166.nar0.com": 1,
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 1,
-    "https://aphistorytutoring.cencopro.cl": 1,
-    "https://learnaboutbillclinton.cencopro.cl": 1,
-    "https://aphistorytutoring.bisblick.org": 1,
-    "https://learnaboutbillclinton.bisblick.org": 1,
-    "https://testifies.birds.com.chickenkiller.com": 2,
-    "https://laweducation.clipfaktory.com": 2,
-    "https://mathematics.lervs.ro": 1,
-    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
-    "https://veleranirbytes.fusionid.fi": 1,
-    "https://securelyplsspeedineedthis8weudidhske.suwal.com.np": 1,
-    "https://1259pm.kaskjer.org": 2,
-    "https://velara.cc": 1,
-    "https://science.weatherpixel.com": 1,
-    "https://awxkcn.glyphosateinfood.com": 1,
-    "https://lightspeedsotuff.recepist.fi": 1
+    "https://vorg-isnt-a-fem.boy3.cyberninja.ie": 1,
+    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
+    "https://learning-science.cloudfare.teimporto.cl": 2,
+    "https://sunsett.cc.cdn.cloudflare.net": 1,
+    "https://51.222.206.184.nar0.com": 2,
+    "https://15.204.247.166.nar0.com": 2,
+    "https://psavw.alexhuart.com": 1,
+    "https://rchbr.fritsche.org": 1,
+    "https://ktxcfvocsm.meshtastic.hu": 1,
+    "https://mathematics.lervs.ro": 2,
+    "https://veleranirbytes.fusionid.fi": 2,
+    "https://securelyplsspeedineedthis8weudidhske.suwal.com.np": 2,
+    "https://velara.cc": 2,
+    "https://science.weatherpixel.com": 2,
+    "https://awxkcn.glyphosateinfood.com": 2,
+    "https://frosted.webinfo.tw": 1,
+    "https://frosted.numbercraftacademy.com": 1,
+    "https://api.notariamelipilla.cl": 1,
+    "https://frosted.vta-international.com": 1
   },
   "links": [
     {
@@ -534,25 +525,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://vorg-has.me-at-gun-point3.cyberninja.ie/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://vorg-isnt-a-fem.boy3.cyberninja.ie/",
       "found": "4/18/2026",
       "username": "N/A",
@@ -686,25 +658,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://quick-learning.gorich.hk/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://sunsett.cc/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -744,25 +697,6 @@
       ],
       "locked": "",
       "link": "https://bogisgoingtotheleague.my.to/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://1259pm.kaskjer.org/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7179,25 +7113,6 @@
       "locked": "",
       "link": "https://f.global.ssl.fastly.net",
       "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🥱 Boredom",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://testifies.birds.com.chickenkiller.com/",
-      "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
@@ -19719,25 +19634,6 @@
       ],
       "locked": "",
       "link": "https://physics.bluntgang.info/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://laweducation.clipfaktory.com/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",

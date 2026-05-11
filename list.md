@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r82 | Last Updated: May 11, 2026
+> r83 | Last Updated: May 11, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -69,11 +69,10 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | captcha | Scramjet | 22 |
+> | Proxy/Games | captcha | Scramjet | 19 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
-| | https://vorg-has.me-at-gun-point3.cyberninja.ie/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://vorg-isnt-a-fem.boy3.cyberninja.ie/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://learning-science.cloudfare.teimporto.cl/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://veleranirbytes.fusionid.fi/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
@@ -81,11 +80,9 @@ Fixed a security vulnerability.
 | | https://baconatorsmath.2nx.org/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://evenmore.delafuentefunerales.cl/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://securelyplsspeedineedthis8weudidhske.suwal.com.np/ | 4/27/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://quick-learning.gorich.hk/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://sunsett.cc/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://noterplus-157.firebaseapp.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://bogisgoingtotheleague.my.to/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://1259pm.kaskjer.org/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://rchbr.fritsche.org | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://ktxcfvocsm.meshtastic.hu | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://mathematics.lervs.ro | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
@@ -477,7 +474,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | Scramjet | 34 |
+> | Proxy/Games | unknown | Scramjet | 33 |
 
 > [!IMPORTANT]
 > Boredom does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -512,7 +509,6 @@ Fixed a security vulnerability.
 | | https://ilovemathh.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://l.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://f.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://testifies.birds.com.chickenkiller.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://boredom.vcsa.worldpolyathlon.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://api.en.v2202508297531378155.powersrv.de/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://academi.edu.pl | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
@@ -1352,7 +1348,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | unknown | 25 |
+> | Proxy/Games | unknown | unknown | 24 |
 
 > [!IMPORTANT]
 > StudyHub does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -1365,7 +1361,6 @@ Fixed a security vulnerability.
 | | https://math.gressvikbmxklubb.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://youth.gressvikbmx.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://physics.bluntgang.info/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://laweducation.clipfaktory.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://shopping.gandhinagar.com | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://education.jrshark.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://securly.lysterfam.net/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
