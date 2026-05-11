@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r80",
-    "last_updated": "May 10, 2026",
+    "revision": "r81",
+    "last_updated": "May 11, 2026",
     "unsorted_total": 1967,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -148,34 +148,34 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-11T02:51:04Z",
-    "checked_at_display": "2026-05-11 02:51 UTC",
+    "checked_at": "2026-05-11T09:35:50Z",
+    "checked_at_display": "2026-05-11 09:35 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://lol.greenbaynz.com",
+      "https://dashboard.wobwob.duckdns.org"
+    ]
   },
   "failing_links": {
-    "https://evenmore.delafuentefunerales.cl": 2,
-    "https://rchbr.fritsche.org": 1,
-    "https://pythagoras.academinctools.pw": 1,
-    "https://veleranirbytes.fusionid.fi": 2,
-    "https://securelyplsspeedineedthis8weudidhske.suwal.com.np": 1,
-    "https://sunsett.cc": 1,
-    "https://hvtzw.reformarchive.com": 1,
-    "https://lol.greenbaynz.com": 2,
-    "https://math.rcdx93.net": 1,
-    "https://science.weatherpixel.com": 2,
-    "https://awxkcn.glyphosateinfood.com": 2,
-    "https://bloxians.appwrite.network": 1,
-    "https://blox.appwrite.network": 1,
-    "https://bloxy.appwrite.network": 1,
-    "https://unblocked-games.appwrite.network": 1,
-    "https://unblockedgames.appwrite.network": 1,
-    "https://gaming.appwrite.network": 1,
-    "https://math-worksheets.appwrite.network": 1,
-    "https://dashboard.wobwob.duckdns.org": 2,
-    "https://lightspeedsotuff.recepist.fi": 2
+    "https://vorg-has.me-at-gun-point3.cyberninja.ie": 1,
+    "https://quick-learning.gorich.hk": 1,
+    "https://learnaboutbillclinton.daybits.net": 1,
+    "https://testifies.birds.com.chickenkiller.com": 1,
+    "https://laweducation.clipfaktory.com": 1,
+    "https://ktxcfvocsm.meshtastic.hu": 1,
+    "https://pythagoras.academinctools.pw": 2,
+    "https://1259pm.kaskjer.org": 1,
+    "https://hvtzw.reformarchive.com": 2,
+    "https://math.rcdx93.net": 2,
+    "https://bloxians.appwrite.network": 2,
+    "https://blox.appwrite.network": 2,
+    "https://bloxy.appwrite.network": 2,
+    "https://unblocked-games.appwrite.network": 2,
+    "https://unblockedgames.appwrite.network": 2,
+    "https://gaming.appwrite.network": 2,
+    "https://math-worksheets.appwrite.network": 2
   },
   "links": [
     {
@@ -863,25 +863,6 @@
       ],
       "locked": "",
       "link": "https://velara.cc",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://lol.greenbaynz.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -33685,25 +33666,6 @@
       ],
       "locked": "",
       "link": "https://m.wobwob.duckdns.org",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌀 Interstellar",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://dashboard.wobwob.duckdns.org",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",

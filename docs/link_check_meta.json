@@ -1,8 +1,11 @@
 {
-  "checked_at": "2026-05-11T02:51:04Z",
-  "checked_at_display": "2026-05-11 02:51 UTC",
+  "checked_at": "2026-05-11T09:35:50Z",
+  "checked_at_display": "2026-05-11 09:35 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 2,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://lol.greenbaynz.com",
+    "https://dashboard.wobwob.duckdns.org"
+  ]
 }
