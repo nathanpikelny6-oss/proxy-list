@@ -148,23 +148,42 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-12T08:36:44Z",
-    "checked_at_display": "2026-05-12 08:36 UTC",
+    "checked_at": "2026-05-12T14:16:04Z",
+    "checked_at_display": "2026-05-12 14:16 UTC",
     "added_count": 0,
-    "removed_count": 2,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://rchbr.fritsche.org",
-      "https://psavw.alexhuart.com"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://aphistorytutoring.tjarba.com": 2,
-    "https://sunsett.cc.cdn.cloudflare.net": 1,
-    "https://learnaboutbillclinton.daybits.net": 1,
-    "https://sunsett.cc": 1,
-    "https://velara.cc": 1,
-    "https://lightspeedsotuff.recepist.fi": 1
+    "https://vorg-isnt-a-fem.boy3.cyberninja.ie": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/logarithmic-limits-4596@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-eigenvalues-3653@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/abstract-combinatorics-1766@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/quadratic-algebra-8700@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/real-eigenvalues-7807@main/doesn.svg": 1,
+    "https://bogisgoingtotheleague.my.to": 1,
+    "https://securly.lysterfam.net": 1,
+    "https://wyattrules.aber.ir": 1,
+    "https://plss.lervs.ro": 1,
+    "https://veleranirbytes.fusionid.fi": 1,
+    "https://svp.reformarchive.com": 1,
+    "https://hvtzw.reformarchive.com": 1,
+    "https://velara.cc": 2,
+    "https://xylora.grahammurryinsuranceagency.com": 1,
+    "https://xylora.notariamelipilla.cl": 1,
+    "https://sub.to.playernation.xylora.renaca.com": 1,
+    "https://join.mizumath.babypos.hk": 1,
+    "https://xylora.vta-international.com": 1,
+    "https://summer.hot.sun.longerdays.shorternights.japan.is": 1,
+    "https://xylora.triatlonpacense.es": 1,
+    "https://xylora.beerporn.org": 1,
+    "https://play.nation.xylora.beltfrog.com": 1,
+    "https://xylora.co.ldeazevedo.com": 1,
+    "https://lightspeedsotuff.recepist.fi": 2,
+    "https://vcsa.easternstamps.com": 1,
+    "https://xylora.searching.dirtchicvt.com": 1,
+    "https://xylora.rust.rusticrivergear.com": 1
   },
   "links": [
     {
