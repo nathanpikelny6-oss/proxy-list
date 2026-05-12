@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r83",
-    "last_updated": "May 11, 2026",
+    "revision": "r84",
+    "last_updated": "May 12, 2026",
     "unsorted_total": 1967,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -148,39 +148,26 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-11T19:44:40Z",
-    "checked_at_display": "2026-05-11 19:44 UTC",
+    "checked_at": "2026-05-12T02:43:17Z",
+    "checked_at_display": "2026-05-12 02:43 UTC",
     "added_count": 0,
-    "removed_count": 5,
+    "removed_count": 4,
     "added_links": [],
     "removed_links": [
-      "https://vorg-has.me-at-gun-point3.cyberninja.ie",
-      "https://quick-learning.gorich.hk",
-      "https://1259pm.kaskjer.org",
-      "https://testifies.birds.com.chickenkiller.com",
-      "https://laweducation.clipfaktory.com"
+      "https://learning-science.cloudfare.teimporto.cl",
+      "https://securelyplsspeedineedthis8weudidhske.suwal.com.np",
+      "https://mathematics.lervs.ro",
+      "https://science.weatherpixel.com"
     ]
   },
   "failing_links": {
-    "https://vorg-isnt-a-fem.boy3.cyberninja.ie": 1,
-    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
-    "https://learning-science.cloudfare.teimporto.cl": 2,
-    "https://sunsett.cc.cdn.cloudflare.net": 1,
-    "https://51.222.206.184.nar0.com": 2,
-    "https://15.204.247.166.nar0.com": 2,
-    "https://psavw.alexhuart.com": 1,
-    "https://rchbr.fritsche.org": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://mathematics.lervs.ro": 2,
-    "https://veleranirbytes.fusionid.fi": 2,
-    "https://securelyplsspeedineedthis8weudidhske.suwal.com.np": 2,
-    "https://velara.cc": 2,
-    "https://science.weatherpixel.com": 2,
-    "https://awxkcn.glyphosateinfood.com": 2,
-    "https://frosted.webinfo.tw": 1,
-    "https://frosted.numbercraftacademy.com": 1,
-    "https://api.notariamelipilla.cl": 1,
-    "https://frosted.vta-international.com": 1
+    "https://aphistorytutoring.tjarba.com": 1,
+    "https://evenmore.delafuentefunerales.cl": 1,
+    "https://apsciencetutoring.luhe.tw/#home": 1,
+    "https://psavw.alexhuart.com": 2,
+    "https://rchbr.fritsche.org": 2,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
+    "https://svp.reformarchive.com": 1
   },
   "links": [
     {
@@ -544,25 +531,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://learning-science.cloudfare.teimporto.cl/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://veleranirbytes.fusionid.fi/",
       "found": "4/26/2026",
       "username": "N/A",
@@ -622,25 +590,6 @@
       "locked": "",
       "link": "https://evenmore.delafuentefunerales.cl/",
       "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://securelyplsspeedineedthis8weudidhske.suwal.com.np/",
-      "found": "4/27/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
@@ -753,25 +702,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://mathematics.lervs.ro",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://svp.reformarchive.com",
       "found": "5/2/2026",
       "username": "N/A",
@@ -811,25 +741,6 @@
       ],
       "locked": "",
       "link": "https://velara.cc",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://science.weatherpixel.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
