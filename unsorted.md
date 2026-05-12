@@ -1970,3 +1970,4 @@ Move links from here into `list.md` once sorted.
 - https://readinghelpforelementary.online
 - https://sciencemath.gtec.ar
 - https://lllllllllliiillliiiilililililllllllllliiiiii.plik-perm.ru
+- https://velara.cc
