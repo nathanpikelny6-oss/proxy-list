@@ -1974,3 +1974,4 @@ Move links from here into `list.md` once sorted.
 - https://dgfv.easychargebatteries.com
 - https://selevseesa.gpu74.ru
 - https://vcsa.easycharge-batteries.com
+- https://sunsett.cc
