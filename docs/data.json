@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r92",
+    "revision": "r93",
     "last_updated": "May 14, 2026",
     "unsorted_total": 1971,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,57 +103,52 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-14T08:34:55Z",
-    "checked_at_display": "2026-05-14 08:34 UTC",
+    "checked_at": "2026-05-14T14:04:16Z",
+    "checked_at_display": "2026-05-14 14:04 UTC",
     "added_count": 0,
-    "removed_count": 29,
+    "removed_count": 3,
     "added_links": [],
     "removed_links": [
-      "https://evenmore.delafuentefunerales.cl",
-      "https://celestial.webinfo.tw",
-      "https://task.babypos.hk",
-      "https://launch.newlifesanctuarychurch.com",
-      "https://help.globaltutors.me.cdn.cloudflare.net",
-      "https://jmw.thewellnessconference.org",
-      "https://easy.globaltutors.me",
-      "https://hours.stgenevieveschool.us",
-      "https://creditrepair911.us",
-      "https://cavtalk.org",
-      "https://craftingwithmimi.com",
-      "https://cves359.com",
-      "https://kcomeacademy.org",
-      "https://schoolimprovementtips.com",
-      "https://campus.geometry.writing.history.programming.beltfrog.com/onboarding",
-      "https://campus.lecture.art.physics.english.beltfrog.com",
-      "https://lecture.geometry.biology.campus.music.beltfrog.com",
-      "https://lecture.physics.geometry.campus.music.beltfrog.com",
-      "https://studying.engineering.science.art.library.beltfrog.com",
-      "https://cherri.altonhabitat.info",
-      "https://cherri.cc",
-      "https://cherri.altonhabitat.store",
-      "https://cherri.altonhabitat.online",
-      "https://cherri.totallyeducation.info",
-      "https://cherryontop.wikidelia.net",
-      "https://dudewhatthecherryists.wikidelia.net",
-      "https://gocherry.wikidelia.net",
-      "https://ilovecheerys.wikidelia.net",
-      "https://isitcherryorcherri.wikidelia.net"
+      "https://awxkcn.glyphosateinfood.com",
+      "https://mathpracticefun.ignorelist.com",
+      "https://compontop.jayaho.ch"
     ]
   },
   "failing_links": {
-    "https://vorg-isnt-a-fem.boy3.cyberninja.ie": 1,
-    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/infinite-trigonometry-7318@main/INVADDEX.SVG": 1,
-    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/stochastic-primes-6974@main/INVADDEX.SVG": 1,
-    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-symmetry-1165@main/INVADDEX.SVG": 1,
-    "https://compontop.jayaho.ch": 2,
-    "https://sunsett.cc.cdn.cloudflare.net": 1,
-    "https://mathpracticefun.ignorelist.com": 2,
-    "https://cdn.jsdelivr.net/gh/coinbaselarper/svg@latest/logo.svg": 1,
-    "https://kronos.onl.academinctools.pw": 1,
-    "https://sunsett.cc": 1,
-    "https://svp.reformarchive.com": 1,
-    "https://awxkcn.glyphosateinfood.com": 2,
-    "https://cdn.jsdelivr.net/gh/TwiLabs/math/dist/index.svg": 2
+    "https://vorg-isnt-a-fem.boy3.cyberninja.ie": 2,
+    "https://anderdingus.axsetubal.pt": 1,
+    "https://testinga.mooo.com": 1,
+    "https://booger.riteshp.com.np": 1,
+    "https://testing.farted.net": 1,
+    "https://bull.yarnowl.com": 1,
+    "https://sunsett.cc.cdn.cloudflare.net": 2,
+    "https://nomorefortnige.bisblick.org": 1,
+    "https://kidsthesedaysbro.arxeiokin.gr": 1,
+    "https://weneedmorefhangbisbfo.camberleycricket.com": 1,
+    "https://chemistry.axiomait.pro": 1,
+    "https://midterms.wrexham.cn": 1,
+    "https://bogisgoingtotheleague.my.to": 1,
+    "https://learnaboutbillclinton.cencopro.cl": 1,
+    "https://learningcomesfirst.madhavkhanal.com.np": 1,
+    "https://ktxcfvocsm.meshtastic.hu": 1,
+    "https://kronos.onl.academinctools.pw": 2,
+    "https://sunsett.cc": 2,
+    "https://svp.reformarchive.com": 2,
+    "https://hvtzw.reformarchive.com": 1,
+    "https://canva.link/gn-math": 1,
+    "https://fly.qantas.hoohaamelbourne.com.au": 1,
+    "https://nebulo.beat.nebula.recreatinganew.com": 1,
+    "https://exam-mindset.itleague.com": 1,
+    "https://study-pattern.jandjley.com": 1,
+    "https://revision-flow.maverickden.com": 1,
+    "https://learning-tactics.ncknms.com": 1,
+    "https://brain-skills.ortonavarro.com": 1,
+    "https://learning-track.divvyboard.com": 1,
+    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
+    "https://study-achievement.expedicionesytrekking.com": 1,
+    "https://revision-system.fiedleracres.com": 1,
+    "https://study-control.wayner.ca": 1,
+    "https://teacher.engineering.drama.english.student.enjoywalensee.ch": 1
   },
   "links": [
     {
@@ -366,25 +361,6 @@
       ],
       "locked": "",
       "link": "https://hvtzw.reformarchive.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌙 Velara",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://awxkcn.glyphosateinfood.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -13607,25 +13583,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://mathpracticefun.ignorelist.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://jasper.crabdance.com/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -20539,25 +20496,6 @@
       ],
       "locked": "",
       "link": "https://bllymartw.lekhnathfb.com.np",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🔼 Axiom",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://compontop.jayaho.ch",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",

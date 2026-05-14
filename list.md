@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r92 | Last Updated: May 14, 2026
+> r93 | Last Updated: May 14, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -50,7 +50,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | captcha | Scramjet | 10 |
+> | Proxy/Games | captcha | Scramjet | 9 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
@@ -63,7 +63,6 @@ Fixed a security vulnerability.
 | | https://ktxcfvocsm.meshtastic.hu | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://svp.reformarchive.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://hvtzw.reformarchive.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://awxkcn.glyphosateinfood.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 
 # ➗ gn-math
 > [!NOTE]
@@ -913,7 +912,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | Unknown | Scramjet | 101 |
+> | Proxy/Games | Unknown | Scramjet | 100 |
 
 > [!IMPORTANT]
 > Imp Proxy does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -978,7 +977,6 @@ Fixed a security vulnerability.
 | | https://playernation.canalspa.cl/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://get.hotelconsuladoinn.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://vcsa.national-birdshow.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://mathpracticefun.ignorelist.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://jasper.crabdance.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://v.v2202508297531378155.powersrv.de/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://dtxb.eclipsecastellon.net | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
@@ -1423,7 +1421,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | captcha | Scramjet | 35 |
+> | Proxy/Games | captcha | Scramjet | 34 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
@@ -1442,7 +1440,6 @@ Fixed a security vulnerability.
 | | https://travel.national-birdshow.com/ | 4/17/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://k12edu.duckdns.org/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://bllymartw.lekhnathfb.com.np | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://compontop.jayaho.ch | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://learn.sharptutor.net/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://dev.amq.li/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://us.grumpyoldmen.us/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
