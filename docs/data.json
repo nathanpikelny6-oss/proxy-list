@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r94",
-    "last_updated": "May 14, 2026",
+    "revision": "r95",
+    "last_updated": "May 15, 2026",
     "unsorted_total": 1972,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,20 +103,57 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-15T02:51:27Z",
-    "checked_at_display": "2026-05-15 02:51 UTC",
+    "checked_at": "2026-05-15T08:46:37Z",
+    "checked_at_display": "2026-05-15 08:46 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://vjenkins.texansaretrash.duckdns.org",
+      "https://m.wobwob.duckdns.org"
+    ]
   },
   "failing_links": {
-    "https://ethostulsa.org": 1,
-    "https://bogisgoingtotheleague.my.to": 1,
-    "https://site.nhd.org/11595885/home": 1,
-    "https://vjenkins.texansaretrash.duckdns.org": 2,
-    "https://m.wobwob.duckdns.org": 2,
-    "https://wikipedia.wikidelia.net": 1
+    "https://math.next-education-learning.sbs": 1,
+    "https://files.copytek.cl": 1,
+    "https://app.codewave.com.np": 1,
+    "https://learn.morso-si.dk": 1,
+    "https://act.savequeechylake.org": 1,
+    "https://download.s-engine.com": 1,
+    "https://documentation.7btech.com": 1,
+    "https://learn.botsev.eu": 1,
+    "https://hosting.biec.com.np": 1,
+    "https://storytime.goodguysav.com": 1,
+    "https://read.nationalit.ru": 1,
+    "https://family.nembahadurraskoti.com.np": 1,
+    "https://status.xcloud.ar": 1,
+    "https://travel.national-birdshow.com": 1,
+    "https://k12edu.duckdns.org": 1,
+    "https://edudash.edu-spark.top": 1,
+    "https://bllymartw.lekhnathfb.com.np": 1,
+    "https://bogisgoingtotheleague.my.to": 2,
+    "https://site.nhd.org/11595885/home": 2,
+    "https://imsovainthatinamelinksaftermyself.tjarba.com": 1,
+    "https://us.grumpyoldmen.us": 1,
+    "https://wiki.wikidelia.net": 1,
+    "https://blog.succeed.cl": 1,
+    "https://family.jessicacadotte.com": 1,
+    "https://purchase.halftech.com": 1,
+    "https://dev.cyber-ag.com": 1,
+    "https://recipies.dalicias.cl": 1,
+    "https://null-code.codewave.com.np": 1,
+    "https://dev.apa89.com": 1,
+    "https://updownyt.ytconverter.it": 1,
+    "https://cdn.adworldlog.com": 1,
+    "https://learn.sharptutor.net": 1,
+    "https://dev.amq.li": 1,
+    "https://gitlab.amq.ro": 1,
+    "https://clapclapclapclapinthebed.aber.ir": 1,
+    "https://wikipedia.wikidelia.net": 2,
+    "https://hydration.zwanenwater48.nl": 1,
+    "https://launch.umlach.org": 1,
+    "https://app.cmyk-studio.com": 1,
+    "https://zlty.europeserv.org": 1
   },
   "links": [
     {
@@ -31374,44 +31411,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌀 Interstellar",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://vjenkins.texansaretrash.duckdns.org",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌀 Interstellar",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://m.wobwob.duckdns.org",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🌴 aspen",
