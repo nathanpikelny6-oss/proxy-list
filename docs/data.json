@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r96",
-    "last_updated": "May 15, 2026",
-    "unsorted_total": 1972,
+    "revision": "r97",
+    "last_updated": "May 16, 2026",
+    "unsorted_total": 1975,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -103,53 +103,208 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-16T02:39:47Z",
-    "checked_at_display": "2026-05-16 02:39 UTC",
+    "checked_at": "2026-05-16T08:00:48Z",
+    "checked_at_display": "2026-05-16 08:00 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 32,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://artisticlife.xenopoem.com",
+      "https://hatisthemeaningofourexistenceinourlifeofourcurrentreality.xenopoem.com",
+      "https://christmas.fusionid.fi",
+      "https://icantbelieveitsnotbutter.teimporto.cl",
+      "https://info.stoke-park.co.uk",
+      "https://truffled.lol/?988lifeline.org",
+      "https://truffled.lol/?ixl.com",
+      "https://hi.wulabs.org",
+      "https://e.mza.com.ar",
+      "https://eee.krahl.com.br",
+      "https://hi.birdriver.org",
+      "https://it.deltachat.me",
+      "https://info.v119.com",
+      "https://uhidk.infotechnology.com",
+      "https://infoo.infotechnology.com",
+      "https://landon.infotechnology.com",
+      "https://learningcomesfirst.madhavkhanal.com.np",
+      "https://tuffle.infotechnology.com",
+      "https://sneakers-otoole.lervs.ro",
+      "https://carp.teachmetofish.net",
+      "https://feel.lervs.ro",
+      "https://school.flextron.xyz",
+      "https://reading.astrodestin.ro",
+      "https://historyofdinosaurs.dinocol.co.uk",
+      "https://precalculus.textbook.beerporn.org",
+      "https://waguri.real3m.com",
+      "https://chance.bull.luck.poloniacruz.com",
+      "https://homeworkhelp.mb.doris-safety.com",
+      "https://somewhere.find.bull.doris-safety.com",
+      "https://mathematics1.lervs.ro",
+      "https://n8-math.dev",
+      "https://tutoring-services.org"
+    ]
   },
   "failing_links": {
-    "https://15.204.247.166.ip.ipq.co": 2,
-    "https://artisticlife.xenopoem.com": 2,
-    "https://hatisthemeaningofourexistenceinourlifeofourcurrentreality.xenopoem.com": 2,
-    "https://christmas.fusionid.fi": 2,
-    "https://icantbelieveitsnotbutter.teimporto.cl": 2,
-    "https://info.stoke-park.co.uk": 2,
-    "https://bogisgoingtotheleague.my.to": 2,
-    "https://sainttech.techmaxasia.com/#home": 1,
-    "https://learnaboutbillclinton.bisblick.org": 1,
-    "https://truffled.lol/?988lifeline.org": 2,
-    "https://truffled.lol/?ixl.com": 2,
-    "https://hi.wulabs.org": 2,
-    "https://e.mza.com.ar": 2,
-    "https://eee.krahl.com.br": 2,
-    "https://hi.birdriver.org": 2,
-    "https://it.deltachat.me": 2,
-    "https://info.v119.com": 2,
-    "https://uhidk.infotechnology.com": 2,
-    "https://infoo.infotechnology.com": 2,
-    "https://landon.infotechnology.com": 2,
-    "https://learningcomesfirst.madhavkhanal.com.np": 2,
-    "https://tuffle.infotechnology.com": 2,
-    "https://sneakers-otoole.lervs.ro": 2,
-    "https://carp.teachmetofish.net": 2,
-    "https://feel.lervs.ro": 2,
-    "https://school.flextron.xyz": 2,
-    "https://ktxcfvocsm.meshtastic.hu": 2,
-    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
-    "https://waguri.real3m.com": 2,
-    "https://chance.bull.luck.poloniacruz.com": 2,
-    "https://homeworkhelp.mb.doris-safety.com": 2,
-    "https://somewhere.find.bull.doris-safety.com": 2,
-    "https://mathematics1.lervs.ro": 2,
-    "https://ax7.lervs.ro": 1,
-    "https://reading.astrodestin.ro": 2,
-    "https://historyofdinosaurs.dinocol.co.uk": 2,
-    "https://precalculus.textbook.beerporn.org": 2,
-    "https://n8-math.dev": 2,
-    "https://tutoring-services.org": 2
+    "https://hi1.raisingpro.com": 1,
+    "https://hi2.raisingpro.com": 1,
+    "https://hi3.raisingpro.com": 1,
+    "https://hi4.raisingpro.com": 1,
+    "https://mouse.shitteacher.com": 1,
+    "https://g305-1.karjase.ee": 1,
+    "https://g305-2.karjase.ee": 1,
+    "https://g305-3.karjase.ee": 1,
+    "https://g305-4.karjase.ee": 1,
+    "https://cbysk.fxchinese.ca": 1,
+    "https://aivu.losarcos.us": 1,
+    "https://esyk.monedita.cl": 1,
+    "https://dpsgy.albrightscycling.com": 1,
+    "https://ofkn.eastcountywireless.com": 1,
+    "https://yvhv.luxuryroig.com": 1,
+    "https://xcwuz.myfdistribuidora.com.ar": 1,
+    "https://wcgcn.tiatex.com": 1,
+    "https://jkzc.flextron.xyz": 1,
+    "https://rify.hospitaldelninodif.gob.mx": 1,
+    "https://vwwko.monedita.cl": 1,
+    "https://zkyhb.monedita.cl": 1,
+    "https://math.next-education-learning.sbs": 1,
+    "https://ela.next-education-learning.sbs": 1,
+    "https://tbma.gressvikbmx.no": 1,
+    "https://tjnh.gressvikbmx.no": 1,
+    "https://campus.calculus.project.lecture.engineering.everestkc.com.np/onboarding": 1,
+    "http://hmmmmmmmm.monedita.cl/onboarding": 1,
+    "https://youaresosamige.govt.hu/onboarding": 1,
+    "https://yougotme.mysaol.com/onboarding": 1,
+    "https://youaremyfire.verymad.net/onboarding": 1,
+    "https://uhybefvbhuyifvdhiu.cuetara.name/onboarding": 1,
+    "https://iliketoeat.ftp.sh/onboarding": 1,
+    "https://imlikeby2025.hosts.name/onboarding": 1,
+    "https://youareagooner.ovie.gob.mx/onboarding": 1,
+    "https://imsoslay.yodyiam.com/onboarding": 1,
+    "https://youaremysunshine.auszeitseminar.ch/onboarding": 1,
+    "https://infgbifbgijm.cuetara.name/onboarding": 1,
+    "https://dfdfsdfs.rinet.ai/onboarding": 1,
+    "https://imlikefgfgd.rinet.ai/onboarding": 1,
+    "https://food.gostiljerestoran.rs": 1,
+    "https://granit.granit-union.ru": 1,
+    "https://doyourshcoolwork.cuetara.name/onboarding": 1,
+    "https://youaresomean.cuetara.name/onboarding": 1,
+    "https://youlikepoop.cuetara.name/onboarding": 1,
+    "https://eatyourfoodnotmine.rinet.ai/onboarding": 1,
+    "https://somean.rinet.ai/onboarding": 1,
+    "https://justmathgames.auszeitseminar.ch/onboarding": 1,
+    "https://mathgamesarefun.auszeitseminar.ch/onboarding": 1,
+    "https://doyourwork.lyxcorp.com/onboarding": 1,
+    "https://mathgames.lyxcorp.com/onboarding": 1,
+    "https://edudash.edu-spark.top": 1,
+    "https://learningdash.edu-spark.top": 1,
+    "http://teacher.art.science.math.biology.top-povar.ru": 1,
+    "https://edu.agatab.com": 1,
+    "https://edu3.agatab.com": 1,
+    "https://edu4.agatab.com": 1,
+    "https://wildcard.cmstarhely.hu": 1,
+    "https://nav.chisto-pozhit.ru": 1,
+    "https://app.383.li": 1,
+    "https://node.383.li": 1,
+    "https://discover.383.li": 1,
+    "https://return.383.li": 1,
+    "https://def.383.li": 1,
+    "https://h1.383.li": 1,
+    "https://h2.383.li": 1,
+    "https://h3.383.li": 1,
+    "https://h4.383.li": 1,
+    "https://h5.383.li": 1,
+    "https://function.ng1.uk": 1,
+    "https://render.ng1.uk": 1,
+    "https://const.ng1.uk": 1,
+    "https://let.ng1.uk": 1,
+    "https://try.ng1.uk": 1,
+    "https://aside.segurosdepersonas.cl": 1,
+    "https://vek.polden21vek.ru/onboarding": 1,
+    "https://polden.polden21vek.ru/onboarding": 1,
+    "https://21vek.polden21vek.ru/onboarding": 1,
+    "https://21.polden21vek.ru/onboarding": 1,
+    "https://glacier-water.waterloobae.com/onboarding": 1,
+    "https://crops.primeflk.ch/onboarding": 1,
+    "https://learnaboutbillclinton.cencopro.cl": 1,
+    "https://studythemes.com": 1,
+    "https://dtxb.eclipsecastellon.net": 1,
+    "https://godx.eclipsecastellon.net": 1,
+    "https://ldin.eclipsecastellon.net": 1,
+    "https://pxaps.eclipsecastellon.net": 1,
+    "https://yfpo.eclipsecastellon.net": 1,
+    "https://bqvgz.vjason.com": 1,
+    "https://hhbwo.vjason.com": 1,
+    "https://njafv.vjason.com": 1,
+    "https://rmyyx.vjason.com": 1,
+    "https://spflt.vjason.com": 1,
+    "https://dyjcs.warna.ch": 1,
+    "https://migmc.warna.ch": 1,
+    "https://tpqj.warna.ch": 1,
+    "https://wzqyr.warna.ch": 1,
+    "https://yghiw.warna.ch": 1,
+    "https://ggww.cyberninja.ie": 1,
+    "https://mtqs.cyberninja.ie": 1,
+    "https://qyfy.cyberninja.ie": 1,
+    "https://slxo.cyberninja.ie": 1,
+    "https://xunk.cyberninja.ie": 1,
+    "https://adfd.albrightscycling.com": 1,
+    "https://hosh.albrightscycling.com": 1,
+    "https://nrmyp.albrightscycling.com": 1,
+    "https://obcg.albrightscycling.com": 1,
+    "https://zznr.albrightscycling.com": 1,
+    "https://filterbrowser.tiatex.com/onboarding": 1,
+    "https://start.pastorschwittay.com.ar": 1,
+    "https://filter.pilatesfitness.co.uk": 1,
+    "https://contact.maxmir-energy.ru": 1,
+    "https://gfgfgfg.dnswish.com": 1,
+    "https://dfgdfgdfg.maxmir-energy.ru": 1,
+    "https://ghhgvgvgh.maxmir-energy.ru": 1,
+    "https://dffdgdfgdfg.bryankrawetz.com": 1,
+    "https://ffgfgfgfgh.bryankrawetz.com": 1,
+    "https://dgfdfgdfgfgd.fppagos.com": 1,
+    "https://gvcgfhgfhfg.fppagos.com": 1,
+    "https://dffdgdfg.robbinsaviation.com": 1,
+    "https://gote.lervs.ro": 1,
+    "https://qlsp.lervs.ro": 1,
+    "https://tfvsi.lervs.ro": 1,
+    "https://uesln.lervs.ro": 1,
+    "https://zjdrv.lervs.ro": 1,
+    "https://doyourwork.lervs.ro": 1,
+    "https://fdfggdfgdf.lervs.ro": 1,
+    "https://ax7.lervs.ro": 2,
+    "https://hvtzw.reformarchive.com": 1,
+    "https://ohiolearningschools.com": 1,
+    "https://jane.academinctools.pw": 1,
+    "https://jane.agreca.com.ar": 1,
+    "https://your.early.cbcsystems.co.uk": 1,
+    "https://your.lives.work.easternstouch.co.za": 1,
+    "https://galaxy.altonhabitat.info": 1,
+    "https://galaxy.altonhabitat.store": 1,
+    "https://galaxy.altonhabitat.online": 1,
+    "https://bayy.dinocol.co.uk": 1,
+    "https://gujg.dinocol.co.uk": 1,
+    "https://jryy.dinocol.co.uk": 1,
+    "https://rvwn.dinocol.co.uk": 1,
+    "https://snia.dinocol.co.uk": 1,
+    "https://wlakp.dinocol.co.uk": 1,
+    "https://learning.drama.biology.algebra.teacher.japan.is": 1,
+    "https://learning.history.drama.vocabulary.writing.japan.is": 1,
+    "https://winter.snow.coldness.frostbite.frozen.christmas.japan.is": 1,
+    "https://writing.english.assignment.technology.classroom.japan.is": 1,
+    "https://monocal.dinocol.co.uk": 1,
+    "https://greenfn.beerporn.org": 1,
+    "https://belt-frog.beltfrog.com": 1,
+    "https://belt.beltfrog.com": 1,
+    "https://frog-belt.beltfrog.com": 1,
+    "https://frog.beltfrog.com": 1,
+    "https://froggie.beltfrog.com": 1,
+    "https://hjuu.recepist.fi": 1,
+    "https://txfk.recepist.fi": 1,
+    "https://wcir.recepist.fi": 1,
+    "https://zyzp.recepist.fi": 1,
+    "https://programming.grammar.drama.biology.physics.glenoriebakery.com.au": 1,
+    "https://classroom.library.chemistry.learning.music.glenoriebakery.com.au": 1,
+    "https://geography.seminar.campus.engineering.learning.easternstamps.com": 1,
+    "https://moreinfo.wikidelia.net": 1
   },
   "links": [
     {
@@ -4725,620 +4880,12 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://artisticlife.xenopoem.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hatisthemeaningofourexistenceinourlifeofourcurrentreality.xenopoem.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
       "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://christmas.fusionid.fi/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://icantbelieveitsnotbutter.teimporto.cl/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://info.stoke-park.co.uk/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://truffled.lol/?988lifeline.org",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://truffled.lol/?ixl.com",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi.wulabs.org/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://e.mza.com.ar/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://eee.krahl.com.br/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi.birdriver.org/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://it.deltachat.me/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://info.v119.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://uhidk.infotechnology.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://infoo.infotechnology.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://landon.infotechnology.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://learningcomesfirst.madhavkhanal.com.np/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://tuffle.infotechnology.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://sneakers-otoole.lervs.ro/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://carp.teachmetofish.net/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://feel.lervs.ro/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://school.flextron.xyz/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://reading.astrodestin.ro",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://historyofdinosaurs.dinocol.co.uk",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://precalculus.textbook.beerporn.org",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://waguri.real3m.com",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://chance.bull.luck.poloniacruz.com",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://homeworkhelp.mb.doris-safety.com",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://somewhere.find.bull.doris-safety.com",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://mathematics1.lervs.ro",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://n8-math.dev",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍄 Truffled",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://tutoring-services.org",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
     },
     {
       "provider": "🥱 Boredom",

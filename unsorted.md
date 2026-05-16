@@ -1975,3 +1975,6 @@ Move links from here into `list.md` once sorted.
 - https://selevseesa.gpu74.ru
 - https://vcsa.easycharge-batteries.com
 - https://sunsett.cc
+- https://infoo.infotechnology.com
+- https://learningcomesfirst.madhavkhanal.com.np
+- https://tuffle.infotechnology.com
