@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r98",
-    "last_updated": "May 16, 2026",
+    "revision": "r99",
+    "last_updated": "May 17, 2026",
     "unsorted_total": 1975,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,34 +103,33 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-16T19:01:12Z",
-    "checked_at_display": "2026-05-16 19:01 UTC",
+    "checked_at": "2026-05-17T02:48:23Z",
+    "checked_at_display": "2026-05-17 02:48 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 7,
     "added_links": [],
     "removed_links": [
-      "https://geography.seminar.campus.engineering.learning.easternstamps.com"
+      "https://player-nation.kellerzahnarzt.ch",
+      "https://realvcsa.fineone.ru",
+      "https://vseesa-yt.machophd.org",
+      "https://cherri.lalitakc.com.np",
+      "https://playernation.darkroom-lang.org",
+      "https://realvcsa.castemag.com",
+      "https://youtube.com.vcsa.lalitakc.com.np"
     ]
   },
   "failing_links": {
-    "https://clever.com.rodzinnawiez.pl": 1,
-    "https://clever.com.eastcountywireless.com": 1,
-    "https://player-nation.kellerzahnarzt.ch": 2,
-    "https://realvcsa.fineone.ru": 2,
-    "https://vseesa-yt.machophd.org": 2,
-    "https://photoshoot.estudiodebiaggi.com.ar": 1,
-    "https://cherri.lalitakc.com.np": 2,
-    "https://playernation.darkroom-lang.org": 2,
-    "https://realvcsa.castemag.com": 2,
-    "https://youtube.com.vcsa.lalitakc.com.np": 2,
-    "https://clever.com.dmc219.com": 1,
-    "https://clever.com.londonwhiteeagles.ca": 1,
-    "https://clever.com.srijanakhadka.com.np": 1,
-    "https://bogisgoingtotheleague.my.to": 1,
-    "https://15.204.247.166.nar0.com": 2,
-    "https://learnaboutbillclinton.bisblick.org": 2,
-    "https://vikvippro-canlitev2.geobattery.com": 1,
-    "https://computers.recepist.fi": 1
+    "https://aphistorytutoring.tjarba.com": 1,
+    "https://clever.com.rodzinnawiez.pl": 2,
+    "https://clever.com.eastcountywireless.com": 2,
+    "https://photoshoot.estudiodebiaggi.com.ar": 2,
+    "https://clever.com.dmc219.com": 2,
+    "https://clever.com.londonwhiteeagles.ca": 2,
+    "https://clever.com.srijanakhadka.com.np": 2,
+    "https://aphistorytutoring.cencopro.cl": 1,
+    "https://ax7.lervs.ro": 1,
+    "https://vikvippro-canlitev2.geobattery.com": 2,
+    "https://computers.recepist.fi": 2
   },
   "links": [
     {
@@ -22155,25 +22154,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://player-nation.kellerzahnarzt.ch/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🤍 Lucide",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -22193,45 +22173,7 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://realvcsa.fineone.ru/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🤍 Lucide",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://s3.amazonaws.com/lucidestatic/index.html",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🤍 Lucide",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://vseesa-yt.machophd.org/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -27376,82 +27318,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌸 Cherri",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://cherri.lalitakc.com.np/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌸 Cherri",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://playernation.darkroom-lang.org/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌸 Cherri",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://realvcsa.castemag.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌸 Cherri",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://youtube.com.vcsa.lalitakc.com.np/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "💙 LuminalOS",
