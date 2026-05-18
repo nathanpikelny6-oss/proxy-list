@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r100",
-    "last_updated": "May 17, 2026",
+    "revision": "r101",
+    "last_updated": "May 18, 2026",
     "unsorted_total": 1977,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,17 +103,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-17T19:05:04Z",
-    "checked_at_display": "2026-05-17 19:05 UTC",
+    "checked_at": "2026-05-18T02:58:35Z",
+    "checked_at_display": "2026-05-18 02:58 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://winer.wine-software.com",
+      "https://canliteistuff.chickenkiller.com"
+    ]
   },
   "failing_links": {
-    "https://everest-bot-is-being-verified-by-discord.lervs.ro": 1,
-    "https://winer.wine-software.com": 2,
-    "https://canliteistuff.chickenkiller.com": 2
+    "https://bogisgoingtotheleague.my.to": 1,
+    "https://15.204.247.166.nar0.com": 1,
+    "https://learnaboutbillclinton.daybits.net": 1
   },
   "links": [
     {
@@ -14860,25 +14863,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://winer.wine-software.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🎮 Rosin",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://slayers.e-c-h-o.tw",
       "found": "5/2/2026",
       "username": "N/A",
@@ -24541,25 +24525,6 @@
       ],
       "locked": "",
       "link": "https://math.questions.mfontcuberta.es",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📡 CanLite",
-      "category": "Proxy",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://canliteistuff.chickenkiller.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
