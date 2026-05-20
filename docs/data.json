@@ -103,17 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-20T02:55:32Z",
-    "checked_at_display": "2026-05-20 02:55 UTC",
+    "checked_at": "2026-05-20T09:26:57Z",
+    "checked_at_display": "2026-05-20 09:26 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://utopia.forkfront.com": 1,
-    "https://15.204.247.166.nar0.com": 1,
-    "https://nkorea.dinocol.co.uk": 1
+    "https://utopia.forkfront.com": 2,
+    "https://15.204.247.166.nar0.com": 2,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1
   },
   "links": [
     {
