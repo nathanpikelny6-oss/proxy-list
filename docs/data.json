@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r106",
+    "revision": "r107",
     "last_updated": "May 21, 2026",
     "unsorted_total": 1983,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,22 +103,26 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-21T09:35:53Z",
-    "checked_at_display": "2026-05-21 09:35 UTC",
+    "checked_at": "2026-05-21T15:00:29Z",
+    "checked_at_display": "2026-05-21 15:00 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 5,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://lightspeedistrash.galtex.ca",
+      "https://biology.student.assignment.algebra.history.galtex.ca",
+      "https://assignment.classroom.teacher.technology.writing.galtex.ca",
+      "https://campus.engineering.programming.reading.library.galtex.ca",
+      "https://grammar.algebra.computer.science.campus.galtex.ca"
+    ]
   },
   "failing_links": {
-    "https://lightspeedistrash.galtex.ca": 2,
-    "https://learnaboutbillclinton.daybits.net": 1,
-    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
-    "https://nkorea.dinocol.co.uk": 1,
-    "https://biology.student.assignment.algebra.history.galtex.ca": 2,
-    "https://assignment.classroom.teacher.technology.writing.galtex.ca": 2,
-    "https://campus.engineering.programming.reading.library.galtex.ca": 2,
-    "https://grammar.algebra.computer.science.campus.galtex.ca": 2
+    "https://51.222.206.184.ip.ipq.co": 1,
+    "https://bogisgoingtotheleague.my.to": 1,
+    "https://wyattrules.aber.ir": 1,
+    "https://duisburg.hoohaamelbourne.com.au": 1,
+    "https://hagia.gressvikbmx.no": 1,
+    "https://nkorea.dinocol.co.uk": 2
   },
   "links": [
     {
@@ -20442,25 +20446,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://lightspeedistrash.galtex.ca/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🖤 Void Network",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://lightspeedistrash.mybgarage.cl/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -21165,25 +21150,6 @@
       ],
       "locked": "",
       "link": "https://voiddder.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🖤 Void Network",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://lightspeedistrash.galtex.ca",
       "found": "5/6/2026",
       "username": "N/A",
       "password": "N/A",
@@ -24678,25 +24644,6 @@
       ],
       "locked": "",
       "link": "https://teacher.engineering.drama.english.student.enjoywalensee.ch",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧭 Otonic",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://biology.student.assignment.algebra.history.galtex.ca",
       "found": "5/6/2026",
       "username": "N/A",
       "password": "N/A",
@@ -28593,63 +28540,6 @@
       ],
       "locked": "",
       "link": "https://programming.english.reading.classroom.chemistry.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "Strongdog",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://assignment.classroom.teacher.technology.writing.galtex.ca",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "Strongdog",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://campus.engineering.programming.reading.library.galtex.ca",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "Strongdog",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://grammar.algebra.computer.science.campus.galtex.ca",
       "found": "5/6/2026",
       "username": "N/A",
       "password": "N/A",
