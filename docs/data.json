@@ -103,22 +103,22 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-21T02:58:59Z",
-    "checked_at_display": "2026-05-21 02:58 UTC",
+    "checked_at": "2026-05-21T09:35:53Z",
+    "checked_at_display": "2026-05-21 09:35 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://qe1vo043fwin.ktx.ro"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://lightspeedistrash.galtex.ca": 1,
-    "https://learnaboutbillclinton.cencopro.cl": 2,
-    "https://biology.student.assignment.algebra.history.galtex.ca": 1,
-    "https://assignment.classroom.teacher.technology.writing.galtex.ca": 1,
-    "https://campus.engineering.programming.reading.library.galtex.ca": 1,
-    "https://grammar.algebra.computer.science.campus.galtex.ca": 1
+    "https://lightspeedistrash.galtex.ca": 2,
+    "https://learnaboutbillclinton.daybits.net": 1,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
+    "https://nkorea.dinocol.co.uk": 1,
+    "https://biology.student.assignment.algebra.history.galtex.ca": 2,
+    "https://assignment.classroom.teacher.technology.writing.galtex.ca": 2,
+    "https://campus.engineering.programming.reading.library.galtex.ca": 2,
+    "https://grammar.algebra.computer.science.campus.galtex.ca": 2
   },
   "links": [
     {
