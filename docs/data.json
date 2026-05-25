@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r110",
-    "last_updated": "May 24, 2026",
+    "revision": "r111",
+    "last_updated": "May 25, 2026",
     "unsorted_total": 1983,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,28 +103,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-25T03:32:15Z",
-    "checked_at_display": "2026-05-25 03:32 UTC",
+    "checked_at": "2026-05-25T09:59:55Z",
+    "checked_at_display": "2026-05-25 09:59 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 3,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://mathissofunicoulddoitfordaysonend.aber.ir",
+      "https://wyattrules.aber.ir",
+      "https://clapclapclapclapinthebed.aber.ir"
+    ]
   },
   "failing_links": {
-    "https://nirbyteslove.comaschitech.com": 1,
-    "https://subnirbytesyt.comaschitech.com": 1,
-    "https://ilovenirbytes.gerenna.com": 1,
-    "https://nirbytescheesy.savequeechylake.org": 1,
-    "https://nirbytesisback.thelich.monster": 1,
-    "https://15.204.247.166.nar0.com": 1,
-    "https://careers.asistdoc.ar": 1,
-    "https://mathissofunicoulddoitfordaysonend.aber.ir": 2,
-    "https://wyattrules.aber.ir": 2,
-    "https://clapclapclapclapinthebed.aber.ir": 2,
-    "https://pr.evelynslost.party": 1,
-    "https://if0po4u5ejq3.thisoldrack.us": 1,
-    "https://tuffmango.grahammurryinsuranceagency.com": 1,
-    "https://cheesyweb.tech": 1
+    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
+    "https://careers.asistdoc.ar": 2,
+    "https://if0po4u5ejq3.thisoldrack.us": 2
   },
   "links": [
     {
@@ -21436,44 +21429,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://mathissofunicoulddoitfordaysonend.aber.ir/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🦄 Utopia Education",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://wyattrules.aber.ir/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🦄 Utopia Education",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://bum.education/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -21589,25 +21544,6 @@
       ],
       "locked": "",
       "link": "https://gov.usa.agmlabs.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🦄 Utopia Education",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://clapclapclapclapinthebed.aber.ir",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",

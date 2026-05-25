@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r110 | Last Updated: May 24, 2026
+> r111 | Last Updated: May 25, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -1495,7 +1495,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | unknown | 26 |
+> | Proxy/Games | unknown | unknown | 23 |
 
 > [!IMPORTANT]
 > Utopia Education does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -1514,8 +1514,6 @@ Fixed a security vulnerability.
 | | https://utipia.choco.rinet.ai/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://alexlol.mooo.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://this-is-the-future.casadotricolor.com.br/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://mathissofunicoulddoitfordaysonend.aber.ir/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://wyattrules.aber.ir/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://bum.education/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://www.youtube.com.dinocol.co.uk | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://theory.grade.bamastuff.com | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
@@ -1523,7 +1521,6 @@ Fixed a security vulnerability.
 | | https://sub.to.square-hippo.fritsche.org | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://sub.to.square-hippo.meshtastic.hu | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://gov.usa.agmlabs.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://clapclapclapclapinthebed.aber.ir | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://utopia-da-best.310386.xyz | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://educationlessons.crabdance.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://grade.recap.europeserv.org | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
