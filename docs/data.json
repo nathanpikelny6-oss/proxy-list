@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r112",
-    "last_updated": "May 25, 2026",
+    "revision": "r113",
+    "last_updated": "May 26, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,42 +103,38 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-26T02:52:13Z",
-    "checked_at_display": "2026-05-26 02:52 UTC",
+    "checked_at": "2026-05-26T09:49:14Z",
+    "checked_at_display": "2026-05-26 09:49 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://pamson.pl.whencloudsfail.org"
+    ]
   },
   "failing_links": {
-    "https://aphistorytutoring.tjarba.com": 1,
-    "https://light.everest.speed.gressvikbmx.no": 1,
-    "https://experiments.nasa.casadotricolor.com.br": 1,
-    "https://science.rules.aayushbhandari.com.np": 1,
-    "https://apsciencetutoring.luhe.tw/#home": 1,
-    "https://sainttech.techmaxasia.com/#home": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://1928.lervs.ro": 1,
-    "https://1929.lervs.ro": 1,
-    "https://676767.lervs.ro": 1,
-    "https://everest-bot-is-being-verified-by-discord.lervs.ro": 1,
-    "https://gerthewths.lervs.ro": 1,
-    "https://mrchiaisgoated.lervs.ro": 1,
-    "https://oiplslahguys.lervs.ro": 1,
-    "https://pamson.pl.whencloudsfail.org": 2,
-    "https://chickenforsale.marki.my": 1,
-    "https://climboneverest.wikidelia.net": 1,
-    "https://everestiscold.wikidelia.net": 1,
-    "https://everestishigh.wikidelia.net": 1,
-    "https://mteverest.wikidelia.net": 1,
-    "https://whyeverestsotall.wikidelia.net": 1,
-    "https://scienceiskey.wikidelia.net": 1,
-    "https://biologicalhomework.wikidelia.net": 1,
-    "https://ip140.ip-15-204-150.us": 1,
-    "https://ckvgoated.wikidelia.net": 1,
-    "https://ilovechiken.wikidelia.net": 1,
-    "https://rrreally.wikidelia.net": 1,
-    "https://supermathwork.wikidelia.net": 1
+    "https://light.everest.speed.gressvikbmx.no": 2,
+    "https://sainttech.techmaxasia.com/#home": 2,
+    "https://1928.lervs.ro": 2,
+    "https://1929.lervs.ro": 2,
+    "https://676767.lervs.ro": 2,
+    "https://everest-bot-is-being-verified-by-discord.lervs.ro": 2,
+    "https://gerthewths.lervs.ro": 2,
+    "https://mrchiaisgoated.lervs.ro": 2,
+    "https://oiplslahguys.lervs.ro": 2,
+    "https://chickenforsale.marki.my": 2,
+    "https://nkorea.dinocol.co.uk": 1,
+    "https://climboneverest.wikidelia.net": 2,
+    "https://everestiscold.wikidelia.net": 2,
+    "https://everestishigh.wikidelia.net": 2,
+    "https://mteverest.wikidelia.net": 2,
+    "https://whyeverestsotall.wikidelia.net": 2,
+    "https://biologicalhomework.wikidelia.net": 2,
+    "https://ip140.ip-15-204-150.us": 2,
+    "https://ckvgoated.wikidelia.net": 2,
+    "https://ilovechiken.wikidelia.net": 2,
+    "https://rrreally.wikidelia.net": 2,
+    "https://supermathwork.wikidelia.net": 2
   },
   "links": [
     {
@@ -15018,25 +15014,6 @@
       ],
       "locked": "",
       "link": "https://oklahoma.bloomer.network.computer.bamastuff.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🎮 Rosin",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://pamson.pl.whencloudsfail.org",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
