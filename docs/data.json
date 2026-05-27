@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r114",
-    "last_updated": "May 26, 2026",
+    "revision": "r115",
+    "last_updated": "May 27, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,26 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-27T15:34:16Z",
-    "checked_at_display": "2026-05-27 15:34 UTC",
+    "checked_at": "2026-05-27T20:11:46Z",
+    "checked_at_display": "2026-05-27 20:11 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://nkorea.dinocol.co.uk"
+    ]
   },
   "failing_links": {
-    "https://update.5432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://76update.www.www.www.www.www.www.158-69-222-114.sslip.io": 1,
-    "https://ehcbadcbedcbaupdate.1432update.update.76update.158-69-222-114.sslip.io": 1,
-    "https://onmlkfehgfeupdate.update.218765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://32update.2sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://432www.update.update.76update.158-69-222-114.sslip.io": 1,
-    "https://nmlkjmlkjihupdate.update.987298765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://51.222.206.184.dyn.tcadmin.net": 1,
-    "https://15.204.247.166.dyn.tcadmin.net": 1,
-    "https://15.204.247.166.xip.lhjmmc.cn": 1,
-    "https://15.204.247.166.nar0.com": 1,
-    "https://nkorea.dinocol.co.uk": 2
+    "https://ktxcfvocsm.meshtastic.hu": 1
   },
   "links": [
     {
@@ -28865,25 +28856,6 @@
       "locked": "",
       "link": "https://math.science.lervs.ro",
       "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌟 Starlight",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://nkorea.dinocol.co.uk",
-      "found": "5/4/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
