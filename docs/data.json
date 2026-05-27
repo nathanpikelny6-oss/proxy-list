@@ -103,15 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-27T03:30:02Z",
-    "checked_at_display": "2026-05-27 03:30 UTC",
+    "checked_at": "2026-05-27T09:40:42Z",
+    "checked_at_display": "2026-05-27 09:40 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 1
+    "https://15.204.247.166.devns.me": 1,
+    "https://apsciencetutoring.luhe.tw/#home": 1,
+    "https://nkorea.dinocol.co.uk": 1
   },
   "links": [
     {
