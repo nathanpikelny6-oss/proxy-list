@@ -103,30 +103,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-30T02:47:49Z",
-    "checked_at_display": "2026-05-30 02:47 UTC",
+    "checked_at": "2026-05-30T08:25:15Z",
+    "checked_at_display": "2026-05-30 08:25 UTC",
     "added_count": 0,
-    "removed_count": 2,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://topenglish.savitaipaleenmusiikkikoulu.fi",
-      "https://pn.org.savitaipaleenmusiikkikoulu.fi"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://aphistorytutoring.tjarba.com": 1,
-    "https://apsciencetutoring.luhe.tw/#home": 1,
-    "https://sainttech.techmaxasia.com/#home": 1,
-    "https://ciaworldfactbook.daybits.net": 1,
-    "https://learnaboutbillclinton.daybits.net": 1,
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 2,
-    "https://aphistorytutoring.cencopro.cl": 1,
-    "https://learnaboutbillclinton.cencopro.cl": 1,
-    "https://aphistorytutoring.bisblick.org": 1,
-    "https://learnaboutbillclinton.bisblick.org": 1,
-    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
-    "https://frog.alex.rf.gd": 1,
-    "https://uujeznek.94-16-31-161.anyip.dev": 1
+    "https://mathematics.calculus.reformarchive.com": 1,
+    "https://english.seminar.lervs.ro": 1,
+    "https://math.science.lervs.ro": 1,
+    "https://frog.alex.rf.gd": 2,
+    "https://korona.alex.rf.gd": 1,
+    "https://suntree.alex.rf.gd": 1
   },
   "links": [
     {
