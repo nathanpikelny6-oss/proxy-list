@@ -1,8 +1,11 @@
 {
-  "checked_at": "2026-05-29T20:21:29Z",
-  "checked_at_display": "2026-05-29 20:21 UTC",
+  "checked_at": "2026-05-30T02:47:49Z",
+  "checked_at_display": "2026-05-30 02:47 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 2,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://topenglish.savitaipaleenmusiikkikoulu.fi",
+    "https://pn.org.savitaipaleenmusiikkikoulu.fi"
+  ]
 }

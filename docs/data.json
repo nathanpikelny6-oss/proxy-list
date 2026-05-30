@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r118",
-    "last_updated": "May 29, 2026",
+    "revision": "r119",
+    "last_updated": "May 30, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,20 +103,30 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-29T20:21:29Z",
-    "checked_at_display": "2026-05-29 20:21 UTC",
+    "checked_at": "2026-05-30T02:47:49Z",
+    "checked_at_display": "2026-05-30 02:47 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://topenglish.savitaipaleenmusiikkikoulu.fi",
+      "https://pn.org.savitaipaleenmusiikkikoulu.fi"
+    ]
   },
   "failing_links": {
-    "https://pn.org.savitaipaleenmusiikkikoulu.fi": 2,
-    "https://15.204.247.166.nar0.com": 2,
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 1,
-    "https://topenglish.savitaipaleenmusiikkikoulu.fi": 2,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://l.global.ssl.fastly.net": 1
+    "https://aphistorytutoring.tjarba.com": 1,
+    "https://apsciencetutoring.luhe.tw/#home": 1,
+    "https://sainttech.techmaxasia.com/#home": 1,
+    "https://ciaworldfactbook.daybits.net": 1,
+    "https://learnaboutbillclinton.daybits.net": 1,
+    "https://imsovainthatinamelinksaftermyself.tjarba.com": 2,
+    "https://aphistorytutoring.cencopro.cl": 1,
+    "https://learnaboutbillclinton.cencopro.cl": 1,
+    "https://aphistorytutoring.bisblick.org": 1,
+    "https://learnaboutbillclinton.bisblick.org": 1,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
+    "https://frog.alex.rf.gd": 1,
+    "https://uujeznek.94-16-31-161.anyip.dev": 1
   },
   "links": [
     {
@@ -7020,25 +7030,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://topenglish.savitaipaleenmusiikkikoulu.fi/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "👤 Shadow",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://rapidlogic.kiddphunk.com/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -8665,26 +8656,6 @@
       ],
       "locked": "",
       "link": "https://ixl.vseesa.edujose.com/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://pn.org.savitaipaleenmusiikkikoulu.fi/",
       "found": "4/27/2026",
       "username": "N/A",
       "password": "N/A",
