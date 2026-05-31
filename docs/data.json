@@ -103,19 +103,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-05-30T19:08:00Z",
-    "checked_at_display": "2026-05-30 19:08 UTC",
+    "checked_at": "2026-05-31T03:30:48Z",
+    "checked_at_display": "2026-05-31 03:30 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://korona.alex.rf.gd"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://aphistorytutoring.tjarba.com": 1,
-    "https://apsciencetutoring.luhe.tw/#home": 1,
-    "https://15.204.247.166.nar0.com": 2
+    "https://ubg.bucket-ported.workers.dev": 1,
+    "https://suntree.alex.rf.gd": 1
   },
   "links": [
     {
