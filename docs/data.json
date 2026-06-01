@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r122",
-    "last_updated": "May 31, 2026",
+    "revision": "r123",
+    "last_updated": "June 01, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,20 +103,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-01T03:42:57Z",
-    "checked_at_display": "2026-06-01 03:42 UTC",
+    "checked_at": "2026-06-01T11:27:25Z",
+    "checked_at_display": "2026-06-01 11:27 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://cdn.statically.io/gh/darkdragonzxs/zd-pages@main/svg.svg"
+    ]
   },
   "failing_links": {
-    "https://15.204.247.166.devns.me": 1,
-    "https://cdn.statically.io/gh/darkdragonzxs/zd-pages@main/svg.svg": 2,
-    "https://teachme.codeshs.org": 1,
-    "https://aphistorytutoring.bisblick.org": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://hvtzw.reformarchive.com": 1
+    "https://15.204.247.166.nar0.com": 1,
+    "https://ciaworldfactbook.daybits.net": 1,
+    "https://aphistorytutoring.bisblick.org": 2,
+    "https://uujeznek.94-16-31-161.anyip.dev": 1
   },
   "links": [
     {
@@ -16922,23 +16922,6 @@
       "protocol_tags": [],
       "locked": "",
       "link": "https://sites.google.com/view/psycholigy/home",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "♈ Zodiac",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "N/A",
-      "protocol_tags": [],
-      "locked": "",
-      "link": "https://cdn.statically.io/gh/darkdragonzxs/zd-pages@main/svg.svg",
       "found": "4/21/2026",
       "username": "N/A",
       "password": "N/A",

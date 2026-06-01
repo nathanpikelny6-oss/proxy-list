@@ -1,8 +1,10 @@
 {
-  "checked_at": "2026-06-01T03:42:57Z",
-  "checked_at_display": "2026-06-01 03:42 UTC",
+  "checked_at": "2026-06-01T11:27:25Z",
+  "checked_at_display": "2026-06-01 11:27 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://cdn.statically.io/gh/darkdragonzxs/zd-pages@main/svg.svg"
+  ]
 }
