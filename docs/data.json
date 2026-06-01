@@ -103,20 +103,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-01T11:27:25Z",
-    "checked_at_display": "2026-06-01 11:27 UTC",
+    "checked_at": "2026-06-01T17:33:20Z",
+    "checked_at_display": "2026-06-01 17:33 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://cdn.statically.io/gh/darkdragonzxs/zd-pages@main/svg.svg"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://15.204.247.166.nar0.com": 1,
-    "https://ciaworldfactbook.daybits.net": 1,
-    "https://aphistorytutoring.bisblick.org": 2,
-    "https://uujeznek.94-16-31-161.anyip.dev": 1
+    "https://yowsgyo.sinuabi.ee": 1,
+    "https://15.204.247.166.nar0.com": 2,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
+    "https://mathematics.calculus.reformarchive.com": 1,
+    "https://english.seminar.lervs.ro": 1,
+    "https://math.science.lervs.ro": 1
   },
   "links": [
     {
