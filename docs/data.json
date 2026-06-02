@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r124",
+    "revision": "r125",
     "last_updated": "June 02, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,23 +103,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-02T10:18:14Z",
-    "checked_at_display": "2026-06-02 10:18 UTC",
+    "checked_at": "2026-06-02T16:18:12Z",
+    "checked_at_display": "2026-06-02 16:18 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://quiz.numbercraftacademy.com/page.html"
+    ]
   },
   "failing_links": {
-    "https://sainttech.techmaxasia.com/#home": 1,
-    "https://shop.educationaltoys.store": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://api.academinctools.pw": 1,
-    "https://educational-site.academinctools.pw": 1,
-    "https://hvtzw.reformarchive.com": 1,
-    "https://math.schoolforlife.online": 1,
-    "https://golflefleur.tutoring.rest/actual.html": 1,
-    "https://quiz.numbercraftacademy.com/page.html": 2
+    "https://ciphernetwork.surak.kz": 1,
+    "https://15.204.247.166.nar0.com": 1,
+    "https://shop.educationaltoys.store": 2,
+    "https://api.academinctools.pw": 2,
+    "https://educational-site.academinctools.pw": 2,
+    "https://math.schoolforlife.online": 2,
+    "https://golflefleur.tutoring.rest/actual.html": 2
   },
   "links": [
     {
@@ -30375,25 +30375,6 @@
       "locked": "",
       "link": "https://xylora.rust.rusticrivergear.com",
       "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "👟 Nikehub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://quiz.numbercraftacademy.com/page.html",
-      "found": "5/4/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
