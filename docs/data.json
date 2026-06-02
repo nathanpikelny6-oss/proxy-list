@@ -103,18 +103,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-02T03:38:57Z",
-    "checked_at_display": "2026-06-02 03:38 UTC",
+    "checked_at": "2026-06-02T10:18:14Z",
+    "checked_at_display": "2026-06-02 10:18 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://yowsgyo.sinuabi.ee"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://15.204.247.166.nar0.com": 1,
-    "https://quiz.numbercraftacademy.com/page.html": 1
+    "https://sainttech.techmaxasia.com/#home": 1,
+    "https://shop.educationaltoys.store": 1,
+    "https://ktxcfvocsm.meshtastic.hu": 1,
+    "https://api.academinctools.pw": 1,
+    "https://educational-site.academinctools.pw": 1,
+    "https://hvtzw.reformarchive.com": 1,
+    "https://math.schoolforlife.online": 1,
+    "https://golflefleur.tutoring.rest/actual.html": 1,
+    "https://quiz.numbercraftacademy.com/page.html": 2
   },
   "links": [
     {
