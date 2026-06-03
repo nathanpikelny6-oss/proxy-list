@@ -103,23 +103,33 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-03T10:53:14Z",
-    "checked_at_display": "2026-06-03 10:53 UTC",
+    "checked_at": "2026-06-03T16:43:16Z",
+    "checked_at_display": "2026-06-03 16:43 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://english.highschoolacademy.online": 1,
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 1,
-    "https://aphistorytutoring.bisblick.org": 1,
-    "https://learn.mathnotes.online": 1,
-    "https://k12learning.mathnotes.online": 1,
-    "https://learning.mathnotes.online": 1,
-    "https://api.academinctools.pw": 1,
-    "https://educational-site.academinctools.pw": 1,
-    "https://golflefleur.tutoring.rest/actual.html": 1
+    "https://english.highschoolacademy.online": 2,
+    "https://15.204.247.166.nar0.com": 1,
+    "https://imsovainthatinamelinksaftermyself.tjarba.com": 2,
+    "https://learn.mathnotes.online": 2,
+    "https://k12learning.mathnotes.online": 2,
+    "https://learning.mathnotes.online": 2,
+    "https://learnaboutbillclinton.scrapitsoftware.com": 1,
+    "https://api.academinctools.pw": 2,
+    "https://educational-site.academinctools.pw": 2,
+    "https://hvtzw.reformarchive.com": 1,
+    "https://update.update.update.bananaschool.duckdns.org": 1,
+    "https://update.update.update.test.bananaschool.duckdns.org": 1,
+    "https://update.update.update.update.dev.bananaschool.duckdns.org": 1,
+    "https://update.update.www.www.test.bananaschool.duckdns.org": 1,
+    "https://www.ijzaoxia.www.www.admin.dev.bananaschool.duckdns.org": 1,
+    "https://www.update.jguutivl.update.admin.dev.bananaschool.duckdns.org": 1,
+    "https://golflefleur.tutoring.rest/actual.html": 2,
+    "https://bull.interluxvs.com": 1,
+    "https://pls.speed.i.need.this.interluxvs.com": 1
   },
   "links": [
     {
