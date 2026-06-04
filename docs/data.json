@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r128",
-    "last_updated": "June 03, 2026",
+    "revision": "r129",
+    "last_updated": "June 04, 2026",
     "unsorted_total": 1984,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,21 +103,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-04T14:53:09Z",
-    "checked_at_display": "2026-06-04 14:53 UTC",
+    "checked_at": "2026-06-04T20:01:57Z",
+    "checked_at_display": "2026-06-04 20:01 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 4,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://frosted.webinfo.tw",
+      "https://frosted.numbercraftacademy.com",
+      "https://api.notariamelipilla.cl",
+      "https://frosted.vta-international.com"
+    ]
   },
   "failing_links": {
-    "https://aphistorytutoring.tjarba.com": 1,
-    "https://aphistorytutoring.bisblick.org": 1,
-    "https://learnaboutbillclinton.bisblick.org": 1,
-    "https://frosted.webinfo.tw": 2,
-    "https://frosted.numbercraftacademy.com": 2,
-    "https://api.notariamelipilla.cl": 2,
-    "https://frosted.vta-international.com": 2
+    "https://site.nhd.org/11595885/home": 1,
+    "https://15.204.247.166.nar0.com": 1
   },
   "links": [
     {
@@ -29765,82 +29765,6 @@
       "password": "N/A",
       "contributor": "yourworstnightmare1",
       "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❄️ Frosted",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://frosted.webinfo.tw",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "❄️ Frosted",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://frosted.numbercraftacademy.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "❄️ Frosted",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://api.notariamelipilla.cl",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "❄️ Frosted",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://frosted.vta-international.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
     },
     {
       "provider": "🚀 Shuttle",
