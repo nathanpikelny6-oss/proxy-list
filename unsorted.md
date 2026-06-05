@@ -1987,3 +1987,4 @@ Move links from here into `list.md` once sorted.
 - https://xlx17ih9jjxe.pjabbari.com/proxe
 - https://otofa2e9co5s.toconline.ch/proxe
 - https://careers.asistdoc.ar
+- https://ciaworldfactbook.daybits.net
