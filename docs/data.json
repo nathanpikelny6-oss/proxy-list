@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r132",
+    "revision": "r133",
     "last_updated": "June 06, 2026",
     "unsorted_total": 1992,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,54 +103,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-06T08:30:31Z",
-    "checked_at_display": "2026-06-06 08:30 UTC",
+    "checked_at": "2026-06-06T13:25:37Z",
+    "checked_at_display": "2026-06-06 13:25 UTC",
     "added_count": 0,
-    "removed_count": 31,
+    "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://supplies.artsineducation.net",
-      "https://wildcard.collegeessayexamples.net/#home",
-      "https://aphistorytutoring.tjarba.com",
-      "https://we.are.highdesertcoders.com",
-      "https://wildcard.grittytravel.com",
-      "https://sixseven.acphighschool.org/#home",
-      "https://jfd.schoolsandtravel.com",
-      "https://1.schoolsandtravel.com/#home",
-      "https://2.schoolsandtravel.com/#home",
-      "https://3.schoolsandtravel.com/#home",
-      "https://4.schoolsandtravel.com/#home",
-      "https://5.schoolsandtravel.com/#home",
-      "https://6.schoolsandtravel.com/#home",
-      "https://7.schoolsandtravel.com/#home",
-      "https://8.schoolsandtravel.com/#home",
-      "https://9.schoolsandtravel.com/#home",
-      "https://10.schoolsandtravel.com/#home",
-      "https://11.schoolsandtravel.com/#home",
-      "https://12.schoolsandtravel.com/#home",
-      "https://13.schoolsandtravel.com/#home",
-      "https://14.schoolsandtravel.com/#home",
-      "https://15.schoolsandtravel.com/#home",
-      "https://apsciencetutoring.luhe.tw/#home",
-      "https://sainttech.techmaxasia.com/#home",
-      "https://learnaboutbillclinton.daybits.net",
-      "https://imsovainthatinamelinksaftermyself.tjarba.com",
-      "https://aphistorytutoring.cencopro.cl",
-      "https://learnaboutbillclinton.cencopro.cl",
-      "https://aphistorytutoring.bisblick.org",
-      "https://learnaboutbillclinton.bisblick.org",
-      "https://learnaboutbillclinton.scrapitsoftware.com"
+      "https://ixlwork.storage.googleapis.com/index.html"
     ]
   },
   "failing_links": {
-    "https://51.222.206.184.devns.me": 2,
-    "https://ixlwork.storage.googleapis.com/index.html": 2,
-    "https://dwfo7z3f9nigf.cloudfront.net/index.html": 2,
-    "https://d1ks901xvjj2p6.cloudfront.net/index.html": 2,
-    "https://div7ikqm4o515.cloudfront.net": 2,
-    "https://update.www.www.dev.bananaschool.duckdns.org": 1,
-    "https://awcqihoe.bananaschool.duckdns.org": 1,
-    "https://toviqrwn.bananaschool.duckdns.org": 1
+    "https://51.222.206.184.my.local-ip.co": 1,
+    "https://15.204.247.166.my.local-ip.co": 1,
+    "https://15.204.247.166.nar0.com": 1
   },
   "links": [
     {
@@ -4574,25 +4539,6 @@
       ],
       "locked": "",
       "link": "https://1.tellurideeducationassociation.org/",
-      "found": "4/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "💨 Vapor",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://ixlwork.storage.googleapis.com/index.html",
       "found": "4/17/2026",
       "username": "N/A",
       "password": "N/A",
