@@ -1988,3 +1988,10 @@ Move links from here into `list.md` once sorted.
 - https://otofa2e9co5s.toconline.ch/proxe
 - https://careers.asistdoc.ar
 - https://ciaworldfactbook.daybits.net
+- https://aphistorytutoring.bisblick.org
+- https://aphistorytutoring.cencopro.cl
+- https://aphistorytutoring.tjarba.com
+- https://imsovainthatinamelinksaftermyself.tjarba.com
+- https://learnaboutbillclinton.bisblick.org
+- https://learnaboutbillclinton.cencopro.cl
+- https://learnaboutbillclinton.daybits.net

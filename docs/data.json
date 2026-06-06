@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r131",
-    "last_updated": "June 05, 2026",
-    "unsorted_total": 1985,
+    "revision": "r132",
+    "last_updated": "June 06, 2026",
+    "unsorted_total": 1992,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -103,67 +103,56 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-06T02:50:32Z",
-    "checked_at_display": "2026-06-06 02:50 UTC",
+    "checked_at": "2026-06-06T08:30:31Z",
+    "checked_at_display": "2026-06-06 08:30 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 31,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://supplies.artsineducation.net",
+      "https://wildcard.collegeessayexamples.net/#home",
+      "https://aphistorytutoring.tjarba.com",
+      "https://we.are.highdesertcoders.com",
+      "https://wildcard.grittytravel.com",
+      "https://sixseven.acphighschool.org/#home",
+      "https://jfd.schoolsandtravel.com",
+      "https://1.schoolsandtravel.com/#home",
+      "https://2.schoolsandtravel.com/#home",
+      "https://3.schoolsandtravel.com/#home",
+      "https://4.schoolsandtravel.com/#home",
+      "https://5.schoolsandtravel.com/#home",
+      "https://6.schoolsandtravel.com/#home",
+      "https://7.schoolsandtravel.com/#home",
+      "https://8.schoolsandtravel.com/#home",
+      "https://9.schoolsandtravel.com/#home",
+      "https://10.schoolsandtravel.com/#home",
+      "https://11.schoolsandtravel.com/#home",
+      "https://12.schoolsandtravel.com/#home",
+      "https://13.schoolsandtravel.com/#home",
+      "https://14.schoolsandtravel.com/#home",
+      "https://15.schoolsandtravel.com/#home",
+      "https://apsciencetutoring.luhe.tw/#home",
+      "https://sainttech.techmaxasia.com/#home",
+      "https://learnaboutbillclinton.daybits.net",
+      "https://imsovainthatinamelinksaftermyself.tjarba.com",
+      "https://aphistorytutoring.cencopro.cl",
+      "https://learnaboutbillclinton.cencopro.cl",
+      "https://aphistorytutoring.bisblick.org",
+      "https://learnaboutbillclinton.bisblick.org",
+      "https://learnaboutbillclinton.scrapitsoftware.com"
+    ]
   },
   "failing_links": {
-    "https://supplies.artsineducation.net": 2,
-    "https://51.222.206.184.devns.me": 1,
-    "https://aphistorytutoring.tjarba.com": 2,
-    "https://ixlwork.storage.googleapis.com/index.html": 1,
-    "https://dwfo7z3f9nigf.cloudfront.net/index.html": 1,
-    "https://d1ks901xvjj2p6.cloudfront.net/index.html": 1,
-    "https://div7ikqm4o515.cloudfront.net": 1,
-    "https://we.are.highdesertcoders.com": 2,
-    "https://wildcard.grittytravel.com": 2,
-    "https://sixseven.acphighschool.org/#home": 2,
-    "https://jfd.schoolsandtravel.com": 2,
-    "https://1.schoolsandtravel.com/#home": 2,
-    "https://2.schoolsandtravel.com/#home": 2,
-    "https://3.schoolsandtravel.com/#home": 2,
-    "https://4.schoolsandtravel.com/#home": 2,
-    "https://5.schoolsandtravel.com/#home": 2,
-    "https://6.schoolsandtravel.com/#home": 2,
-    "https://7.schoolsandtravel.com/#home": 2,
-    "https://8.schoolsandtravel.com/#home": 2,
-    "https://9.schoolsandtravel.com/#home": 2,
-    "https://10.schoolsandtravel.com/#home": 2,
-    "https://11.schoolsandtravel.com/#home": 2,
-    "https://12.schoolsandtravel.com/#home": 2,
-    "https://13.schoolsandtravel.com/#home": 2,
-    "https://14.schoolsandtravel.com/#home": 2,
-    "https://15.schoolsandtravel.com/#home": 2,
-    "https://apsciencetutoring.luhe.tw/#home": 2,
-    "https://wildcard.collegeessayexamples.net/#home": 2,
-    "https://sainttech.techmaxasia.com/#home": 2,
-    "https://learnaboutbillclinton.daybits.net": 2,
-    "https://imsovainthatinamelinksaftermyself.tjarba.com": 2,
-    "https://aphistorytutoring.cencopro.cl": 2,
-    "https://learnaboutbillclinton.cencopro.cl": 2,
-    "https://aphistorytutoring.bisblick.org": 2,
-    "https://learnaboutbillclinton.bisblick.org": 2,
-    "https://learnaboutbillclinton.scrapitsoftware.com": 2
+    "https://51.222.206.184.devns.me": 2,
+    "https://ixlwork.storage.googleapis.com/index.html": 2,
+    "https://dwfo7z3f9nigf.cloudfront.net/index.html": 2,
+    "https://d1ks901xvjj2p6.cloudfront.net/index.html": 2,
+    "https://div7ikqm4o515.cloudfront.net": 2,
+    "https://update.www.www.dev.bananaschool.duckdns.org": 1,
+    "https://awcqihoe.bananaschool.duckdns.org": 1,
+    "https://toviqrwn.bananaschool.duckdns.org": 1
   },
   "links": [
-    {
-      "provider": "💜 Selenite",
-      "category": "Games",
-      "capabilities": "N/A",
-      "capability_tags": [],
-      "protocols": "N/A",
-      "protocol_tags": [],
-      "locked": "",
-      "link": "https://supplies.artsineducation.net/",
-      "found": "1/15/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
     {
       "provider": "💜 Selenite",
       "category": "Games",
@@ -2309,28 +2298,6 @@
         "eclipse"
       ],
       "locked": "",
-      "link": "https://wildcard.collegeessayexamples.net/#home",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
       "link": "https://trending.kutsenko.cc/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -3791,586 +3758,6 @@
       "locked": "",
       "link": "https://d1ow0xcl2w4e9a.cloudfront.net",
       "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://aphistorytutoring.tjarba.com/",
-      "found": "3/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://we.are.highdesertcoders.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://wildcard.grittytravel.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://sixseven.acphighschool.org/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://jfd.schoolsandtravel.com/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://1.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://2.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://3.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://4.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://5.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://6.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://7.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://8.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://9.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://10.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://11.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://12.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://13.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://14.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://15.schoolsandtravel.com/#home",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://apsciencetutoring.luhe.tw/#home",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://sainttech.techmaxasia.com/#home",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://learnaboutbillclinton.daybits.net/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://imsovainthatinamelinksaftermyself.tjarba.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://aphistorytutoring.cencopro.cl/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://learnaboutbillclinton.cencopro.cl/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://aphistorytutoring.bisblick.org/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://learnaboutbillclinton.bisblick.org/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟣 UniUB",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://learnaboutbillclinton.scrapitsoftware.com",
-      "found": "5/1/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
