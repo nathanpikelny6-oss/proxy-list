@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r133",
-    "last_updated": "June 06, 2026",
+    "revision": "r134",
+    "last_updated": "June 07, 2026",
     "unsorted_total": 1992,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,17 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-06T19:17:30Z",
-    "checked_at_display": "2026-06-06 19:17 UTC",
+    "checked_at": "2026-06-07T03:34:50Z",
+    "checked_at_display": "2026-06-07 03:34 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://51.222.206.184.my.local-ip.co",
+      "https://15.204.247.166.my.local-ip.co"
+    ]
   },
-  "failing_links": {
-    "https://51.222.206.184.my.local-ip.co": 2,
-    "https://15.204.247.166.my.local-ip.co": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -1421,30 +1421,6 @@
       ],
       "locked": "",
       "link": "https://51.222.206.184.dyn.tcadmin.net/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://51.222.206.184.my.local-ip.co/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -3207,28 +3183,6 @@
       ],
       "locked": "",
       "link": "https://15.204.247.166.dyn.tcadmin.net/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://15.204.247.166.my.local-ip.co/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
