@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r134",
+    "revision": "r135",
     "last_updated": "June 07, 2026",
     "unsorted_total": 1992,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,20 +103,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-07T13:46:48Z",
-    "checked_at_display": "2026-06-07 13:46 UTC",
+    "checked_at": "2026-06-07T19:18:35Z",
+    "checked_at_display": "2026-06-07 19:18 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://jasonvisor.lervs.ro"
+    ]
   },
   "failing_links": {
-    "https://boredom.chiangmaiorganics.com": 1,
-    "https://dwfo7z3f9nigf.cloudfront.net/index.html": 1,
-    "https://d1ks901xvjj2p6.cloudfront.net/index.html": 1,
-    "https://div7ikqm4o515.cloudfront.net": 1,
-    "http://pullupmath.2nx.org": 1,
-    "https://jasonvisor.lervs.ro": 2
+    "https://15.204.247.166.devns.me": 1,
+    "https://boredom.chiangmaiorganics.com": 2,
+    "https://contact.maxmir-energy.ru": 1
   },
   "links": [
     {
@@ -27748,25 +27747,6 @@
       ],
       "locked": "",
       "link": "https://arctic.lervs.ro",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://jasonvisor.lervs.ro",
       "found": "5/1/2026",
       "username": "N/A",
       "password": "N/A",
