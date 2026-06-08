@@ -1995,3 +1995,4 @@ Move links from here into `list.md` once sorted.
 - https://learnaboutbillclinton.bisblick.org
 - https://learnaboutbillclinton.cencopro.cl
 - https://learnaboutbillclinton.daybits.net
+- https://boredom.chiangmaiorganics.com
