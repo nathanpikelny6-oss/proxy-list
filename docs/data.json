@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r136",
+    "revision": "r137",
     "last_updated": "June 08, 2026",
     "unsorted_total": 1993,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,18 +103,24 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-08T03:40:29Z",
-    "checked_at_display": "2026-06-08 03:40 UTC",
+    "checked_at": "2026-06-08T10:47:43Z",
+    "checked_at_display": "2026-06-08 10:47 UTC",
     "added_count": 0,
     "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://boredom.chiangmaiorganics.com"
+      "https://contact.maxmir-energy.ru"
     ]
   },
   "failing_links": {
-    "https://third-army.surge.sh": 1,
-    "https://contact.maxmir-energy.ru": 2
+    "https://15.204.247.166.nar0.com": 1,
+    "https://update.update.www.www.test.bananaschool.duckdns.org": 1,
+    "https://lkjdbhuvudj.tokenfatguy.com": 1,
+    "https://fb8y8wbfi.nutansharma.com.np": 1,
+    "https://108192.xyz.cdn.cloudflare.net": 1,
+    "https://flickbox.sbs": 1,
+    "https://think-straight.nexus-computing.com": 1,
+    "https://www.tasktuna.sbs": 1
   },
   "links": [
     {
@@ -15207,28 +15213,6 @@
       ],
       "locked": "",
       "link": "https://filter.pilatesfitness.co.uk/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🪐 Galaxy",
-      "category": "Proxy/Games",
-      "capabilities": "libcurl, epoxy, wisp",
-      "capability_tags": [
-        "libcurl",
-        "epoxy",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://contact.maxmir-energy.ru/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
