@@ -103,16 +103,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-10T09:53:51Z",
-    "checked_at_display": "2026-06-10 09:53 UTC",
+    "checked_at": "2026-06-10T15:26:52Z",
+    "checked_at_display": "2026-06-10 15:26 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://15.204.247.166.nar0.com": 1,
-    "https://life.dunia-artikel.com": 1
+    "https://51.222.206.184.devns.me": 1,
+    "https://15.204.247.166.nar0.com": 2,
+    "https://life.dunia-artikel.com": 2,
+    "https://xca8u8nxci3l.lvcomponentes.com.br": 1
   },
   "links": [
     {
