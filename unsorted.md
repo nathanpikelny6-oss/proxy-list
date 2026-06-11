@@ -1996,3 +1996,9 @@ Move links from here into `list.md` once sorted.
 - https://learnaboutbillclinton.cencopro.cl
 - https://learnaboutbillclinton.daybits.net
 - https://boredom.chiangmaiorganics.com
+- https://1.dmvdriverseducation.org
+- https://happynewdestenation.pintravel.ro
+- https://nahidontneed.help
+- https://ropav.dmvdriverseducation.org
+- https://vapor.dmvdriverseducation.org
+- https://vapor.ropavaporopav.cyou
