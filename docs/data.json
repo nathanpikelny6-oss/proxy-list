@@ -103,16 +103,14 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-11T20:17:04Z",
-    "checked_at_display": "2026-06-11 20:17 UTC",
+    "checked_at": "2026-06-12T03:37:53Z",
+    "checked_at_display": "2026-06-12 03:37 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {
-    "https://acr.moldeo.org/?": 1
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
