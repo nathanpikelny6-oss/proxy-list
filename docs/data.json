@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r145",
-    "last_updated": "June 11, 2026",
+    "revision": "r146",
+    "last_updated": "June 14, 2026",
     "unsorted_total": 1999,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,19 +103,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-13T19:20:50Z",
-    "checked_at_display": "2026-06-13 19:20 UTC",
+    "checked_at": "2026-06-14T03:41:26Z",
+    "checked_at_display": "2026-06-14 03:41 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://15.204.247.166.nar0.com"
+    ]
   },
-  "failing_links": {
-    "https://site.nhd.org/11595885/home": 1,
-    "https://15.204.247.166.nar0.com": 2,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://hvtzw.reformarchive.com": 1
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -3241,28 +3238,6 @@
       ],
       "locked": "",
       "link": "https://extralearning.porcile.cl/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://15.204.247.166.nar0.com",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
