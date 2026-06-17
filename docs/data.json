@@ -103,18 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-17T03:45:17Z",
-    "checked_at_display": "2026-06-17 03:45 UTC",
+    "checked_at": "2026-06-17T10:49:41Z",
+    "checked_at_display": "2026-06-17 10:49 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://wlwzhyvbqn.bigriversoftware.au": 1,
-    "https://baconatorsmath.2nx.org": 1,
-    "http://pullupmath.2nx.org": 1,
-    "https://third-army.surge.sh": 2
+    "https://wlwzhyvbqn.bigriversoftware.au": 2,
+    "https://baconatorsmath.2nx.org": 2,
+    "http://pullupmath.2nx.org": 2
   },
   "links": [
     {
