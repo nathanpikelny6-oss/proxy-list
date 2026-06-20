@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r156 | Last Updated: June 20, 2026
+> r157 | Last Updated: June 20, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -300,7 +300,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | Scramjet | 30 |
+> | Proxy/Games | unknown | Scramjet | 23 |
 
 > [!IMPORTANT]
 > Boredom does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -325,13 +325,6 @@ Fixed a security vulnerability.
 | | https://hello-vcsa.karjase.ee/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://vcytsa.martinwguy.net/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://ctvfy.numbercraftacademy.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://boredom.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://zeelix.xyz | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://classlink.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://asoilkdh.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://ilovemathh.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://l.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://f.global.ssl.fastly.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://boredom.vcsa.worldpolyathlon.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://api.en.v2202508297531378155.powersrv.de/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://academi.edu.pl | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
