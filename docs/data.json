@@ -103,15 +103,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-21T03:52:05Z",
-    "checked_at_display": "2026-06-21 03:52 UTC",
+    "checked_at": "2026-06-21T09:45:20Z",
+    "checked_at_display": "2026-06-21 09:45 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://cdn.jsdelivr.net/gh/Hydra-Network/BromineLite@main/index.svg": 1
+    "https://51.222.206.184.ip.ipq.co": 1,
+    "https://51.222.206.184.devns.me": 1,
+    "https://cdn.jsdelivr.net/gh/Hydra-Network/BromineLite@main/index.svg": 2,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/daydreaming/dist/index.svg": 1
   },
   "links": [
     {
