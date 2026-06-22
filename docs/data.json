@@ -103,15 +103,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-22T16:50:23Z",
-    "checked_at_display": "2026-06-22 16:50 UTC",
+    "checked_at": "2026-06-22T20:42:05Z",
+    "checked_at_display": "2026-06-22 20:42 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://ixlpapi.logyca.com.mx": 1
+    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
+    "https://ixlpapi.logyca.com.mx": 2
   },
   "links": [
     {
