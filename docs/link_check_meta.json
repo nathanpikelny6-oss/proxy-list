@@ -1,8 +1,10 @@
 {
-  "checked_at": "2026-06-23T14:42:18Z",
-  "checked_at_display": "2026-06-23 14:42 UTC",
+  "checked_at": "2026-06-23T19:58:59Z",
+  "checked_at_display": "2026-06-23 19:58 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://filters.adventurersalmanac.com"
+  ]
 }
