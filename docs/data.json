@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r159",
-    "last_updated": "June 21, 2026",
+    "revision": "r160",
+    "last_updated": "June 23, 2026",
     "unsorted_total": 2004,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,17 +103,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-22T20:42:05Z",
-    "checked_at_display": "2026-06-22 20:42 UTC",
+    "checked_at": "2026-06-23T02:53:53Z",
+    "checked_at_display": "2026-06-23 02:53 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://ixlpapi.logyca.com.mx"
+    ]
   },
-  "failing_links": {
-    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
-    "https://ixlpapi.logyca.com.mx": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -24512,25 +24511,6 @@
       "password": "N/A",
       "contributor": "yourworstnightmare1",
       "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "OnlyLessons",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://ixlpapi.logyca.com.mx",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
     },
     {
       "provider": "OnlyLessons",
