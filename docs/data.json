@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r164",
-    "last_updated": "June 24, 2026",
+    "revision": "r165",
+    "last_updated": "June 25, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,23 +103,24 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-25T08:56:44Z",
-    "checked_at_display": "2026-06-25 08:56 UTC",
+    "checked_at": "2026-06-25T14:25:22Z",
+    "checked_at_display": "2026-06-25 14:25 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 8,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://chillscience.honufon.com",
+      "https://virtualcoding.honufon.com",
+      "https://physics.honufon.com",
+      "https://science.honufon.com",
+      "https://math.honufon.com",
+      "https://labs.honufon.com",
+      "https://realistic.honufon.com",
+      "https://lwklaiww.honufon.com"
+    ]
   },
   "failing_links": {
-    "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html": 1,
-    "https://lwklaiww.honufon.com": 2,
-    "https://chillscience.honufon.com": 2,
-    "https://virtualcoding.honufon.com": 2,
-    "https://physics.honufon.com": 2,
-    "https://science.honufon.com": 2,
-    "https://math.honufon.com": 2,
-    "https://labs.honufon.com": 2,
-    "https://realistic.honufon.com": 2
+    "https://potato.thehustlinhomesteader.com": 1
   },
   "links": [
     {
@@ -4888,44 +4889,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://chillscience.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "👤 Shadow",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://virtualcoding.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "👤 Shadow",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://keenenglish.bamastuff.com",
       "found": "5/2/2026",
       "username": "N/A",
@@ -7034,26 +6997,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://physics.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://smartbio.budda.lv",
       "found": "5/2/2026",
       "username": "N/A",
@@ -7956,44 +7899,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍕 PeteZah",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://science.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍕 PeteZah",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://math.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🍕 PeteZah",
@@ -12655,25 +12560,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://labs.honufon.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://waves.radioimpactfm.ro",
       "found": "5/2/2026",
       "username": "N/A",
@@ -13929,25 +13815,6 @@
       ],
       "locked": "",
       "link": "https://support.academinctools.pw",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://realistic.honufon.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -22094,25 +21961,6 @@
       ],
       "locked": "",
       "link": "https://eqbull.thongthaitextile.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "⚛️ Krypton",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://lwklaiww.honufon.com/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
