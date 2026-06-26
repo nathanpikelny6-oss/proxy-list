@@ -103,21 +103,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-26T03:23:21Z",
-    "checked_at_display": "2026-06-26 03:23 UTC",
+    "checked_at": "2026-06-26T08:59:12Z",
+    "checked_at_display": "2026-06-26 08:59 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://potato.thehustlinhomesteader.com"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://15.204.247.166.devns.me": 1,
-    "https://inf0cd84e.fbsistemas.com.ar": 1,
-    "https://inf3d0813.fbsistemas.com.ar": 1,
-    "https://inf6170c4.fbsistemas.com.ar": 1,
-    "https://inf29323.fbsistemas.com.ar": 1
+    "https://inf0cd84e.fbsistemas.com.ar": 2,
+    "https://inf3d0813.fbsistemas.com.ar": 2,
+    "https://inf6170c4.fbsistemas.com.ar": 2,
+    "https://inf29323.fbsistemas.com.ar": 2,
+    "https://firstwordithinkofisfish.stonestackstrategies.com": 1,
+    "https://zgdhgzrcjx.stonestackstrategies.com": 1
   },
   "links": [
     {
