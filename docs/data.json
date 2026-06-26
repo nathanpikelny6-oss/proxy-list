@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r165",
-    "last_updated": "June 25, 2026",
+    "revision": "r166",
+    "last_updated": "June 26, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,15 +103,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-25T19:55:31Z",
-    "checked_at_display": "2026-06-25 19:55 UTC",
+    "checked_at": "2026-06-26T03:23:21Z",
+    "checked_at_display": "2026-06-26 03:23 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://potato.thehustlinhomesteader.com"
+    ]
   },
   "failing_links": {
-    "https://potato.thehustlinhomesteader.com": 2
+    "https://15.204.247.166.devns.me": 1,
+    "https://inf0cd84e.fbsistemas.com.ar": 1,
+    "https://inf3d0813.fbsistemas.com.ar": 1,
+    "https://inf6170c4.fbsistemas.com.ar": 1,
+    "https://inf29323.fbsistemas.com.ar": 1
   },
   "links": [
     {
@@ -14533,29 +14539,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌘 Lunaar",
-      "category": "Proxy/Games",
-      "capabilities": "libcurl, epoxy, bare, captcha",
-      "capability_tags": [
-        "libcurl",
-        "epoxy",
-        "bare",
-        "captcha"
-      ],
-      "protocols": "Ultraviolet, Scramjet",
-      "protocol_tags": [
-        "ultraviolet",
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://potato.thehustlinhomesteader.com/",
-      "found": "4/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🌘 Lunaar",
