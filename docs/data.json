@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r169",
-    "last_updated": "June 27, 2026",
+    "revision": "r170",
+    "last_updated": "June 28, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,20 +103,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-27T19:16:07Z",
-    "checked_at_display": "2026-06-27 19:16 UTC",
+    "checked_at": "2026-06-28T03:30:27Z",
+    "checked_at_display": "2026-06-28 03:30 UTC",
     "added_count": 0,
-    "removed_count": 2,
+    "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://51.222.206.184.ip.ipq.co",
-      "https://15.204.247.166.ip.ipq.co"
+      "https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#"
     ]
   },
-  "failing_links": {
-    "https://cdn.jsdelivr.net/gh/PeteZah-G/PeteZahStaticDone@main/english.svg": 1,
-    "https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -14697,25 +14693,6 @@
       "locked": "",
       "link": "https://unpkg.com/browselucide@1.0.1/logo.svg#/",
       "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🤍 Lucide",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#/",
-      "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
