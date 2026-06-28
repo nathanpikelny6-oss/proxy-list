@@ -1,10 +1,8 @@
 {
-  "checked_at": "2026-06-28T03:30:27Z",
-  "checked_at_display": "2026-06-28 03:30 UTC",
+  "checked_at": "2026-06-28T08:47:26Z",
+  "checked_at_display": "2026-06-28 08:47 UTC",
   "added_count": 0,
-  "removed_count": 1,
+  "removed_count": 0,
   "added_links": [],
-  "removed_links": [
-    "https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#"
-  ]
+  "removed_links": []
 }
