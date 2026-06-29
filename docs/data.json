@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r170",
-    "last_updated": "June 28, 2026",
+    "revision": "r171",
+    "last_updated": "June 29, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,19 +103,26 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-29T10:51:12Z",
-    "checked_at_display": "2026-06-29 10:51 UTC",
+    "checked_at": "2026-06-29T15:40:44Z",
+    "checked_at_display": "2026-06-29 15:40 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 3,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://highschoolacademy.online",
+      "https://mathnotes.online",
+      "https://palmwatches.store"
+    ]
   },
   "failing_links": {
-    "https://highschoolacademy.online": 2,
-    "https://zink.thongthaitextile.com": 1,
-    "https://mathnotes.online": 2,
-    "https://palmwatches.store": 2,
-    "https://market.thenookfactory.com": 1
+    "https://www.update.vutsrmlkjqpupdate.hcbaupdate.98365432update.update.76update.158-69-222-114.sslip.io": 1,
+    "https://32update.2sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://432www.update.update.76update.158-69-222-114.sslip.io": 1,
+    "https://nmlkjmlkjihupdate.update.987298765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://51.222.206.184.dyn.tcadmin.net": 1,
+    "https://15.204.247.166.dyn.tcadmin.net": 1,
+    "https://zink.thongthaitextile.com": 2,
+    "https://market.thenookfactory.com": 2
   },
   "links": [
     {
@@ -6606,26 +6613,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://highschoolacademy.online/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://math.saladandgo-menu.info/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -12414,25 +12401,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://mathnotes.online",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://humble.eggerfamily.org",
       "found": "5/2/2026",
       "username": "N/A",
@@ -12453,25 +12421,6 @@
       ],
       "locked": "",
       "link": "https://legal.solos.gr",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://palmwatches.store",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -14145,25 +14094,6 @@
       "locked": "",
       "link": "https://hondaispeak.hondascooterparts.com/",
       "found": "4/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🦄 Utopia Education",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://highschoolacademy.online/",
-      "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
