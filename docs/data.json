@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r171",
+    "revision": "r172",
     "last_updated": "June 29, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,26 +103,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-06-29T15:40:44Z",
-    "checked_at_display": "2026-06-29 15:40 UTC",
+    "checked_at": "2026-06-29T19:52:44Z",
+    "checked_at_display": "2026-06-29 19:52 UTC",
     "added_count": 0,
-    "removed_count": 3,
+    "removed_count": 2,
     "added_links": [],
     "removed_links": [
-      "https://highschoolacademy.online",
-      "https://mathnotes.online",
-      "https://palmwatches.store"
+      "https://zink.thongthaitextile.com",
+      "https://market.thenookfactory.com"
     ]
   },
   "failing_links": {
-    "https://www.update.vutsrmlkjqpupdate.hcbaupdate.98365432update.update.76update.158-69-222-114.sslip.io": 1,
-    "https://32update.2sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://432www.update.update.76update.158-69-222-114.sslip.io": 1,
-    "https://nmlkjmlkjihupdate.update.987298765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
-    "https://51.222.206.184.dyn.tcadmin.net": 1,
-    "https://15.204.247.166.dyn.tcadmin.net": 1,
-    "https://zink.thongthaitextile.com": 2,
-    "https://market.thenookfactory.com": 2
+    "https://site.nhd.org/11595885/home": 1
   },
   "links": [
     {
@@ -21704,44 +21696,6 @@
       "locked": "",
       "link": "https://finleyisabum.vixenlights.com/",
       "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "💥 Zinko Inc",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://zink.thongthaitextile.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "💥 Zinko Inc",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://market.thenookfactory.com",
-      "found": "5/4/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
