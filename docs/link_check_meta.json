@@ -1,8 +1,10 @@
 {
-  "checked_at": "2026-06-30T09:28:32Z",
-  "checked_at_display": "2026-06-30 09:28 UTC",
+  "checked_at": "2026-06-30T14:12:50Z",
+  "checked_at_display": "2026-06-30 14:12 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://h6aezidp9gq3.kang-fathur.com"
+  ]
 }
