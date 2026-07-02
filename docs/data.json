@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r174",
-    "last_updated": "July 01, 2026",
+    "revision": "r175",
+    "last_updated": "July 02, 2026",
     "unsorted_total": 2015,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -103,29 +103,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-02T02:55:37Z",
-    "checked_at_display": "2026-07-02 02:55 UTC",
+    "checked_at": "2026-07-02T08:51:16Z",
+    "checked_at_display": "2026-07-02 08:51 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 5,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://hi1.raisingpro.com",
+      "https://hi2.raisingpro.com",
+      "https://hi3.raisingpro.com",
+      "https://hi4.raisingpro.com",
+      "https://geometry.studying.english.seminar.computer.megamor.com.br"
+    ]
   },
   "failing_links": {
-    "https://hi1.raisingpro.com": 2,
-    "https://hi2.raisingpro.com": 2,
-    "https://hi3.raisingpro.com": 2,
-    "https://hi4.raisingpro.com": 2,
-    "https://midterms.wrexham.cn": 1,
-    "https://fly.qantas.hoohaamelbourne.com.au": 1,
-    "https://exam-mindset.itleague.com": 1,
-    "https://study-pattern.jandjley.com": 1,
-    "https://brain-skills.ortonavarro.com": 2,
-    "https://learning-track.divvyboard.com": 2,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
-    "https://study-achievement.expedicionesytrekking.com": 1,
-    "https://revision-system.fiedleracres.com": 1,
-    "https://study-control.wayner.ca": 1,
-    "https://geometry.studying.english.seminar.computer.megamor.com.br": 2
+    "https://francium.canlite.org": 1
   },
   "links": [
     {
@@ -8448,82 +8440,6 @@
       "locked": "",
       "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz10430/index.html",
       "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi1.raisingpro.com/",
-      "found": "3/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi2.raisingpro.com/",
-      "found": "3/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi3.raisingpro.com/",
-      "found": "3/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://hi4.raisingpro.com/",
-      "found": "3/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
@@ -21345,25 +21261,6 @@
       ],
       "locked": "",
       "link": "https://vocabulary.seminar.project.engineering.writing.ih4a.co.za",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "SDXP",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://geometry.studying.english.seminar.computer.megamor.com.br",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
