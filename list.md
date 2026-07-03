@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r175 | Last Updated: July 02, 2026
+> r176 | Last Updated: July 03, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -179,7 +179,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | epoxy, libcurl | Scramjet, Ultraviolet, Eclipse | 29 |
+> | Proxy/Games | epoxy, libcurl | Scramjet, Ultraviolet, Eclipse | 28 |
 
 > [!IMPORTANT]
 > Nebulo does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -188,7 +188,6 @@ Fixed a security vulnerability.
 | - | - | - | - | - | - |
 | | https://testinga.mooo.com | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://booger.riteshp.com.np/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://testing.farted.net/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://bull.yarnowl.com/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://nomorefortnige.bisblick.org/ | 4/27/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://kidsthesedaysbro.arxeiokin.gr/ | 4/27/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
