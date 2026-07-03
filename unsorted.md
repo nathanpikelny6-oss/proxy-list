@@ -2018,3 +2018,12 @@ Move links from here into `list.md` once sorted.
 - https://straight8.centromariapolis.cl
 - https://weonhim.centromariapolis.cl
 - https://anderdingus.axsetubal.pt
+- https://smartbio.kelownaembroidery.ca
+- https://brightcoding.hotelconsuladoinn.com
+- https://lightpoems.hotelconsuladoinn.com
+- https://rapidcalc.hotelconsuladoinn.com
+- https://keenenglish.hotelconsuladoinn.com
+- https://solidpoems.eclipsecastellon.net
+- https://easygeo.eclipsecastellon.net
+- https://alphageo.eclipsecastellon.net
+- https://rapidbio.eclipsecastellon.net
