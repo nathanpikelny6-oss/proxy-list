@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r178",
+    "revision": "r179",
     "last_updated": "July 04, 2026",
     "unsorted_total": 2024,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,21 +103,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-04T02:35:38Z",
-    "checked_at_display": "2026-07-04 02:35 UTC",
+    "checked_at": "2026-07-04T08:32:22Z",
+    "checked_at_display": "2026-07-04 08:32 UTC",
     "added_count": 0,
     "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://testinga.mooo.com"
+      "https://booger.riteshp.com.np"
     ]
   },
   "failing_links": {
-    "https://booger.riteshp.com.np": 2,
-    "https://russia.fllow.com.br": 1,
-    "https://mathematics.calculus.reformarchive.com": 1,
-    "https://english.seminar.lervs.ro": 1,
-    "https://math.science.lervs.ro": 1
+    "https://russia.fllow.com.br": 2
   },
   "links": [
     {
@@ -1780,28 +1776,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://booger.riteshp.com.np/",
-      "found": "2/19/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🚀 Nebulo",
