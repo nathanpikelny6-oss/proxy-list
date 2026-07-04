@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r179",
+    "revision": "r180",
     "last_updated": "July 04, 2026",
     "unsorted_total": 2024,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -103,17 +103,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-04T08:32:22Z",
-    "checked_at_display": "2026-07-04 08:32 UTC",
+    "checked_at": "2026-07-04T13:17:42Z",
+    "checked_at_display": "2026-07-04 13:17 UTC",
     "added_count": 0,
     "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://booger.riteshp.com.np"
+      "https://russia.fllow.com.br"
     ]
   },
   "failing_links": {
-    "https://russia.fllow.com.br": 2
+    "https://midterms.wrexham.cn": 1,
+    "https://revision-flow.maverickden.com": 1,
+    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
+    "https://study-control.wayner.ca": 1,
+    "https://update.www.www.www.www.bananaschool.duckdns.org": 1,
+    "https://www.www.dev.bananaschool.duckdns.org": 1,
+    "https://www.update.update.update.update.update.test.bananaschool.duckdns.org": 1
   },
   "links": [
     {
@@ -18683,25 +18689,6 @@
       ],
       "locked": "",
       "link": "https://osap.g-osap.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://russia.fllow.com.br/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
