@@ -2027,3 +2027,4 @@ Move links from here into `list.md` once sorted.
 - https://easygeo.eclipsecastellon.net
 - https://alphageo.eclipsecastellon.net
 - https://rapidbio.eclipsecastellon.net
+- https://math.desmos.live.cdn.cloudflare.net

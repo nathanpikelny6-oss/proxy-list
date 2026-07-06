@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r180",
-    "last_updated": "July 04, 2026",
-    "unsorted_total": 2024,
+    "revision": "r181",
+    "last_updated": "July 06, 2026",
+    "unsorted_total": 2025,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -75,43 +75,23 @@
         "password": "N/A",
         "contributor": "yourworstnightmare1",
         "contributor_url": "https://github.com/yourworstnightmare1"
-      },
-      {
-        "provider": "⭐ DayDream X",
-        "category": "Proxy/Games",
-        "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-        "capability_tags": [
-          "epoxy",
-          "libcurl",
-          "wisp",
-          "captcha",
-          "reflux"
-        ],
-        "protocols": "Scramjet, Ultraviolet",
-        "protocol_tags": [
-          "scramjet",
-          "ultraviolet"
-        ],
-        "locked": "",
-        "link": "https://math.desmos.live.cdn.cloudflare.net/",
-        "found": "2/19/2026",
-        "username": "N/A",
-        "password": "N/A",
-        "contributor": "yourworstnightmare1",
-        "contributor_url": "https://github.com/yourworstnightmare1"
       }
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-06T10:12:40Z",
-    "checked_at_display": "2026-07-06 10:12 UTC",
+    "checked_at": "2026-07-06T15:24:20Z",
+    "checked_at_display": "2026-07-06 15:24 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://math.desmos.live.cdn.cloudflare.net"
+    ]
   },
   "failing_links": {
-    "https://math.desmos.live.cdn.cloudflare.net": 2
+    "https://cdn.jsdelivr.net/gh/carls-math-class/160164-computerscience@main/doesn.svg": 1,
+    "https://grandemass.beachlifeusa.com": 1,
+    "https://boringvcsa.beachlifeusa.com": 1
   },
   "links": [
     {
@@ -978,30 +958,6 @@
       "locked": "",
       "link": "https://ideas.vjason.com/",
       "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://math.desmos.live.cdn.cloudflare.net/",
-      "found": "2/19/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
