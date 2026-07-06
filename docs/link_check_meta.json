@@ -1,10 +1,8 @@
 {
-  "checked_at": "2026-07-06T15:24:20Z",
-  "checked_at_display": "2026-07-06 15:24 UTC",
+  "checked_at": "2026-07-06T19:51:10Z",
+  "checked_at_display": "2026-07-06 19:51 UTC",
   "added_count": 0,
-  "removed_count": 1,
+  "removed_count": 0,
   "added_links": [],
-  "removed_links": [
-    "https://math.desmos.live.cdn.cloudflare.net"
-  ]
+  "removed_links": []
 }
