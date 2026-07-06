@@ -103,18 +103,15 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-05T19:12:43Z",
-    "checked_at_display": "2026-07-05 19:12 UTC",
+    "checked_at": "2026-07-06T02:52:13Z",
+    "checked_at_display": "2026-07-06 02:52 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://midterms.wrexham.cn": 1,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://hvtzw.reformarchive.com": 1,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 1
+    "https://math.desmos.live.cdn.cloudflare.net": 1
   },
   "links": [
     {
