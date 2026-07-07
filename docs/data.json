@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r182",
+    "revision": "r183",
     "last_updated": "July 07, 2026",
     "unsorted_total": 2025,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,27 +79,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-07T14:24:54Z",
-    "checked_at_display": "2026-07-07 14:24 UTC",
+    "checked_at": "2026-07-07T19:50:36Z",
+    "checked_at_display": "2026-07-07 19:50 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://51.222.206.184.devns.me",
+      "https://15.204.247.166.devns.me"
+    ]
   },
   "failing_links": {
-    "https://51.222.206.184.devns.me": 2,
-    "https://15.204.247.166.devns.me": 2,
-    "https://midterms.wrexham.cn": 1,
-    "https://fly.qantas.hoohaamelbourne.com.au": 1,
-    "https://exam-mindset.itleague.com": 1,
-    "https://revision-flow.maverickden.com": 1,
-    "https://learning-tactics.ncknms.com": 1,
-    "https://brain-skills.ortonavarro.com": 1,
-    "https://learning-track.divvyboard.com": 1,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
-    "https://study-achievement.expedicionesytrekking.com": 1,
-    "https://revision-system.fiedleracres.com": 1,
-    "https://study-control.wayner.ca": 1
+    "https://learning-track.divvyboard.com": 2,
+    "https://study-achievement.expedicionesytrekking.com": 2
   },
   "links": [
     {
@@ -1085,30 +1077,6 @@
       ],
       "locked": "",
       "link": "https://edu4u.dyndns.berlin/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://51.222.206.184.devns.me/",
       "found": "4/18/2026",
       "username": "N/A",
       "password": "N/A",
@@ -2524,28 +2492,6 @@
       "locked": "",
       "link": "https://area.vm4construction.uk/",
       "found": "3/28/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://15.204.247.166.devns.me/",
-      "found": "4/17/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
