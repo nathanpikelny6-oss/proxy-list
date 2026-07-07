@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r181",
-    "last_updated": "July 06, 2026",
+    "revision": "r182",
+    "last_updated": "July 07, 2026",
     "unsorted_total": 2025,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,27 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-06T19:51:10Z",
-    "checked_at_display": "2026-07-06 19:51 UTC",
+    "checked_at": "2026-07-07T02:47:08Z",
+    "checked_at_display": "2026-07-07 02:47 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://grandemass.beachlifeusa.com",
+      "https://boringvcsa.beachlifeusa.com"
+    ]
   },
-  "failing_links": {
-    "https://cdn.jsdelivr.net/gh/carls-math-class/160164-computerscience@main/doesn.svg": 2,
-    "https://grandemass.beachlifeusa.com": 2,
-    "https://boringvcsa.beachlifeusa.com": 2,
-    "https://midterms.wrexham.cn": 1,
-    "https://nebulo.beat.nebula.recreatinganew.com": 1,
-    "https://study-pattern.jandjley.com": 1,
-    "https://revision-flow.maverickden.com": 1,
-    "https://learning-track.divvyboard.com": 1,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
-    "https://study-achievement.expedicionesytrekking.com": 1,
-    "https://revision-system.fiedleracres.com": 1,
-    "https://study-control.wayner.ca": 1
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -1300,30 +1290,6 @@
       ],
       "locked": "",
       "link": "https://dreamingvcsa.skills-sims.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://grandemass.beachlifeusa.com/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -3479,25 +3445,6 @@
       "locked": "",
       "link": "https://update.214321admin.api.en.v2202508297531378155.powersrv.de/",
       "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🥱 Boredom",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://boringvcsa.beachlifeusa.com/",
-      "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
