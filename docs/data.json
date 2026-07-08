@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r183",
-    "last_updated": "July 07, 2026",
+    "revision": "r184",
+    "last_updated": "July 08, 2026",
     "unsorted_total": 2025,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,28 +79,24 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-08T13:56:05Z",
-    "checked_at_display": "2026-07-08 13:56 UTC",
+    "checked_at": "2026-07-08T19:20:00Z",
+    "checked_at_display": "2026-07-08 19:20 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 7,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://midterms.wrexham.cn",
+      "https://revision-flow.maverickden.com",
+      "https://learning-tactics.ncknms.com",
+      "https://learning-track.divvyboard.com",
+      "https://study-achievement.expedicionesytrekking.com",
+      "https://revision-system.fiedleracres.com",
+      "https://study-control.wayner.ca"
+    ]
   },
   "failing_links": {
-    "https://stock95633.wixsite.com/content-fetcher": 1,
-    "https://kidsthesedaysbro.arxeiokin.gr": 2,
-    "https://chemistry.axiomait.pro": 2,
-    "https://midterms.wrexham.cn": 2,
-    "https://nebulo.beat.nebula.recreatinganew.com": 2,
-    "https://exam-mindset.itleague.com": 2,
-    "https://study-pattern.jandjley.com": 1,
-    "https://revision-flow.maverickden.com": 2,
-    "https://learning-tactics.ncknms.com": 2,
-    "https://learning-track.divvyboard.com": 2,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 2,
-    "https://study-achievement.expedicionesytrekking.com": 2,
-    "https://revision-system.fiedleracres.com": 2,
-    "https://study-control.wayner.ca": 2
+    "https://study-pattern.jandjley.com": 2,
+    "https://brain-skills.ortonavarro.com": 1
   },
   "links": [
     {
@@ -1817,28 +1813,6 @@
         "eclipse"
       ],
       "locked": "",
-      "link": "https://midterms.wrexham.cn/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
       "link": "https://intelleducation.netlify.app/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -2103,50 +2077,6 @@
         "eclipse"
       ],
       "locked": "",
-      "link": "https://revision-flow.maverickden.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://learning-tactics.ncknms.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
       "link": "https://brain-skills.ortonavarro.com",
       "found": "5/2/2026",
       "username": "N/A",
@@ -2169,95 +2099,7 @@
         "eclipse"
       ],
       "locked": "",
-      "link": "https://learning-track.divvyboard.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
       "link": "https://focus-discipline.earlyriserscoffeeshop.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://study-achievement.expedicionesytrekking.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://revision-system.fiedleracres.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://study-control.wayner.ca",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
