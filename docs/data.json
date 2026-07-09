@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r184",
-    "last_updated": "July 08, 2026",
+    "revision": "r185",
+    "last_updated": "July 09, 2026",
     "unsorted_total": 2025,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,24 +79,22 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-08T19:20:00Z",
-    "checked_at_display": "2026-07-08 19:20 UTC",
+    "checked_at": "2026-07-09T02:38:45Z",
+    "checked_at_display": "2026-07-09 02:38 UTC",
     "added_count": 0,
-    "removed_count": 7,
+    "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://midterms.wrexham.cn",
-      "https://revision-flow.maverickden.com",
-      "https://learning-tactics.ncknms.com",
-      "https://learning-track.divvyboard.com",
-      "https://study-achievement.expedicionesytrekking.com",
-      "https://revision-system.fiedleracres.com",
-      "https://study-control.wayner.ca"
+      "https://study-pattern.jandjley.com"
     ]
   },
   "failing_links": {
-    "https://study-pattern.jandjley.com": 2,
-    "https://brain-skills.ortonavarro.com": 1
+    "https://fly.qantas.hoohaamelbourne.com.au": 1,
+    "https://brain-skills.ortonavarro.com": 2,
+    "https://focus-discipline.earlyriserscoffeeshop.com": 1,
+    "https://xylora.grahammurryinsuranceagency.com": 1,
+    "https://xylora.triatlonpacense.es": 1,
+    "https://xylora.beerporn.org": 1
   },
   "links": [
     {
@@ -2034,28 +2032,6 @@
       ],
       "locked": "",
       "link": "https://exam-mindset.itleague.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://study-pattern.jandjley.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
