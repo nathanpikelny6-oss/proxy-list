@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r191",
-    "last_updated": "July 10, 2026",
+    "revision": "r192",
+    "last_updated": "July 11, 2026",
     "unsorted_total": 2037,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,23 +79,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-11T13:11:01Z",
-    "checked_at_display": "2026-07-11 13:11 UTC",
+    "checked_at": "2026-07-11T18:57:11Z",
+    "checked_at_display": "2026-07-11 18:57 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 7,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://bull.yarnowl.com",
+      "https://nomorefortnige.bisblick.org",
+      "https://kidsthesedaysbro.arxeiokin.gr",
+      "https://weneedmorefhangbisbfo.camberleycricket.com",
+      "https://nebulo.beat.nebula.recreatinganew.com",
+      "https://exam-mindset.itleague.com",
+      "https://focus-discipline.earlyriserscoffeeshop.com"
+    ]
   },
   "failing_links": {
-    "https://bull.yarnowl.com": 2,
-    "https://nomorefortnige.bisblick.org": 2,
-    "https://kidsthesedaysbro.arxeiokin.gr": 2,
-    "https://weneedmorefhangbisbfo.camberleycricket.com": 2,
-    "https://fly.qantas.hoohaamelbourne.com.au": 1,
-    "https://nebulo.beat.nebula.recreatinganew.com": 2,
-    "https://exam-mindset.itleague.com": 2,
-    "https://focus-discipline.earlyriserscoffeeshop.com": 2,
-    "https://d1ow0xcl2w4e9a.cloudfront.net": 1
+    "https://fly.qantas.hoohaamelbourne.com.au": 2
   },
   "links": [
     {
@@ -1702,94 +1702,6 @@
         "eclipse"
       ],
       "locked": "",
-      "link": "https://bull.yarnowl.com/",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://nomorefortnige.bisblick.org/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://kidsthesedaysbro.arxeiokin.gr/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://weneedmorefhangbisbfo.camberleycricket.com/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
       "link": "https://intelleducation.netlify.app/",
       "found": "4/30/2026",
       "username": "N/A",
@@ -1967,72 +1879,6 @@
       ],
       "locked": "",
       "link": "https://fly.qantas.hoohaamelbourne.com.au",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://nebulo.beat.nebula.recreatinganew.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://exam-mindset.itleague.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://focus-discipline.earlyriserscoffeeshop.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
