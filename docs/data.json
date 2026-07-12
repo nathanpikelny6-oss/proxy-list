@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r192",
-    "last_updated": "July 11, 2026",
+    "revision": "r193",
+    "last_updated": "July 12, 2026",
     "unsorted_total": 2037,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,24 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-11T18:57:11Z",
-    "checked_at_display": "2026-07-11 18:57 UTC",
+    "checked_at": "2026-07-12T02:26:41Z",
+    "checked_at_display": "2026-07-12 02:26 UTC",
     "added_count": 0,
-    "removed_count": 7,
+    "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://bull.yarnowl.com",
-      "https://nomorefortnige.bisblick.org",
-      "https://kidsthesedaysbro.arxeiokin.gr",
-      "https://weneedmorefhangbisbfo.camberleycricket.com",
-      "https://nebulo.beat.nebula.recreatinganew.com",
-      "https://exam-mindset.itleague.com",
-      "https://focus-discipline.earlyriserscoffeeshop.com"
+      "https://fly.qantas.hoohaamelbourne.com.au"
     ]
   },
-  "failing_links": {
-    "https://fly.qantas.hoohaamelbourne.com.au": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -1858,28 +1850,6 @@
       "locked": "",
       "link": "https://xigency.herokuapp.com/",
       "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🚀 Nebulo",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl",
-      "capability_tags": [
-        "epoxy",
-        "libcurl"
-      ],
-      "protocols": "Scramjet, Ultraviolet, Eclipse",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet",
-        "eclipse"
-      ],
-      "locked": "",
-      "link": "https://fly.qantas.hoohaamelbourne.com.au",
-      "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
