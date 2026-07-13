@@ -79,37 +79,14 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-13T14:30:05Z",
-    "checked_at_display": "2026-07-13 14:30 UTC",
+    "checked_at": "2026-07-13T19:19:27Z",
+    "checked_at_display": "2026-07-13 19:19 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {
-    "https://fastgeo.eclipsecastellon.net": 2,
-    "https://topcalc.kelownaembroidery.ca": 2,
-    "https://us-history-png-book.takh.ee": 2,
-    "https://fastgeo.egevad.se": 2,
-    "https://fastbio.egevad.se": 2,
-    "https://solidchem.tejidosdedignidad.org": 2,
-    "https://prophysics.tomaszu.com": 2,
-    "https://rapidlogic.kiddphunk.com": 2,
-    "https://deepgrammar.kiddphunk.com": 2,
-    "https://toplogic.kiddphunk.com": 2,
-    "https://deepreading.kiddphunk.com": 2,
-    "https://quickwriting.cyberninja.ie": 2,
-    "https://keenenglish.bamastuff.com": 2,
-    "https://topalgebra.bamastuff.com": 2,
-    "https://easycalc.bamastuff.com": 2,
-    "https://neatbio.bamastuff.com": 2,
-    "https://rapidpoems.bamastuff.com": 2,
-    "https://brightgeo.reformarchive.com": 2,
-    "https://acechem.reformarchive.com": 2,
-    "https://truelogic.reformarchive.com": 2,
-    "https://topgrammar.reformarchive.com": 2,
-    "https://coolscience.babypos.hk": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
