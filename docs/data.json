@@ -79,28 +79,24 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-14T07:57:46Z",
-    "checked_at_display": "2026-07-14 07:57 UTC",
+    "checked_at": "2026-07-14T13:27:04Z",
+    "checked_at_display": "2026-07-14 13:27 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://51.222.206.184.dyn.tcadmin.net": 1,
-    "https://15.204.247.166.dyn.tcadmin.net": 1,
-    "https://arctic.lervs.ro": 1,
-    "https://update.update.update.update.dev.bananaschool.duckdns.org": 1,
-    "https://update.update.www.www.dev.bananaschool.duckdns.org": 1,
-    "https://update.www.www.dev.bananaschool.duckdns.org": 1,
-    "https://admin.dev.bananaschool.duckdns.org": 1,
-    "https://qnewiatr.bananaschool.duckdns.org": 1,
-    "https://arctic.grahammurryinsuranceagency.com": 1,
-    "https://uhcontentkeeperhowlol.beerporn.org": 1,
-    "https://history.wikidelia.net": 1,
-    "https://ixlmathenglish.wikidelia.net": 1,
-    "https://learn.wikidelia.net": 1,
-    "https://mathxl.wikidelia.net": 1
+    "https://51.222.206.184.dyn.tcadmin.net": 2,
+    "https://15.204.247.166.dyn.tcadmin.net": 2,
+    "https://dd-student-dash.educationate.space.cdn.cloudflare.net": 1,
+    "https://arctic.lervs.ro": 2,
+    "https://arctic.grahammurryinsuranceagency.com": 2,
+    "https://uhcontentkeeperhowlol.beerporn.org": 2,
+    "https://history.wikidelia.net": 2,
+    "https://ixlmathenglish.wikidelia.net": 2,
+    "https://learn.wikidelia.net": 2,
+    "https://mathxl.wikidelia.net": 2
   },
   "links": [
     {
