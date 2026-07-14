@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r193",
-    "last_updated": "July 12, 2026",
+    "revision": "r194",
+    "last_updated": "July 14, 2026",
     "unsorted_total": 2037,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,24 +79,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-14T13:27:04Z",
-    "checked_at_display": "2026-07-14 13:27 UTC",
+    "checked_at": "2026-07-14T19:14:51Z",
+    "checked_at_display": "2026-07-14 19:14 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 7,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://arctic.lervs.ro",
+      "https://arctic.grahammurryinsuranceagency.com",
+      "https://uhcontentkeeperhowlol.beerporn.org",
+      "https://history.wikidelia.net",
+      "https://ixlmathenglish.wikidelia.net",
+      "https://learn.wikidelia.net",
+      "https://mathxl.wikidelia.net"
+    ]
   },
   "failing_links": {
-    "https://51.222.206.184.dyn.tcadmin.net": 2,
-    "https://15.204.247.166.dyn.tcadmin.net": 2,
-    "https://dd-student-dash.educationate.space.cdn.cloudflare.net": 1,
-    "https://arctic.lervs.ro": 2,
-    "https://arctic.grahammurryinsuranceagency.com": 2,
-    "https://uhcontentkeeperhowlol.beerporn.org": 2,
-    "https://history.wikidelia.net": 2,
-    "https://ixlmathenglish.wikidelia.net": 2,
-    "https://learn.wikidelia.net": 2,
-    "https://mathxl.wikidelia.net": 2
+    "https://dd-student-dash.educationate.space.cdn.cloudflare.net": 2
   },
   "links": [
     {
@@ -16561,139 +16560,6 @@
       "locked": "",
       "link": "https://finleyisabum.vixenlights.com/",
       "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://arctic.lervs.ro",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://arctic.grahammurryinsuranceagency.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://uhcontentkeeperhowlol.beerporn.org",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://history.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://ixlmathenglish.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://learn.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧊 Arctic",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://mathxl.wikidelia.net",
-      "found": "5/6/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
