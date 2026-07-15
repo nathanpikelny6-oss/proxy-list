@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r195",
+    "revision": "r196",
     "last_updated": "July 15, 2026",
     "unsorted_total": 2037,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,26 +79,25 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-15T08:02:32Z",
-    "checked_at_display": "2026-07-15 08:02 UTC",
+    "checked_at": "2026-07-15T13:29:07Z",
+    "checked_at_display": "2026-07-15 13:29 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://main.d39joesfd55qkg.amplifyapp.com",
+      "https://s3.amazonaws.com/ghst/index.html"
+    ]
   },
   "failing_links": {
-    "https://main.d39joesfd55qkg.amplifyapp.com": 2,
-    "https://nirbyteslove.comaschitech.com": 1,
-    "https://subnirbytesyt.comaschitech.com": 1,
-    "https://ilovenirbytes.gerenna.com": 1,
-    "https://nirbytescheesy.savequeechylake.org": 1,
-    "https://nirbytesisback.thelich.monster": 1,
-    "https://s3.amazonaws.com/ghst/index.html": 2,
-    "https://51.222.206.184.dyn.tcadmin.net": 1,
-    "https://15.204.247.166.dyn.tcadmin.net": 1,
-    "https://pr.evelynslost.party": 1,
-    "https://tuffmango.grahammurryinsuranceagency.com": 1,
-    "https://cheesyweb.tech": 1
+    "https://nirbyteslove.comaschitech.com": 2,
+    "https://subnirbytesyt.comaschitech.com": 2,
+    "https://ilovenirbytes.gerenna.com": 2,
+    "https://nirbytescheesy.savequeechylake.org": 2,
+    "https://nirbytesisback.thelich.monster": 2,
+    "https://pr.evelynslost.party": 2,
+    "https://tuffmango.grahammurryinsuranceagency.com": 2,
+    "https://cheesyweb.tech": 2
   },
   "links": [
     {
@@ -5254,44 +5253,6 @@
       "locked": "",
       "link": "https://math.reformarchive.com",
       "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "👻 Ghost",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://main.d39joesfd55qkg.amplifyapp.com/",
-      "found": "3/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "👻 Ghost",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/ghst/index.html",
-      "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
