@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r196",
+    "revision": "r197",
     "last_updated": "July 15, 2026",
-    "unsorted_total": 2037,
+    "unsorted_total": 2042,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -79,26 +79,23 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-15T13:29:07Z",
-    "checked_at_display": "2026-07-15 13:29 UTC",
+    "checked_at": "2026-07-15T19:06:25Z",
+    "checked_at_display": "2026-07-15 19:06 UTC",
     "added_count": 0,
-    "removed_count": 2,
+    "removed_count": 8,
     "added_links": [],
     "removed_links": [
-      "https://main.d39joesfd55qkg.amplifyapp.com",
-      "https://s3.amazonaws.com/ghst/index.html"
+      "https://nirbyteslove.comaschitech.com",
+      "https://subnirbytesyt.comaschitech.com",
+      "https://ilovenirbytes.gerenna.com",
+      "https://nirbytescheesy.savequeechylake.org",
+      "https://nirbytesisback.thelich.monster",
+      "https://pr.evelynslost.party",
+      "https://tuffmango.grahammurryinsuranceagency.com",
+      "https://cheesyweb.tech"
     ]
   },
-  "failing_links": {
-    "https://nirbyteslove.comaschitech.com": 2,
-    "https://subnirbytesyt.comaschitech.com": 2,
-    "https://ilovenirbytes.gerenna.com": 2,
-    "https://nirbytescheesy.savequeechylake.org": 2,
-    "https://nirbytesisback.thelich.monster": 2,
-    "https://pr.evelynslost.party": 2,
-    "https://tuffmango.grahammurryinsuranceagency.com": 2,
-    "https://cheesyweb.tech": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -12131,158 +12128,6 @@
       "password": "N/A",
       "contributor": "yourworstnightmare1",
       "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://nirbyteslove.comaschitech.com/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://subnirbytesyt.comaschitech.com/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://ilovenirbytes.gerenna.com/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://nirbytescheesy.savequeechylake.org/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://nirbytesisback.thelich.monster/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://pr.evelynslost.party",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://tuffmango.grahammurryinsuranceagency.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🧀 Cheesy",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://cheesyweb.tech",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
     },
     {
       "provider": "🔫 AWP",

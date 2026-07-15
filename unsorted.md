@@ -2040,3 +2040,8 @@ Move links from here into `list.md` once sorted.
 - https://www.update.vutsrmlkjqpupdate.hcbaupdate.98365432update.update.76update.158-69-222-114.sslip.io
 - https://learnwithvcsa.martinwguy.net
 - https://432www.update.update.76update.158-69-222-114.sslip.io
+- https://nirbyteslove.comaschitech.com
+- https://subnirbytesyt.comaschitech.com
+- https://ilovenirbytes.gerenna.com
+- https://nirbytescheesy.savequeechylake.org
+- https://nirbytesisback.thelich.monster
