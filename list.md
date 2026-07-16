@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r197 | Last Updated: July 15, 2026
+> r198 | Last Updated: July 16, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -84,7 +84,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | captcha | Ultraviolet | 27 |
+> | Proxy/Games | captcha | Ultraviolet | 25 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
@@ -100,8 +100,6 @@ Fixed a security vulnerability.
 | | https://gegmbayzka.monedita.cl/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://tetosarcade.win/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://h2aihbtm.frogseducation.com/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://ynlfqehb.stmpreschool.org/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://rb3hwx4r.lakehillpreschool.org/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://phi.bz/ | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://parkviewpylusd.org/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://denisonisd.org/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
@@ -693,86 +691,6 @@ Fixed a security vulnerability.
 | | https://thestudyhelps.wikidelia.net | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://twistedgocrazy26.wikidelia.net | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 
-# 🪐 Galaxy
-> [!NOTE]
-> | Category | Capabilities | Protocol(s) | Links |
-> | - | - | - | - |
-> | Proxy/Games | libcurl, epoxy, wisp | Scramjet, Ultraviolet | 68 |
-
-> [!IMPORTANT]
-> Galaxy does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
-
-| Locked | Link | Found Date | Username | Password | Contributor |
-| - | - | - | - | - | - |
-| | https://campus.calculus.project.lecture.engineering.everestkc.com.np/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | http://hmmmmmmmm.monedita.cl/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youaresosamige.govt.hu/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://yougotme.mysaol.com/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youaremyfire.verymad.net/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://uhybefvbhuyifvdhiu.cuetara.name/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://iliketoeat.ftp.sh/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://imlikeby2025.hosts.name/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youareagooner.ovie.gob.mx/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://imsoslay.yodyiam.com/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youaremysunshine.auszeitseminar.ch/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://infgbifbgijm.cuetara.name/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://dfdfsdfs.rinet.ai/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://imlikefgfgd.rinet.ai/onboarding/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://food.gostiljerestoran.rs/ | 3/28/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://granit.granit-union.ru/ | 3/28/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://doyourshcoolwork.cuetara.name/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youaresomean.cuetara.name/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://youlikepoop.cuetara.name/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://eatyourfoodnotmine.rinet.ai/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://somean.rinet.ai/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://justmathgames.auszeitseminar.ch/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://mathgamesarefun.auszeitseminar.ch/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://doyourwork.lyxcorp.com/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://mathgames.lyxcorp.com/onboarding/ | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | http://teacher.art.science.math.biology.top-povar.ru/ | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://aside.segurosdepersonas.cl/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://vek.polden21vek.ru/onboarding/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://polden.polden21vek.ru/onboarding/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://21vek.polden21vek.ru/onboarding/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://21.polden21vek.ru/onboarding/ | 4/26/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://glacier-water.waterloobae.com/onboarding/ | 4/27/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://crops.primeflk.ch/onboarding/ | 4/27/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://filterbrowser.tiatex.com/onboarding/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://start.pastorschwittay.com.ar/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://filter.pilatesfitness.co.uk/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://gfgfgfg.dnswish.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://dfgdfgdfg.maxmir-energy.ru/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://ghhgvgvgh.maxmir-energy.ru/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://dffdgdfgdfg.bryankrawetz.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://ffgfgfgfgh.bryankrawetz.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://dgfdfgdfgfgd.fppagos.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://gvcgfhgfhfg.fppagos.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://dffdgdfg.robbinsaviation.com/ | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://learning.drama.biology.algebra.teacher.japan.is | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://learning.history.drama.vocabulary.writing.japan.is | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://winter.snow.coldness.frostbite.frozen.christmas.japan.is | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://writing.english.assignment.technology.classroom.japan.is | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://monocal.dinocol.co.uk | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://greenfn.beerporn.org | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://belt-frog.beltfrog.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://belt.beltfrog.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://frog-belt.beltfrog.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://frog.beltfrog.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://froggie.beltfrog.com | 5/4/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://doyourwork.lervs.ro | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://fdfggdfgdf.lervs.ro | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://ohiolearningschools.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://jane.academinctools.pw | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://jane.agreca.com.ar | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://your.early.cbcsystems.co.uk | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://your.lives.work.easternstouch.co.za | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://galaxy.altonhabitat.info | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://galaxy.altonhabitat.store | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://galaxy.altonhabitat.online | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://programming.grammar.drama.biology.physics.glenoriebakery.com.au | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://classroom.library.chemistry.learning.music.glenoriebakery.com.au | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://moreinfo.wikidelia.net | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-
 # ♈ Zodiac
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
@@ -1292,7 +1210,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | unknown | 16 |
+> | Proxy/Games | unknown | unknown | 15 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
@@ -1311,7 +1229,6 @@ Fixed a security vulnerability.
 | | https://practice-routine.isfacat.net | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://knowledge-flow.maverickden.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 | | https://focus-system.ncknms.com | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
-| | https://study-performance.wayner.ca | 5/2/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)|
 
 # Suntree
 > [!NOTE]
