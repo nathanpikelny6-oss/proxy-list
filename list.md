@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r198 | Last Updated: July 16, 2026
+> r199 | Last Updated: July 17, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -1124,19 +1124,6 @@ Fixed a security vulnerability.
 | | https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/real-theorem-2414@main/doesn.svg | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://bobbydongschreinerus8.weebly.com/my-work.html | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://seabeanixlmath.wikidelia.net | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-
-# Infamous
-> [!NOTE]
-> | Category | Capabilities | Protocol(s) | Links |
-> | - | - | - | - |
-> | pending | pending | pending | 1 |
-
-> [!IMPORTANT]
-> This section has not been categorized or checked for protocol(s) and capabilities.
-
-| Locked | Link | Found Date | Username | Password | Contributor |
-| - | - | - | - | - | - |
-| | https://infamous.qzz.io/ | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 
 # 💙 LuminalOS
 > [!NOTE]

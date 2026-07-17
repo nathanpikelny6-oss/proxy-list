@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r198",
-    "last_updated": "July 16, 2026",
+    "revision": "r199",
+    "last_updated": "July 17, 2026",
     "unsorted_total": 2042,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,16 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-17T13:20:20Z",
-    "checked_at_display": "2026-07-17 13:20 UTC",
+    "checked_at": "2026-07-17T19:02:21Z",
+    "checked_at_display": "2026-07-17 19:02 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://infamous.qzz.io"
+    ]
   },
   "failing_links": {
-    "https://speedlight.asthaibangla.com": 1,
-    "https://infamous.qzz.io": 2
+    "https://speedlight.asthaibangla.com": 2
   },
   "links": [
     {
@@ -13388,25 +13389,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "Infamous",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://infamous.qzz.io/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "💙 LuminalOS",
