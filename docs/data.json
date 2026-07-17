@@ -79,14 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-17T02:22:51Z",
-    "checked_at_display": "2026-07-17 02:22 UTC",
+    "checked_at": "2026-07-17T08:04:12Z",
+    "checked_at_display": "2026-07-17 08:04 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://infamous.qzz.io": 1
+  },
   "links": [
     {
       "provider": "💜 Selenite",
