@@ -79,15 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-17T08:04:12Z",
-    "checked_at_display": "2026-07-17 08:04 UTC",
+    "checked_at": "2026-07-17T13:20:20Z",
+    "checked_at_display": "2026-07-17 13:20 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://infamous.qzz.io": 1
+    "https://speedlight.asthaibangla.com": 1,
+    "https://infamous.qzz.io": 2
   },
   "links": [
     {
