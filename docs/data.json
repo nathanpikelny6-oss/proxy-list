@@ -79,17 +79,22 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-18T18:58:36Z",
-    "checked_at_display": "2026-07-18 18:58 UTC",
+    "checked_at": "2026-07-19T02:24:07Z",
+    "checked_at_display": "2026-07-19 02:24 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://knowledge-flow.maverickden.com": 1,
-    "https://trigonometry.scientificsense.org": 1,
-    "https://warm-cloud.k12biology.com": 1
+    "https://math.canvas-lms.22web.org": 1,
+    "https://playernations.casadotricolor.com.br": 1,
+    "https://canvas.instructure.page.gd": 1,
+    "https://volcanicfrog2.srivaishnavam.org.au": 1,
+    "https://ixl-education.frogiearcade.academinctools.pw": 1,
+    "https://knowledge-flow.maverickden.com": 2,
+    "https://trigonometry.scientificsense.org": 2,
+    "https://warm-cloud.k12biology.com": 2
   },
   "links": [
     {
