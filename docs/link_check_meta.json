@@ -1,14 +1,8 @@
 {
-  "checked_at": "2026-07-19T13:10:16Z",
-  "checked_at_display": "2026-07-19 13:10 UTC",
+  "checked_at": "2026-07-19T19:01:23Z",
+  "checked_at_display": "2026-07-19 19:01 UTC",
   "added_count": 0,
-  "removed_count": 5,
+  "removed_count": 0,
   "added_links": [],
-  "removed_links": [
-    "https://math.canvas-lms.22web.org",
-    "https://playernations.casadotricolor.com.br",
-    "https://canvas.instructure.page.gd",
-    "https://volcanicfrog2.srivaishnavam.org.au",
-    "https://ixl-education.frogiearcade.academinctools.pw"
-  ]
+  "removed_links": []
 }
