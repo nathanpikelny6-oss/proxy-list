@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r201",
+    "revision": "r202",
     "last_updated": "July 19, 2026",
     "unsorted_total": 2042,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,24 +79,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-19T08:10:53Z",
-    "checked_at_display": "2026-07-19 08:10 UTC",
+    "checked_at": "2026-07-19T13:10:16Z",
+    "checked_at_display": "2026-07-19 13:10 UTC",
     "added_count": 0,
-    "removed_count": 3,
+    "removed_count": 5,
     "added_links": [],
     "removed_links": [
-      "https://knowledge-flow.maverickden.com",
-      "https://trigonometry.scientificsense.org",
-      "https://warm-cloud.k12biology.com"
+      "https://math.canvas-lms.22web.org",
+      "https://playernations.casadotricolor.com.br",
+      "https://canvas.instructure.page.gd",
+      "https://volcanicfrog2.srivaishnavam.org.au",
+      "https://ixl-education.frogiearcade.academinctools.pw"
     ]
   },
-  "failing_links": {
-    "https://math.canvas-lms.22web.org": 2,
-    "https://playernations.casadotricolor.com.br": 2,
-    "https://canvas.instructure.page.gd": 2,
-    "https://volcanicfrog2.srivaishnavam.org.au": 2,
-    "https://ixl-education.frogiearcade.academinctools.pw": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -362,25 +358,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://math.canvas-lms.22web.org/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐸 frogie's arcade",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://vallejocharterschool.org",
       "found": "2/19/2026",
       "username": "N/A",
@@ -439,25 +416,6 @@
       ],
       "locked": "",
       "link": "https://backshots.ero.is/",
-      "found": "4/17/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐸 frogie's arcade",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://playernations.casadotricolor.com.br/",
       "found": "4/17/2026",
       "username": "N/A",
       "password": "N/A",
@@ -687,63 +645,6 @@
       "locked": "",
       "link": "https://hcstemm.org/",
       "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐸 frogie's arcade",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://canvas.instructure.page.gd/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐸 frogie's arcade",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://volcanicfrog2.srivaishnavam.org.au",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🐸 frogie's arcade",
-      "category": "Proxy/Games",
-      "capabilities": "captcha",
-      "capability_tags": [
-        "captcha"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://ixl-education.frogiearcade.academinctools.pw",
-      "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
