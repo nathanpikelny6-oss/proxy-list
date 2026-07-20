@@ -79,14 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-20T13:58:22Z",
-    "checked_at_display": "2026-07-20 13:58 UTC",
+    "checked_at": "2026-07-20T19:40:08Z",
+    "checked_at_display": "2026-07-20 19:40 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://ethostulsa.org": 1
+  },
   "links": [
     {
       "provider": "💜 Selenite",
