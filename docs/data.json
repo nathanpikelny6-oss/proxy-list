@@ -79,15 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-20T19:40:08Z",
-    "checked_at_display": "2026-07-20 19:40 UTC",
+    "checked_at": "2026-07-21T02:23:14Z",
+    "checked_at_display": "2026-07-21 02:23 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://ethostulsa.org": 1
+    "https://shindoisbest.s3.amazonaws.com/index.html": 1,
+    "https://s3.amazonaws.com/shindoisbest/index.html": 1
   },
   "links": [
     {
