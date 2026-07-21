@@ -2045,3 +2045,4 @@ Move links from here into `list.md` once sorted.
 - https://ilovenirbytes.gerenna.com
 - https://nirbytescheesy.savequeechylake.org
 - https://nirbytesisback.thelich.monster
+- https://s3.amazonaws.com/shindoisbest/index.html
