@@ -79,14 +79,38 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-23T08:24:13Z",
-    "checked_at_display": "2026-07-23 08:24 UTC",
+    "checked_at": "2026-07-23T13:49:14Z",
+    "checked_at_display": "2026-07-23 13:49 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://music.prep.zap3.net": 1,
+    "https://amane1210.malmo.cl": 1,
+    "https://polariseradne.jumpingcrab.com": 1,
+    "https://burger.lain.ch": 1,
+    "https://hondaispeak.hondascooterparts.com": 1,
+    "https://mathstudy.hotelconsuladoinn.com": 1,
+    "https://login.guide.hotelconsuladoinn.com": 1,
+    "https://education.jrshark.com": 1,
+    "https://playernation.tokeslaszlo.ro": 1,
+    "https://utipia.choco.rinet.ai": 1,
+    "https://alexlol.mooo.com": 1,
+    "https://this-is-the-future.casadotricolor.com.br": 1,
+    "https://bum.education": 1,
+    "https://theory.grade.bamastuff.com": 1,
+    "https://grid.skills.geckobungalow.com": 1,
+    "https://sub.to.square-hippo.fritsche.org": 1,
+    "https://sub.to.square-hippo.meshtastic.hu": 1,
+    "https://gov.usa.agmlabs.com": 1,
+    "https://utopia-da-best.310386.xyz": 1,
+    "https://educationlessons.crabdance.com": 1,
+    "https://www.youtube.com.dinocol.co.uk": 1,
+    "https://grade.recap.europeserv.org": 1,
+    "https://know.tech.europeserv.org": 1
+  },
   "links": [
     {
       "provider": "💜 Selenite",
