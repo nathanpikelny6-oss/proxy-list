@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r205",
+    "revision": "r206",
     "last_updated": "July 24, 2026",
     "unsorted_total": 2046,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,41 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-24T02:23:44Z",
-    "checked_at_display": "2026-07-24 02:23 UTC",
+    "checked_at": "2026-07-24T08:21:24Z",
+    "checked_at_display": "2026-07-24 08:21 UTC",
     "added_count": 0,
-    "removed_count": 23,
+    "removed_count": 2,
     "added_links": [],
     "removed_links": [
-      "https://education.jrshark.com",
-      "https://music.prep.zap3.net",
-      "https://amane1210.malmo.cl",
-      "https://polariseradne.jumpingcrab.com",
-      "https://burger.lain.ch",
-      "https://hondaispeak.hondascooterparts.com",
-      "https://mathstudy.hotelconsuladoinn.com",
-      "https://login.guide.hotelconsuladoinn.com",
-      "https://playernation.tokeslaszlo.ro",
-      "https://utipia.choco.rinet.ai",
-      "https://alexlol.mooo.com",
-      "https://this-is-the-future.casadotricolor.com.br",
-      "https://bum.education",
-      "https://www.youtube.com.dinocol.co.uk",
-      "https://theory.grade.bamastuff.com",
-      "https://grid.skills.geckobungalow.com",
-      "https://sub.to.square-hippo.fritsche.org",
-      "https://sub.to.square-hippo.meshtastic.hu",
-      "https://gov.usa.agmlabs.com",
-      "https://utopia-da-best.310386.xyz",
-      "https://educationlessons.crabdance.com",
-      "https://grade.recap.europeserv.org",
-      "https://know.tech.europeserv.org"
+      "https://mathgames.quickaminos.com",
+      "https://auto.dinprima.ro"
     ]
   },
-  "failing_links": {
-    "https://auto.dinprima.ro": 2,
-    "https://mathgames.quickaminos.com": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -2371,28 +2347,6 @@
       ],
       "locked": "",
       "link": "https://math.soyescalahumana.cl",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://mathgames.quickaminos.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7572,30 +7526,6 @@
       ],
       "locked": "",
       "link": "https://science.rules.sgigestion.com/",
-      "found": "3/28/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⬡ TGLSC Density 4",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, baremux, baremod, grammaray",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "baremux",
-        "baremod",
-        "grammaray"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://auto.dinprima.ro/",
       "found": "3/28/2026",
       "username": "N/A",
       "password": "N/A",
