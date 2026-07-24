@@ -2046,3 +2046,6 @@ Move links from here into `list.md` once sorted.
 - https://nirbytescheesy.savequeechylake.org
 - https://nirbytesisback.thelich.monster
 - https://s3.amazonaws.com/shindoisbest/index.html
+- https://login.guide.hotelconsuladoinn.com
+- https://mathstudy.hotelconsuladoinn.com
+- https://bum.education
