@@ -79,15 +79,15 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-25T13:17:26Z",
-    "checked_at_display": "2026-07-25 13:17 UTC",
+    "checked_at": "2026-07-25T19:02:03Z",
+    "checked_at_display": "2026-07-25 19:02 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html": 1
+    "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html": 2
   },
   "links": [
     {
