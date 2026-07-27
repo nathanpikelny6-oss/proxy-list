@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r206",
-    "last_updated": "July 24, 2026",
-    "unsorted_total": 2046,
+    "revision": "r207",
+    "last_updated": "July 27, 2026",
+    "unsorted_total": 2049,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -79,42 +79,41 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-27T02:36:29Z",
-    "checked_at_display": "2026-07-27 02:36 UTC",
+    "checked_at": "2026-07-27T09:43:40Z",
+    "checked_at_display": "2026-07-27 09:43 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 3,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://buy.aeroantenna.com",
+      "https://learn.vseesa.gpu74.ru",
+      "https://listening.chinapoem.org"
+    ]
   },
   "failing_links": {
-    "https://fastgeo.eclipsecastellon.net": 1,
-    "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html": 1,
-    "https://topcalc.kelownaembroidery.ca": 1,
-    "https://us-history-png-book.takh.ee": 1,
-    "https://fastgeo.egevad.se": 1,
-    "https://fastbio.egevad.se": 1,
-    "https://solidchem.tejidosdedignidad.org": 1,
-    "https://prophysics.tomaszu.com": 1,
-    "https://rapidlogic.kiddphunk.com": 1,
-    "https://deepgrammar.kiddphunk.com": 1,
-    "https://toplogic.kiddphunk.com": 1,
-    "https://deepreading.kiddphunk.com": 1,
-    "https://quickwriting.cyberninja.ie": 1,
-    "https://buy.aeroantenna.com": 2,
-    "https://learn.vseesa.gpu74.ru": 2,
-    "https://listening.chinapoem.org": 2,
-    "https://ktxcfvocsm.meshtastic.hu": 1,
-    "https://hvtzw.reformarchive.com": 1,
-    "https://keenenglish.bamastuff.com": 1,
-    "https://topalgebra.bamastuff.com": 1,
-    "https://easycalc.bamastuff.com": 1,
-    "https://neatbio.bamastuff.com": 1,
-    "https://rapidpoems.bamastuff.com": 1,
-    "https://brightgeo.reformarchive.com": 1,
-    "https://acechem.reformarchive.com": 1,
-    "https://truelogic.reformarchive.com": 1,
-    "https://topgrammar.reformarchive.com": 1,
-    "https://coolscience.babypos.hk": 1
+    "https://fastgeo.eclipsecastellon.net": 2,
+    "https://topcalc.kelownaembroidery.ca": 2,
+    "https://us-history-png-book.takh.ee": 2,
+    "https://fastgeo.egevad.se": 2,
+    "https://fastbio.egevad.se": 2,
+    "https://solidchem.tejidosdedignidad.org": 2,
+    "https://prophysics.tomaszu.com": 2,
+    "https://rapidlogic.kiddphunk.com": 2,
+    "https://deepgrammar.kiddphunk.com": 2,
+    "https://toplogic.kiddphunk.com": 2,
+    "https://deepreading.kiddphunk.com": 2,
+    "https://quickwriting.cyberninja.ie": 2,
+    "https://ktxcfvocsm.meshtastic.hu": 2,
+    "https://keenenglish.bamastuff.com": 2,
+    "https://topalgebra.bamastuff.com": 2,
+    "https://easycalc.bamastuff.com": 2,
+    "https://neatbio.bamastuff.com": 2,
+    "https://rapidpoems.bamastuff.com": 2,
+    "https://brightgeo.reformarchive.com": 2,
+    "https://acechem.reformarchive.com": 2,
+    "https://truelogic.reformarchive.com": 2,
+    "https://topgrammar.reformarchive.com": 2,
+    "https://coolscience.babypos.hk": 2
   },
   "links": [
     {
@@ -4143,67 +4142,7 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://buy.aeroantenna.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://learn.vseesa.gpu74.ru/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://tickets.blackbearshow.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://listening.chinapoem.org/",
       "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",

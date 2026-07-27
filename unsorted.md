@@ -2049,3 +2049,6 @@ Move links from here into `list.md` once sorted.
 - https://login.guide.hotelconsuladoinn.com
 - https://mathstudy.hotelconsuladoinn.com
 - https://bum.education
+- https://buy.aeroantenna.com
+- https://learn.vseesa.gpu74.ru
+- https://listening.chinapoem.org
