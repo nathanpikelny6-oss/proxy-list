@@ -79,15 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-29T02:14:24Z",
-    "checked_at_display": "2026-07-29 02:14 UTC",
+    "checked_at": "2026-07-29T08:34:33Z",
+    "checked_at_display": "2026-07-29 08:34 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://vcsanewvideout.npoleninetz.ru": 1
+    "https://vcsanewvideout.npoleninetz.ru": 2,
+    "https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html": 1
   },
   "links": [
     {
