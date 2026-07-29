@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r210 | Last Updated: July 29, 2026
+> r211 | Last Updated: July 29, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -247,7 +247,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | unknown | Scramjet | 2 |
+> | Proxy/Games | unknown | Scramjet | 1 |
 
 > [!IMPORTANT]
 > Truffled does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
@@ -255,7 +255,6 @@ Fixed a security vulnerability.
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
 | | https://script.google.com/macros/s/AKfycbwqqo2qu8qT_KWNwhFRMIa-IzTs2S3vgH_7Rx14OCM8dSJU_u3TUCC7AMsrTtjo2oG-rQ/exec | 4/21/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://vcsa-yt.blogspot.com/2026/02/82-new-websites.html | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 
 # 🥱 Boredom
 > [!NOTE]
