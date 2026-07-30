@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r213",
+    "revision": "r214",
     "last_updated": "July 30, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,20 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-30T08:19:49Z",
-    "checked_at_display": "2026-07-30 08:19 UTC",
+    "checked_at": "2026-07-30T13:50:41Z",
+    "checked_at_display": "2026-07-30 13:50 UTC",
     "added_count": 0,
     "removed_count": 2,
     "added_links": [],
     "removed_links": [
-      "https://apis.nolathedogtherapist.com",
-      "https://api.nolathedogtherapist.com"
+      "https://dogeub.vseesa.martinwguy.net",
+      "https://learnwithplayernation.martinwguy.net"
     ]
   },
-  "failing_links": {
-    "https://dogeub.vseesa.martinwguy.net": 2,
-    "https://learnwithplayernation.martinwguy.net": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -3434,46 +3431,6 @@
       "locked": "",
       "link": "https://ixl.vseesa.edujose.com/",
       "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://dogeub.vseesa.martinwguy.net/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://learnwithplayernation.martinwguy.net/",
-      "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
