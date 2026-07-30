@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r212",
+    "revision": "r213",
     "last_updated": "July 30, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,25 +79,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-30T02:03:00Z",
-    "checked_at_display": "2026-07-30 02:03 UTC",
+    "checked_at": "2026-07-30T08:19:49Z",
+    "checked_at_display": "2026-07-30 08:19 UTC",
     "added_count": 0,
-    "removed_count": 6,
+    "removed_count": 2,
     "added_links": [],
     "removed_links": [
-      "https://classroom.hkieca.com",
-      "https://jobfinder.noamank.com",
-      "https://welcome.primeent.in",
-      "https://us-east-production-25671.rkimport.com",
-      "https://manage.peakconsulting.com.au",
-      "https://help.brynlewis.com"
+      "https://apis.nolathedogtherapist.com",
+      "https://api.nolathedogtherapist.com"
     ]
   },
   "failing_links": {
-    "https://apis.nolathedogtherapist.com": 2,
-    "https://api.nolathedogtherapist.com": 2,
-    "https://dogeub.vseesa.martinwguy.net": 1,
-    "https://learnwithplayernation.martinwguy.net": 1
+    "https://dogeub.vseesa.martinwguy.net": 2,
+    "https://learnwithplayernation.martinwguy.net": 2
   },
   "links": [
     {
@@ -2699,46 +2693,6 @@
       ],
       "locked": "",
       "link": "https://fontonwonton.github.io/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://apis.nolathedogtherapist.com/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://api.nolathedogtherapist.com/",
       "found": "4/18/2026",
       "username": "N/A",
       "password": "N/A",
