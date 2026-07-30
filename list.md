@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r211 | Last Updated: July 29, 2026
+> r212 | Last Updated: July 30, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -186,19 +186,13 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | epoxy, libcurl, wisp | Scramjet, Ultraviolet | 32 |
+> | Proxy/Games | epoxy, libcurl, wisp | Scramjet, Ultraviolet | 26 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
 | | https://places.vjason.com/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://ilovenirbytes.savequeechylake.org/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://learn.hr24.ro/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://classroom.hkieca.com/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://jobfinder.noamank.com/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://welcome.primeent.in/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://us-east-production-25671.rkimport.com/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://manage.peakconsulting.com.au/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://help.brynlewis.com/ | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://area.forwardersoft.com/ | 3/28/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://area.vm4construction.uk/ | 3/28/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://edu.rawr.africa.com/ | 4/17/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)

@@ -2057,3 +2057,8 @@ Move links from here into `list.md` once sorted.
 - https://j7yq0hxpvm1z.blueprintdigital.ca/proxe
 - https://01s86gjvslsk.frazzydee.ca/proxe
 - https://wpp6g1pnw9ob.stremar.cl/proxe
+- https://help.brynlewis.com
+- https://jobfinder.noamank.com
+- https://manage.peakconsulting.com.au
+- https://us-east-production-25671.rkimport.com
+- https://welcome.primeent.in
