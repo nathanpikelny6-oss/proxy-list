@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r214",
-    "last_updated": "July 30, 2026",
+    "revision": "r215",
+    "last_updated": "July 31, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,19 +79,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-07-31T02:29:30Z",
-    "checked_at_display": "2026-07-31 02:29 UTC",
+    "checked_at": "2026-07-31T08:44:29Z",
+    "checked_at_display": "2026-07-31 08:44 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 5,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://computers.maya24.com.np",
+      "https://mint.ploteando.com",
+      "https://travel.taniadomena.eu",
+      "https://politics.tomashirsch.cl",
+      "https://api.rdocart.com"
+    ]
   },
   "failing_links": {
-    "https://computers.maya24.com.np": 2,
-    "https://mint.ploteando.com": 2,
-    "https://travel.taniadomena.eu": 2,
-    "https://politics.tomashirsch.cl": 2,
-    "https://api.rdocart.com": 2
+    "https://ethostulsa.org": 1
   },
   "links": [
     {
@@ -2712,86 +2714,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://computers.maya24.com.np/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://mint.ploteando.com/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://travel.taniadomena.eu/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://politics.tomashirsch.cl/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://dogeub.github.io/",
       "found": "4/18/2026",
       "username": "N/A",
@@ -3374,26 +3296,6 @@
       "locked": "",
       "link": "https://s3.amazonaws.com/educationate/index.html#/",
       "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://api.rdocart.com/",
-      "found": "4/27/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
