@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r215",
-    "last_updated": "July 31, 2026",
+    "revision": "r216",
+    "last_updated": "August 01, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,15 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-01T08:14:16Z",
-    "checked_at_display": "2026-08-01 08:14 UTC",
+    "checked_at": "2026-08-01T13:11:46Z",
+    "checked_at_display": "2026-08-01 13:11 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://cbysk.fxchinese.ca"
+    ]
   },
   "failing_links": {
-    "https://cbysk.fxchinese.ca": 2
+    "https://stock95633.wixsite.com/content-fetcher": 1
   },
   "links": [
     {
@@ -5072,25 +5074,6 @@
       "locked": "",
       "link": "https://g305-4.karjase.ee",
       "found": "3/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://cbysk.fxchinese.ca/",
-      "found": "4/17/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
