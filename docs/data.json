@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r216",
-    "last_updated": "August 01, 2026",
+    "revision": "r217",
+    "last_updated": "August 02, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-02T02:27:35Z",
-    "checked_at_display": "2026-08-02 02:27 UTC",
+    "checked_at": "2026-08-02T08:17:13Z",
+    "checked_at_display": "2026-08-02 08:17 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://supitscameron.bisblick.org"
+    ]
   },
-  "failing_links": {
-    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
-    "https://supitscameron.bisblick.org": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -1133,30 +1132,6 @@
       "locked": "",
       "link": "https://outerspace.boiso.ar",
       "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://supitscameron.bisblick.org/",
-      "found": "4/30/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
