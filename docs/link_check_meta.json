@@ -1,8 +1,13 @@
 {
-  "checked_at": "2026-08-03T14:31:02Z",
-  "checked_at_display": "2026-08-03 14:31 UTC",
+  "checked_at": "2026-08-03T19:25:56Z",
+  "checked_at_display": "2026-08-03 19:25 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 4,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://sp6.arionskyclub.com",
+    "https://education.arionskyclub.com",
+    "https://studyhub.arionskyclub.com",
+    "https://strawberry.arionskyclub.com"
+  ]
 }
