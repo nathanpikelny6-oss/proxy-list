@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r218",
-    "last_updated": "August 03, 2026",
+    "revision": "r219",
+    "last_updated": "August 04, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,21 +79,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-03T19:25:56Z",
-    "checked_at_display": "2026-08-03 19:25 UTC",
+    "checked_at": "2026-08-04T02:09:12Z",
+    "checked_at_display": "2026-08-04 02:09 UTC",
     "added_count": 0,
-    "removed_count": 4,
+    "removed_count": 2,
     "added_links": [],
     "removed_links": [
-      "https://sp6.arionskyclub.com",
-      "https://education.arionskyclub.com",
-      "https://studyhub.arionskyclub.com",
-      "https://strawberry.arionskyclub.com"
+      "https://subscribevcsa.barrelofmakers.org",
+      "https://ixl.vseesa.edujose.com"
     ]
   },
   "failing_links": {
-    "https://subscribevcsa.barrelofmakers.org": 2,
-    "https://ixl.vseesa.edujose.com": 2
+    "https://edu-gov-k12-school-learn-study.sylu.cc.cdn.cloudflare.net": 1
   },
   "links": [
     {
@@ -3250,46 +3247,6 @@
       "locked": "",
       "link": "https://s3.amazonaws.com/educationate/index.html#/",
       "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://subscribevcsa.barrelofmakers.org/",
-      "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://ixl.vseesa.edujose.com/",
-      "found": "4/27/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
