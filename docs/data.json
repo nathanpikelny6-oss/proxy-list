@@ -79,14 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-05T13:59:57Z",
-    "checked_at_display": "2026-08-05 13:59 UTC",
+    "checked_at": "2026-08-05T19:24:24Z",
+    "checked_at_display": "2026-08-05 19:24 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://jmw.grandemass.tokeslaszlo.ro": 1
+  },
   "links": [
     {
       "provider": "💜 Selenite",
