@@ -1,8 +1,10 @@
 {
-  "checked_at": "2026-08-06T02:12:30Z",
-  "checked_at_display": "2026-08-06 02:12 UTC",
+  "checked_at": "2026-08-06T08:29:25Z",
+  "checked_at_display": "2026-08-06 08:29 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://jmw.grandemass.tokeslaszlo.ro"
+  ]
 }
