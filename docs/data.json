@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r223",
-    "last_updated": "August 06, 2026",
+    "revision": "r224",
+    "last_updated": "August 07, 2026",
     "unsorted_total": 2059,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,20 +79,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-07T02:29:32Z",
-    "checked_at_display": "2026-08-07 02:29 UTC",
+    "checked_at": "2026-08-07T07:09:16Z",
+    "checked_at_display": "2026-08-07 07:09 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 5,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://j16ab7ri.darkroom-lang.org",
+      "https://447fl1g9.darkroom-lang.org",
+      "https://soqh41gy.darkroom-lang.org",
+      "https://zxgzmbkfogafegoaenus.supabase.co/storage/v1/object/public/test/PETEZAH/main.svg",
+      "https://mouse.shitteacher.com"
+    ]
   },
-  "failing_links": {
-    "https://j16ab7ri.darkroom-lang.org": 2,
-    "https://447fl1g9.darkroom-lang.org": 2,
-    "https://soqh41gy.darkroom-lang.org": 2,
-    "https://mouse.shitteacher.com": 2,
-    "https://zxgzmbkfogafegoaenus.supabase.co/storage/v1/object/public/test/PETEZAH/main.svg": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -2666,66 +2666,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://j16ab7ri.darkroom-lang.org/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://447fl1g9.darkroom-lang.org/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://soqh41gy.darkroom-lang.org/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://edu.50friends.com.mx/",
       "found": "4/18/2026",
       "username": "N/A",
@@ -4236,25 +4176,6 @@
         "scramjet"
       ],
       "locked": "",
-      "link": "https://zxgzmbkfogafegoaenus.supabase.co/storage/v1/object/public/test/PETEZAH/main.svg",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍕 PeteZah",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
       "link": "https://cdn.jsdelivr.net/gh/Eraclio28/PeteZahStaticDone@main/new.svg",
       "found": "5/1/2026",
       "username": "N/A",
@@ -4795,25 +4716,6 @@
       "locked": "",
       "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz10430/index.html",
       "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://mouse.shitteacher.com/",
-      "found": "3/25/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
