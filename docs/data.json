@@ -79,39 +79,31 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-08T06:44:32Z",
-    "checked_at_display": "2026-08-08 06:44 UTC",
+    "checked_at": "2026-08-08T12:39:47Z",
+    "checked_at_display": "2026-08-08 12:39 UTC",
     "added_count": 0,
-    "removed_count": 5,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://outerspace.boiso.ar",
-      "https://g305-1.karjase.ee",
-      "https://g305-2.karjase.ee",
-      "https://g305-3.karjase.ee",
-      "https://g305-4.karjase.ee"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://tglsceducation.nanobit.org": 1,
-    "https://science.rules.sgigestion.com": 1,
-    "https://novacs.letiatours.com": 1,
-    "https://virtualgeo.letiatours.com": 1,
-    "https://aerospace.solarorbit.webs.vc": 1,
-    "https://experiments.nasa.casadotricolor.com.br": 1,
-    "https://ixl.host.safe.delystigemusikanter.com": 1,
-    "https://science.rules.aayushbhandari.com.np": 1,
-    "https://tisd-student-portal.aayushbhandari.com.np": 1,
-    "https://eladesceelasobe.lervs.ro": 1,
-    "https://tisd-lunch-department.kelownaembroidery.ca": 1,
-    "https://glseries.net": 1,
-    "https://anythingbutwork.wikidelia.net": 1,
-    "https://dontlust.wikidelia.net": 1,
-    "https://historyislife.wikidelia.net": 1,
-    "https://ineedtolarpnow.wikidelia.net": 1,
-    "https://scienceiskey.wikidelia.net": 1,
-    "https://thestudyhelps.wikidelia.net": 1,
-    "https://twistedgocrazy26.wikidelia.net": 1
+    "https://tglsceducation.nanobit.org": 2,
+    "https://science.rules.sgigestion.com": 2,
+    "https://aerospace.solarorbit.webs.vc": 2,
+    "https://experiments.nasa.casadotricolor.com.br": 2,
+    "https://ixl.host.safe.delystigemusikanter.com": 2,
+    "https://science.rules.aayushbhandari.com.np": 2,
+    "https://tisd-student-portal.aayushbhandari.com.np": 2,
+    "https://eladesceelasobe.lervs.ro": 2,
+    "https://tisd-lunch-department.kelownaembroidery.ca": 2,
+    "https://glseries.net": 2,
+    "https://anythingbutwork.wikidelia.net": 2,
+    "https://dontlust.wikidelia.net": 2,
+    "https://historyislife.wikidelia.net": 2,
+    "https://ineedtolarpnow.wikidelia.net": 2,
+    "https://scienceiskey.wikidelia.net": 2,
+    "https://thestudyhelps.wikidelia.net": 2,
+    "https://twistedgocrazy26.wikidelia.net": 2
   },
   "links": [
     {
