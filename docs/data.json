@@ -79,14 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-10T07:25:01Z",
-    "checked_at_display": "2026-08-10 07:25 UTC",
+    "checked_at": "2026-08-10T12:59:18Z",
+    "checked_at_display": "2026-08-10 12:59 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://third-army.surge.sh": 1
+  },
   "links": [
     {
       "provider": "💜 Selenite",
