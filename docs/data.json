@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r227",
-    "last_updated": "August 12, 2026",
+    "revision": "r228",
+    "last_updated": "August 15, 2026",
     "unsorted_total": 2060,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,19 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-15T01:01:28Z",
-    "checked_at_display": "2026-08-15 01:01 UTC",
+    "checked_at": "2026-08-15T06:31:14Z",
+    "checked_at_display": "2026-08-15 06:31 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://amd74.gpu74.ru",
+      "https://limto.riesgocrediticio.com"
+    ]
   },
-  "failing_links": {
-    "https://novacs.letiatours.com": 1,
-    "https://virtualgeo.letiatours.com": 1,
-    "https://amd74.gpu74.ru": 2,
-    "https://limto.riesgocrediticio.com": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "💜 Selenite",
@@ -675,46 +673,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍌 Jordan's Math Work",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://amd74.gpu74.ru/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍌 Jordan's Math Work",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://limto.riesgocrediticio.com/",
-      "found": "4/30/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "⭐ DayDream X",
