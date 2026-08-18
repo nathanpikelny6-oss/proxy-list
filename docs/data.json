@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r233",
-    "last_updated": "August 17, 2026",
+    "revision": "r234",
+    "last_updated": "August 18, 2026",
     "unsorted_total": 2060,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,34 +79,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-18T12:37:39Z",
-    "checked_at_display": "2026-08-18 12:37 UTC",
+    "checked_at": "2026-08-18T18:32:21Z",
+    "checked_at_display": "2026-08-18 18:32 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://history.drama.classroom.technology.science.doris-safety.com"
+    ]
   },
   "failing_links": {
-    "https://studyhub.alexanderthegreater.com": 1,
-    "https://recreation.gressvikbmx.no": 1,
-    "https://smartbio.lervs.ro": 1,
-    "https://science.flextron.xyz": 1,
-    "https://math.gressvikbmxklubb.com": 1,
-    "https://youth.gressvikbmx.com": 1,
-    "https://physics.bluntgang.info": 1,
-    "https://shopping.gandhinagar.com": 1,
-    "https://vcsa-yt.lervs.ro": 1,
-    "https://history.drama.classroom.technology.science.doris-safety.com": 2,
-    "https://humble.eggerfamily.org": 1,
-    "https://legal.solos.gr": 1,
-    "https://study.academinctools.pw": 1,
-    "https://waves.radioimpactfm.ro": 1,
-    "https://great.s4w.us": 1,
-    "https://goguard.budda.lv": 1,
-    "https://society.simplysweetcakesoc.com": 1,
-    "https://greenlight.tozsugianto.com": 1,
-    "https://class.bamastuff.com": 1,
-    "https://vcsa.babypos.hk": 1
+    "https://bobbydongschreinerus8.weebly.com/my-work.html": 1,
+    "https://seabeanixlmath.wikidelia.net": 1
   },
   "links": [
     {
@@ -10054,25 +10038,6 @@
       ],
       "locked": "",
       "link": "https://math.drama.engineering.lecture.reading.agreca.com.ar",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🟨 Noahs Tutoring",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://history.drama.classroom.technology.science.doris-safety.com",
       "found": "5/1/2026",
       "username": "N/A",
       "password": "N/A",

@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r233 | Last Updated: August 17, 2026
+> r234 | Last Updated: August 18, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -940,7 +940,7 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | pending | pending | pending | 7 |
+> | pending | pending | pending | 6 |
 
 > [!IMPORTANT]
 > This section has not been categorized or checked for protocol(s) and capabilities.
@@ -949,7 +949,6 @@ Fixed a security vulnerability.
 | - | - | - | - | - | - |
 | | http://learning.music.teacher.technology.student.thegleasons.net | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://math.drama.engineering.lecture.reading.agreca.com.ar | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
-| | https://history.drama.classroom.technology.science.doris-safety.com | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://math.computer.project.campus.writing.glenoriebakery.com.au | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://donuts.muffins.glenoriebakery.com.au | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 | | https://matthewtuah.wikidelia.net | 5/6/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
