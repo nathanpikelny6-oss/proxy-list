@@ -1,12 +1,8 @@
 {
-  "checked_at": "2026-08-21T06:39:00Z",
-  "checked_at_display": "2026-08-21 06:39 UTC",
+  "checked_at": "2026-08-21T12:38:41Z",
+  "checked_at_display": "2026-08-21 12:38 UTC",
   "added_count": 0,
-  "removed_count": 3,
+  "removed_count": 0,
   "added_links": [],
-  "removed_links": [
-    "https://edu.agatab.com",
-    "https://edu3.agatab.com",
-    "https://edu4.agatab.com"
-  ]
+  "removed_links": []
 }
