@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r237",
-    "last_updated": "August 20, 2026",
+    "revision": "r238",
+    "last_updated": "August 21, 2026",
     "unsorted_total": 2060,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,22 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-21T01:04:33Z",
-    "checked_at_display": "2026-08-21 01:04 UTC",
+    "checked_at": "2026-08-21T06:39:00Z",
+    "checked_at_display": "2026-08-21 06:39 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 3,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://edu.agatab.com",
+      "https://edu3.agatab.com",
+      "https://edu4.agatab.com"
+    ]
   },
   "failing_links": {
-    "https://edu.agatab.com": 2,
-    "https://edu3.agatab.com": 2,
-    "https://edu4.agatab.com": 2
+    "https://d1v5dyshakfvq5.cloudfront.net/index.html": 1,
+    "https://d3k3w4kgudbm85.cloudfront.net/index.html": 1,
+    "https://d1jjmz8198xmlw.cloudfront.net/index.html": 1,
+    "https://dmssv188xbv87.cloudfront.net/index.html": 1
   },
   "links": [
     {
@@ -4861,63 +4866,6 @@
       "locked": "",
       "link": "https://learningdash.edu-spark.top/",
       "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://edu.agatab.com/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://edu3.agatab.com/",
-      "found": "4/26/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "😈 Imp Proxy",
-      "category": "Proxy/Games",
-      "capabilities": "Unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://edu4.agatab.com/",
-      "found": "4/26/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
