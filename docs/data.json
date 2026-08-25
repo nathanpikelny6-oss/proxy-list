@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r241",
-    "last_updated": "August 23, 2026",
+    "revision": "r242",
+    "last_updated": "August 25, 2026",
     "unsorted_total": 2060,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-25T01:03:14Z",
-    "checked_at_display": "2026-08-25 01:03 UTC",
+    "checked_at": "2026-08-25T06:39:38Z",
+    "checked_at_display": "2026-08-25 06:39 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://mission.gap-peace.org"
+    ]
   },
-  "failing_links": {
-    "https://mission.gap-peace.org": 2,
-    "https://third-army.surge.sh": 1
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "🌙 Velara",
@@ -1840,28 +1839,6 @@
       ],
       "locked": "",
       "link": "https://grandemass-yt.kellerzahnarzt.ch/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://mission.gap-peace.org/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
