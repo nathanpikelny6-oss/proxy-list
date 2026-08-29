@@ -79,18 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-08-29T12:13:20Z",
-    "checked_at_display": "2026-08-29 12:13 UTC",
+    "checked_at": "2026-08-29T20:21:02Z",
+    "checked_at_display": "2026-08-29 20:21 UTC",
     "added_count": 0,
-    "removed_count": 3,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://thinking.kinemasot.cl",
-      "https://thinking.rymconstrucciones.cl",
-      "https://thinking.gangashrestha.com.np"
-    ]
+    "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://homeworkstudies.phire.ca": 1
+  },
   "links": [
     {
       "provider": "🌙 Velara",
