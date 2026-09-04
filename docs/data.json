@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r250",
-    "last_updated": "September 03, 2026",
+    "revision": "r251",
+    "last_updated": "September 04, 2026",
     "unsorted_total": 2061,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,22 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-04T10:31:17Z",
-    "checked_at_display": "2026-09-04 10:31 UTC",
+    "checked_at": "2026-09-04T15:42:18Z",
+    "checked_at_display": "2026-09-04 15:42 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://ss.maxmir-energy.ru",
+      "https://english.neeb.wtf"
+    ]
   },
   "failing_links": {
-    "https://omniman.cfd": 1,
-    "https://ss.maxmir-energy.ru": 2,
-    "https://english.neeb.wtf": 2
+    "https://omniman.cfd": 2,
+    "https://classroom.tozsugianto.com": 1,
+    "https://college.vaultnoir.com": 1,
+    "https://edu.vaultnoir.com": 1,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/daydreaming/dist/index.svg": 1
   },
   "links": [
     {
@@ -965,30 +970,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://ss.maxmir-energy.ru",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "⭐ DayDream X",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp, captcha, reflux",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp",
-        "captcha",
-        "reflux"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://science.haasencloud.de",
       "found": "5/2/2026",
       "username": "N/A",
@@ -1774,28 +1755,6 @@
       ],
       "locked": "",
       "link": "https://math.soyescalahumana.cl",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌑 Space",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://english.neeb.wtf",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
