@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r252",
-    "last_updated": "September 04, 2026",
+    "revision": "r253",
+    "last_updated": "September 05, 2026",
     "unsorted_total": 2061,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,22 +79,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-04T20:13:44Z",
-    "checked_at_display": "2026-09-04 20:13 UTC",
+    "checked_at": "2026-09-05T02:47:37Z",
+    "checked_at_display": "2026-09-05 02:47 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 3,
     "added_links": [],
     "removed_links": [
-      "https://omniman.cfd"
+      "https://classroom.tozsugianto.com",
+      "https://college.vaultnoir.com",
+      "https://edu.vaultnoir.com"
     ]
   },
-  "failing_links": {
-    "https://unpkg.com/bluebook-testing@3.1.3/index.html": 1,
-    "https://learningdash.edu-spark.top": 1,
-    "https://classroom.tozsugianto.com": 2,
-    "https://college.vaultnoir.com": 2,
-    "https://edu.vaultnoir.com": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "🌙 Velara",
@@ -7698,45 +7694,7 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://classroom.tozsugianto.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://college.rkimport.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://college.vaultnoir.com/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7775,25 +7733,6 @@
       ],
       "locked": "",
       "link": "https://edu.tvjumbleanswers.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://edu.vaultnoir.com/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
