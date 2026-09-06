@@ -79,14 +79,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-06T14:52:28Z",
-    "checked_at_display": "2026-09-06 14:52 UTC",
+    "checked_at": "2026-09-06T19:57:00Z",
+    "checked_at_display": "2026-09-06 19:57 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://update.5432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://onmlkfehgfeupdate.update.218765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://32update.2sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://nmlkjmlkjihupdate.update.987298765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io": 1,
+    "https://unpkg.com/bluebook-testing@3.1.3/index.html": 1
+  },
   "links": [
     {
       "provider": "🌙 Velara",
