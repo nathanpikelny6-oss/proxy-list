@@ -1,13 +1,8 @@
 {
-  "checked_at": "2026-09-07T11:29:35Z",
-  "checked_at_display": "2026-09-07 11:29 UTC",
+  "checked_at": "2026-09-07T17:10:11Z",
+  "checked_at_display": "2026-09-07 17:10 UTC",
   "added_count": 0,
-  "removed_count": 4,
+  "removed_count": 0,
   "added_links": [],
-  "removed_links": [
-    "https://update.5432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io",
-    "https://onmlkfehgfeupdate.update.218765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io",
-    "https://32update.2sdabhvaewukbcfjkaesk.152.53.136.204.nip.io",
-    "https://nmlkjmlkjihupdate.update.987298765432sdabhvaewukbcfjkaesk.152.53.136.204.nip.io"
-  ]
+  "removed_links": []
 }
