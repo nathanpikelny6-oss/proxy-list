@@ -79,18 +79,18 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-07T17:10:11Z",
-    "checked_at_display": "2026-09-07 17:10 UTC",
+    "checked_at": "2026-09-07T21:04:02Z",
+    "checked_at_display": "2026-09-07 21:04 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://college.rkimport.com": 1,
-    "https://edu.rkimport.com": 1,
-    "https://edu.tvjumbleanswers.com": 1,
-    "https://safety.tvjumbleanswers.com": 1
+    "https://college.rkimport.com": 2,
+    "https://edu.rkimport.com": 2,
+    "https://edu.tvjumbleanswers.com": 2,
+    "https://safety.tvjumbleanswers.com": 2
   },
   "links": [
     {
