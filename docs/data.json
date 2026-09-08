@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r254",
-    "last_updated": "September 07, 2026",
+    "revision": "r255",
+    "last_updated": "September 08, 2026",
     "unsorted_total": 2065,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,18 +79,21 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-07T21:04:02Z",
-    "checked_at_display": "2026-09-07 21:04 UTC",
+    "checked_at": "2026-09-08T02:54:54Z",
+    "checked_at_display": "2026-09-08 02:54 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 4,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://college.rkimport.com",
+      "https://edu.rkimport.com",
+      "https://edu.tvjumbleanswers.com",
+      "https://safety.tvjumbleanswers.com"
+    ]
   },
   "failing_links": {
-    "https://college.rkimport.com": 2,
-    "https://edu.rkimport.com": 2,
-    "https://edu.tvjumbleanswers.com": 2,
-    "https://safety.tvjumbleanswers.com": 2
+    "https://unpkg.com/bluebook-testing@3.1.3/index.html": 1,
+    "https://h.shuttlemath.com": 1
   },
   "links": [
     {
@@ -7619,63 +7622,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://college.rkimport.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://edu.rkimport.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://edu.tvjumbleanswers.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://house-hunters.epusara.com/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -7696,25 +7642,6 @@
       ],
       "locked": "",
       "link": "https://osap.g-osap.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://safety.tvjumbleanswers.com/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
