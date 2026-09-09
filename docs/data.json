@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r257",
+    "revision": "r258",
     "last_updated": "September 09, 2026",
-    "unsorted_total": 2065,
+    "unsorted_total": 2066,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -79,24 +79,30 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-09T10:42:38Z",
-    "checked_at_display": "2026-09-09 10:42 UTC",
+    "checked_at": "2026-09-09T15:51:37Z",
+    "checked_at_display": "2026-09-09 15:51 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 10,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev",
+      "https://thegoat.rnkiddo.workers.dev",
+      "https://sqpfyesz8f.bucket-ported.workers.dev",
+      "https://go-to.bucket-ported.workers.dev",
+      "https://ubg.bucket-ported.workers.dev",
+      "https://games.bucket-ported.workers.dev",
+      "https://bloxcraft-ubg.bucket-ported.workers.dev",
+      "https://ducky.bucket-ported.workers.dev",
+      "https://bloxy.bucket-ported.workers.dev",
+      "https://poki-boyy.firebaseapp.com/browser.html"
+    ]
   },
   "failing_links": {
-    "https://poki-boyy.firebaseapp.com/browser.html": 2,
-    "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev": 2,
-    "https://thegoat.rnkiddo.workers.dev": 2,
-    "https://sqpfyesz8f.bucket-ported.workers.dev": 2,
-    "https://go-to.bucket-ported.workers.dev": 2,
-    "https://ubg.bucket-ported.workers.dev": 2,
-    "https://games.bucket-ported.workers.dev": 2,
-    "https://bloxcraft-ubg.bucket-ported.workers.dev": 2,
-    "https://ducky.bucket-ported.workers.dev": 2,
-    "https://bloxy.bucket-ported.workers.dev": 2
+    "https://access.studyhub.cam": 1,
+    "https://math.studyhub.cam": 1,
+    "https://h.shuttlemath.com": 1,
+    "https://math.computer.project.campus.writing.glenoriebakery.com.au": 1,
+    "https://geography.science.studying.campus.chemistry.coosemansla.com": 1
   },
   "links": [
     {
@@ -6941,25 +6947,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://best-math-hub.pages.dev/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -6999,25 +6986,6 @@
       ],
       "locked": "",
       "link": "https://cc-party.pages.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://thegoat.rnkiddo.workers.dev/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7094,139 +7062,6 @@
       ],
       "locked": "",
       "link": "https://bloxy.googleclassroom.one/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://sqpfyesz8f.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://go-to.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://ubg.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://games.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://bloxcraft-ubg.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://ducky.bucket-ported.workers.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "❤️ BloxCraft Games",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://bloxy.bucket-ported.workers.dev/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7954,25 +7789,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "💫 Orbit",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://poki-boyy.firebaseapp.com/browser.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "Zyron",

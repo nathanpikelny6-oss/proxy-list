@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-09T10:42:38Z",
-  "checked_at_display": "2026-09-09 10:42 UTC",
+  "checked_at": "2026-09-09T15:51:37Z",
+  "checked_at_display": "2026-09-09 15:51 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 10,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev",
+    "https://thegoat.rnkiddo.workers.dev",
+    "https://sqpfyesz8f.bucket-ported.workers.dev",
+    "https://go-to.bucket-ported.workers.dev",
+    "https://ubg.bucket-ported.workers.dev",
+    "https://games.bucket-ported.workers.dev",
+    "https://bloxcraft-ubg.bucket-ported.workers.dev",
+    "https://ducky.bucket-ported.workers.dev",
+    "https://bloxy.bucket-ported.workers.dev",
+    "https://poki-boyy.firebaseapp.com/browser.html"
+  ]
 }
