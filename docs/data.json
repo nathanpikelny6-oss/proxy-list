@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r256",
-    "last_updated": "September 08, 2026",
+    "revision": "r257",
+    "last_updated": "September 09, 2026",
     "unsorted_total": 2065,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,26 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-08T20:39:58Z",
-    "checked_at_display": "2026-09-08 20:39 UTC",
+    "checked_at": "2026-09-09T02:55:17Z",
+    "checked_at_display": "2026-09-09 02:55 UTC",
     "added_count": 0,
     "removed_count": 1,
     "added_links": [],
     "removed_links": [
-      "https://eqbull.thongthaitextile.com"
+      "https://math.drama.engineering.lecture.reading.agreca.com.ar"
     ]
   },
   "failing_links": {
-    "https://math.drama.engineering.lecture.reading.agreca.com.ar": 2
+    "https://poki-boyy.firebaseapp.com/browser.html": 1,
+    "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev": 1,
+    "https://thegoat.rnkiddo.workers.dev": 1,
+    "https://sqpfyesz8f.bucket-ported.workers.dev": 1,
+    "https://go-to.bucket-ported.workers.dev": 1,
+    "https://ubg.bucket-ported.workers.dev": 1,
+    "https://games.bucket-ported.workers.dev": 1,
+    "https://bloxcraft-ubg.bucket-ported.workers.dev": 1,
+    "https://ducky.bucket-ported.workers.dev": 1,
+    "https://bloxy.bucket-ported.workers.dev": 1
   },
   "links": [
     {
@@ -7719,25 +7728,6 @@
       "password": "N/A",
       "contributor": "yourworstnightmare1",
       "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🟨 Noahs Tutoring",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://math.drama.engineering.lecture.reading.agreca.com.ar",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
     },
     {
       "provider": "🟨 Noahs Tutoring",
