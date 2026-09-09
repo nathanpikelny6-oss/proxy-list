@@ -79,30 +79,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-09T15:51:37Z",
-    "checked_at_display": "2026-09-09 15:51 UTC",
+    "checked_at": "2026-09-09T20:20:58Z",
+    "checked_at_display": "2026-09-09 20:20 UTC",
     "added_count": 0,
-    "removed_count": 10,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://bloxcraft-ubg-worker-js.rnkiddo.workers.dev",
-      "https://thegoat.rnkiddo.workers.dev",
-      "https://sqpfyesz8f.bucket-ported.workers.dev",
-      "https://go-to.bucket-ported.workers.dev",
-      "https://ubg.bucket-ported.workers.dev",
-      "https://games.bucket-ported.workers.dev",
-      "https://bloxcraft-ubg.bucket-ported.workers.dev",
-      "https://ducky.bucket-ported.workers.dev",
-      "https://bloxy.bucket-ported.workers.dev",
-      "https://poki-boyy.firebaseapp.com/browser.html"
-    ]
+    "removed_links": []
   },
   "failing_links": {
-    "https://access.studyhub.cam": 1,
-    "https://math.studyhub.cam": 1,
-    "https://h.shuttlemath.com": 1,
-    "https://math.computer.project.campus.writing.glenoriebakery.com.au": 1,
-    "https://geography.science.studying.campus.chemistry.coosemansla.com": 1
+    "https://access.studyhub.cam": 2,
+    "https://math.studyhub.cam": 2,
+    "https://tickets.blackbearshow.com": 1,
+    "https://math.computer.project.campus.writing.glenoriebakery.com.au": 2,
+    "https://geography.science.studying.campus.chemistry.coosemansla.com": 2
   },
   "links": [
     {
