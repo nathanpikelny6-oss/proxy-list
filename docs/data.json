@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r258",
-    "last_updated": "September 09, 2026",
+    "revision": "r259",
+    "last_updated": "September 10, 2026",
     "unsorted_total": 2066,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,19 +79,20 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-09T20:20:58Z",
-    "checked_at_display": "2026-09-09 20:20 UTC",
+    "checked_at": "2026-09-10T02:56:21Z",
+    "checked_at_display": "2026-09-10 02:56 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 4,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://access.studyhub.cam",
+      "https://math.studyhub.cam",
+      "https://math.computer.project.campus.writing.glenoriebakery.com.au",
+      "https://geography.science.studying.campus.chemistry.coosemansla.com"
+    ]
   },
   "failing_links": {
-    "https://access.studyhub.cam": 2,
-    "https://math.studyhub.cam": 2,
-    "https://tickets.blackbearshow.com": 1,
-    "https://math.computer.project.campus.writing.glenoriebakery.com.au": 2,
-    "https://geography.science.studying.campus.chemistry.coosemansla.com": 2
+    "https://h.shuttlemath.com": 1
   },
   "links": [
     {
@@ -2487,26 +2488,6 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://access.studyhub.cam/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://calculator.rdt2.co/",
       "found": "4/25/2026",
       "username": "N/A",
@@ -2528,26 +2509,6 @@
       ],
       "locked": "",
       "link": "https://cdn.jsdelivr.net/gh/dogeub/-/index.svg",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://math.studyhub.cam/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
@@ -7563,25 +7524,6 @@
         "pending"
       ],
       "locked": "",
-      "link": "https://math.computer.project.campus.writing.glenoriebakery.com.au",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🟨 Noahs Tutoring",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
       "link": "https://donuts.muffins.glenoriebakery.com.au",
       "found": "5/6/2026",
       "username": "N/A",
@@ -7602,25 +7544,6 @@
       ],
       "locked": "",
       "link": "https://matthewtuah.wikidelia.net",
-      "found": "5/6/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🟨 Noahs Tutoring",
-      "category": "pending",
-      "capabilities": "pending",
-      "capability_tags": [
-        "pending"
-      ],
-      "protocols": "pending",
-      "protocol_tags": [
-        "pending"
-      ],
-      "locked": "",
-      "link": "https://geography.science.studying.campus.chemistry.coosemansla.com",
       "found": "5/6/2026",
       "username": "N/A",
       "password": "N/A",
