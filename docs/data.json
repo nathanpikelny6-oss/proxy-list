@@ -79,15 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-11T02:50:45Z",
-    "checked_at_display": "2026-09-11 02:50 UTC",
+    "checked_at": "2026-09-11T10:32:41Z",
+    "checked_at_display": "2026-09-11 10:32 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://h.shuttlemath.com": 1
+    "https://unpkg.com/bluebook-testing@3.1.3/index.html": 1,
+    "https://weqweqw.meshtastic.hu": 1
   },
   "links": [
     {
