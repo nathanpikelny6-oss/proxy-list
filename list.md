@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r259 | Last Updated: September 10, 2026
+> r260 | Last Updated: September 11, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -822,19 +822,6 @@ Fixed a security vulnerability.
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
 | | https://mathtutors4school.firebaseapp.com/index.html | 4/30/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-
-# 🦆 Duckmath
-> [!NOTE]
-> | Category | Capabilities | Protocol(s) | Links |
-> | - | - | - | - |
-> | pending | pending | pending | 1 |
-
-> [!IMPORTANT]
-> This section has not been categorized or checked for protocol(s) and capabilities.
-
-| Locked | Link | Found Date | Username | Password | Contributor |
-| - | - | - | - | - | - |
-| | https://weqweqw.meshtastic.hu | 5/1/2026 | N/A | N/A | [1NobleCyber](https://github.com/1NobleCyber)
 
 # Luna
 > [!NOTE]
