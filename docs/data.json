@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r261",
+    "revision": "r262",
     "last_updated": "September 12, 2026",
     "unsorted_total": 2066,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
@@ -79,16 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-12T10:00:57Z",
-    "checked_at_display": "2026-09-12 10:00 UTC",
+    "checked_at": "2026-09-12T14:55:47Z",
+    "checked_at_display": "2026-09-12 14:55 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 1,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://canva.link/gn-math"
+    ]
   },
-  "failing_links": {
-    "https://canva.link/gn-math": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "🌙 Velara",
@@ -187,21 +187,6 @@
       "locked": "",
       "link": "https://stock95633.wixsite.com/content-fetcher/",
       "found": "4/27/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "➗ gn-math",
-      "category": "Games",
-      "capabilities": "N/A",
-      "capability_tags": [],
-      "protocols": "N/A",
-      "protocol_tags": [],
-      "locked": "",
-      "link": "https://canva.link/gn-math",
-      "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
