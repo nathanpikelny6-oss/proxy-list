@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r262",
-    "last_updated": "September 12, 2026",
+    "revision": "r263",
+    "last_updated": "September 13, 2026",
     "unsorted_total": 2066,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,19 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-13T02:58:11Z",
-    "checked_at_display": "2026-09-13 02:58 UTC",
+    "checked_at": "2026-09-13T11:01:48Z",
+    "checked_at_display": "2026-09-13 11:01 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 3,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://bed.ero.is",
+      "https://house-hunters.epusara.com",
+      "https://osap.g-osap.com"
+    ]
   },
   "failing_links": {
-    "https://bed.ero.is": 2,
-    "https://house-hunters.epusara.com": 2,
-    "https://osap.g-osap.com": 2
+    "https://h.shuttlemath.com": 1
   },
   "links": [
     {
@@ -7311,63 +7313,6 @@
       ],
       "locked": "",
       "link": "https://tharun-9772gaming.pages.dev/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://bed.ero.is/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://house-hunters.epusara.com/",
-      "found": "4/25/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🗝️ 1Key",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://osap.g-osap.com/",
       "found": "4/25/2026",
       "username": "N/A",
       "password": "N/A",
