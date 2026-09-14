@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r263 | Last Updated: September 13, 2026
+> r264 | Last Updated: September 14, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -230,20 +230,6 @@ Fixed a security vulnerability.
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
 | | https://ixlwork.storage.googleapis.com/ | 3/17/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-
-# 👤 Shadow
-> [!NOTE]
-> | Category | Capabilities | Protocol(s) | Links |
-> | - | - | - | - |
-> | Proxy/Games | unknown | unknown | 2 |
-
-> [!IMPORTANT]
-> Shadow does not have CAPTCHA support. Websites that require human verification (like YouTube) will not work or display properly.
-> 
-| Locked | Link | Found Date | Username | Password | Contributor |
-| - | - | - | - | - | - |
-| | https://novacs.letiatours.com/ | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://virtualgeo.letiatours.com/ | 4/25/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 
 # 🐶 dogeub
 > [!NOTE]
