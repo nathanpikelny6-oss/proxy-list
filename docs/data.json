@@ -79,16 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-15T10:59:13Z",
-    "checked_at_display": "2026-09-15 10:59 UTC",
+    "checked_at": "2026-09-15T16:10:01Z",
+    "checked_at_display": "2026-09-15 16:10 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://scramupdate.cfd": 1,
-    "https://51.222.206.184.dyn.tcadmin.net": 1
+    "https://ethostulsa.org": 1,
+    "https://scramupdate.cfd": 2,
+    "https://51.222.206.184.dyn.tcadmin.net": 2
   },
   "links": [
     {
