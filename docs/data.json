@@ -79,16 +79,25 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-17T10:54:27Z",
-    "checked_at_display": "2026-09-17 10:54 UTC",
+    "checked_at": "2026-09-17T16:10:07Z",
+    "checked_at_display": "2026-09-17 16:10 UTC",
     "added_count": 0,
-    "removed_count": 1,
+    "removed_count": 0,
     "added_links": [],
-    "removed_links": [
-      "https://unpkg.com/bluebook-testing@3.1.3/index.html"
-    ]
+    "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "http://learning.music.teacher.technology.student.thegleasons.net": 1,
+    "https://waves.radioimpactfm.ro": 1,
+    "https://great.s4w.us": 1,
+    "https://goguard.budda.lv": 1,
+    "https://society.simplysweetcakesoc.com": 1,
+    "https://greenlight.tozsugianto.com": 1,
+    "https://class.bamastuff.com": 1,
+    "https://vcsa.babypos.hk": 1,
+    "https://donuts.muffins.glenoriebakery.com.au": 1,
+    "https://matthewtuah.wikidelia.net": 1
+  },
   "links": [
     {
       "provider": "🌙 Velara",
