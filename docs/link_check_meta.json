@@ -1,8 +1,11 @@
 {
-  "checked_at": "2026-09-18T20:20:48Z",
-  "checked_at_display": "2026-09-18 20:20 UTC",
+  "checked_at": "2026-09-19T02:58:54Z",
+  "checked_at_display": "2026-09-19 02:58 UTC",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 2,
   "added_links": [],
-  "removed_links": []
+  "removed_links": [
+    "https://petezahaltsource.firebaseapp.com",
+    "https://jeans.are-trash.tomashirsch.cl"
+  ]
 }
