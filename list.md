@@ -1,7 +1,7 @@
 # Proxy List
 > [!NOTE]
 > v4.2 | Released: May 07, 2026
-> r273 | Last Updated: September 22, 2026
+> r274 | Last Updated: September 23, 2026
 > Total onsite links: 4546 (sorted list + unsorted page)\
 > https://yourworstnightmare1.github.io/proxy-list/
 <br>
@@ -70,14 +70,13 @@ Fixed a security vulnerability.
 > [!NOTE]
 > | Category | Capabilities | Protocol(s) | Links |
 > | - | - | - | - |
-> | Proxy/Games | captcha | Ultraviolet | 16 |
+> | Proxy/Games | captcha | Ultraviolet | 15 |
 
 | Locked | Link | Found Date | Username | Password | Contributor |
 | - | - | - | - | - | - |
 | | https://vallejocharterschool.org | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://highschoolmathteachers.com | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://larp.now | 2/19/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
-| | https://backshots.ero.is/ | 4/17/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://gegmbayzka.monedita.cl/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://tetosarcade.win/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
 | | https://h2aihbtm.frogseducation.com/ | 4/18/2026 | N/A | N/A | [yourworstnightmare1](https://github.com/yourworstnightmare1)
