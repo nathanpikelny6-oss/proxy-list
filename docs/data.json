@@ -79,17 +79,17 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-23T16:01:21Z",
-    "checked_at_display": "2026-09-23 16:01 UTC",
+    "checked_at": "2026-09-23T21:01:38Z",
+    "checked_at_display": "2026-09-23 21:01 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://potato.cafelafete.cl": 1,
-    "https://src.sixorizon.com": 1,
-    "https://viper.thevideobay.org": 1
+    "https://potato.cafelafete.cl": 2,
+    "https://src.sixorizon.com": 2,
+    "https://viper.thevideobay.org": 2
   },
   "links": [
     {
