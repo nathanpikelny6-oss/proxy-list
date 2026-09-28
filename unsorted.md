@@ -2071,3 +2071,4 @@ Move links from here into `list.md` once sorted.
 - https://poki-boyy.firebaseapp.com/browser.html
 - https://potato.cafelafete.cl
 - https://src.sixorizon.com
+- https://div7ikqm4o515.cloudfront.net

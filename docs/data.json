@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r276",
-    "last_updated": "September 24, 2026",
-    "unsorted_total": 2068,
+    "revision": "r277",
+    "last_updated": "September 28, 2026",
+    "unsorted_total": 2069,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
     "fail_threshold": 3,
@@ -79,40 +79,40 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-09-28T12:49:12Z",
-    "checked_at_display": "2026-09-28 12:49 UTC",
+    "checked_at": "2026-09-28T22:54:16Z",
+    "checked_at_display": "2026-09-28 22:54 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 25,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework65988/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class97840/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay57323/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz42269/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/notes94086/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam14559/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay60302/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam49764/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study53889/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class68887/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam31610/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam25458/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study63409/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study81410/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework52434/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam72625/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework14434/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/grade21246/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam32760/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/tutor69909/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz83578/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam45879/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay71679/index.html",
+      "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz10430/index.html",
+      "https://div7ikqm4o515.cloudfront.net"
+    ]
   },
-  "failing_links": {
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework65988/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class97840/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay57323/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz42269/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/notes94086/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam14559/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay60302/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam49764/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study53889/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class68887/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam31610/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam25458/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study63409/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study81410/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework52434/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam72625/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework14434/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/grade21246/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam32760/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/tutor69909/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz83578/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam45879/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay71679/index.html": 2,
-    "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz10430/index.html": 2,
-    "https://div7ikqm4o515.cloudfront.net": 2
-  },
+  "failing_links": {},
   "links": [
     {
       "provider": "🌙 Velara",
@@ -3275,510 +3275,6 @@
       "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework65988/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class97840/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay57323/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz42269/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/notes94086/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam14559/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay60302/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam49764/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study53889/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/class68887/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam31610/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam25458/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study63409/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/study81410/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework52434/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam72625/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/homework14434/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/grade21246/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam32760/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/tutor69909/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz83578/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/exam45879/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/essay71679/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🏴 OverCloaked",
-      "category": "Proxy/Games",
-      "capabilities": "epoxy, libcurl, wisp",
-      "capability_tags": [
-        "epoxy",
-        "libcurl",
-        "wisp"
-      ],
-      "protocols": "Scramjet",
-      "protocol_tags": [
-        "scramjet"
-      ],
-      "locked": "",
-      "link": "https://s3.amazonaws.com/elliotslinks-tnjavxyp/quiz10430/index.html",
-      "found": "4/21/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
       "provider": "😈 Imp Proxy",
       "category": "Proxy/Games",
       "capabilities": "Unknown",
@@ -5781,25 +5277,6 @@
       "locked": "",
       "link": "https://ethostulsa.org/",
       "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🔺 Vertix",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "Ultraviolet",
-      "protocol_tags": [
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://div7ikqm4o515.cloudfront.net/",
-      "found": "4/21/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "yourworstnightmare1",
