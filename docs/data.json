@@ -79,14 +79,37 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-10-04T11:44:19Z",
-    "checked_at_display": "2026-10-04 11:44 UTC",
+    "checked_at": "2026-10-04T16:23:06Z",
+    "checked_at_display": "2026-10-04 16:23 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
-  "failing_links": {},
+  "failing_links": {
+    "https://mathew.recreatinganew.com": 1,
+    "https://ramzankhan.lervs.ro": 1,
+    "https://best.choperascabodefrio.com.ar": 1,
+    "https://beautiful.japan.is": 1,
+    "https://math.reformarchive.com": 1,
+    "https://waves.radioimpactfm.ro": 1,
+    "https://great.s4w.us": 1,
+    "https://goguard.budda.lv": 1,
+    "https://greenlight.tozsugianto.com": 1,
+    "https://class.bamastuff.com": 1,
+    "https://realistic.astrodestin.ro": 1,
+    "https://greatest.budda.lv": 1,
+    "https://booking.verandahotels.com": 1,
+    "https://express.gsxpress.com.my": 1,
+    "https://great.hoohaamelbourne.com.au": 1,
+    "https://smartbio.quattro.net.ru": 1,
+    "https://smartbio.bamastuff.com": 1,
+    "https://smartbio.reformarchive.com": 1,
+    "https://strawberryistuff.recreatinganew.com": 1,
+    "https://info.grahammurryinsuranceagency.com": 1,
+    "https://mathew.notariamelipilla.cl": 1,
+    "https://strawberryontop.renaca.com": 1
+  },
   "links": [
     {
       "provider": "🌙 Velara",
