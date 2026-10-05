@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r279",
-    "last_updated": "October 03, 2026",
+    "revision": "r280",
+    "last_updated": "October 05, 2026",
     "unsorted_total": 2069,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,38 +79,65 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-10-04T20:50:12Z",
-    "checked_at_display": "2026-10-04 20:50 UTC",
+    "checked_at": "2026-10-05T03:53:44Z",
+    "checked_at_display": "2026-10-05 03:53 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 22,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://mathew.recreatinganew.com",
+      "https://best.choperascabodefrio.com.ar",
+      "https://beautiful.japan.is",
+      "https://math.reformarchive.com",
+      "https://waves.radioimpactfm.ro",
+      "https://great.s4w.us",
+      "https://goguard.budda.lv",
+      "https://greenlight.tozsugianto.com",
+      "https://class.bamastuff.com",
+      "https://info.grahammurryinsuranceagency.com",
+      "https://mathew.notariamelipilla.cl",
+      "https://strawberryontop.renaca.com",
+      "https://ramzankhan.lervs.ro",
+      "https://realistic.astrodestin.ro",
+      "https://greatest.budda.lv",
+      "https://booking.verandahotels.com",
+      "https://express.gsxpress.com.my",
+      "https://great.hoohaamelbourne.com.au",
+      "https://smartbio.quattro.net.ru",
+      "https://smartbio.bamastuff.com",
+      "https://smartbio.reformarchive.com",
+      "https://strawberryistuff.recreatinganew.com"
+    ]
   },
   "failing_links": {
-    "https://ethostulsa.org": 1,
-    "https://15.204.247.166.my.local-ip.sh": 1,
-    "https://mathew.recreatinganew.com": 2,
-    "https://ramzankhan.lervs.ro": 2,
-    "https://best.choperascabodefrio.com.ar": 2,
-    "https://beautiful.japan.is": 2,
-    "https://math.reformarchive.com": 2,
-    "https://waves.radioimpactfm.ro": 2,
-    "https://great.s4w.us": 2,
-    "https://goguard.budda.lv": 2,
-    "https://greenlight.tozsugianto.com": 2,
-    "https://class.bamastuff.com": 2,
-    "https://realistic.astrodestin.ro": 2,
-    "https://greatest.budda.lv": 2,
-    "https://booking.verandahotels.com": 2,
-    "https://express.gsxpress.com.my": 2,
-    "https://great.hoohaamelbourne.com.au": 2,
-    "https://smartbio.quattro.net.ru": 2,
-    "https://smartbio.bamastuff.com": 2,
-    "https://smartbio.reformarchive.com": 2,
-    "https://strawberryistuff.recreatinganew.com": 2,
-    "https://info.grahammurryinsuranceagency.com": 2,
-    "https://mathew.notariamelipilla.cl": 2,
-    "https://strawberryontop.renaca.com": 2
+    "https://ideas.vjason.com": 1,
+    "https://boykisser.rawr.africa.com": 1,
+    "https://51-222-206-184.cprapid.com": 1,
+    "https://51-222-206-184.plesk.page": 1,
+    "https://edu4u.dyndns.berlin": 1,
+    "https://places.vjason.com": 1,
+    "https://ilovenirbytes.savequeechylake.org": 1,
+    "https://edu.rawr.africa.com": 1,
+    "https://15-204-247-166.anyip.dev": 1,
+    "https://blog.free-dyndns.org": 1,
+    "https://15-204-247-166.cprapid.com": 1,
+    "https://15-204-247-166.plesk.page": 1,
+    "https://use.dyndns.berlin": 1,
+    "https://math.free-dyndns.org": 1,
+    "https://thinking.night.isroot.in": 1,
+    "https://51.222.206.184.my.local-ip.sh": 1,
+    "https://51.222.206.184.xip.lhjmmc.cn": 1,
+    "https://15.204.247.166.dyn.tcadmin.net": 1,
+    "https://15.204.247.166.my.local-ip.sh": 2,
+    "https://15.204.247.166.xip.lhjmmc.cn": 1,
+    "https://extralearning.okilbahadurpun.com.np": 1,
+    "https://extralearning.pirazymatma.pl": 1,
+    "https://extralearning.porcile.cl": 1,
+    "https://dy3.real3m.com": 1,
+    "https://eyes.lervs.ro": 1,
+    "https://school.gressvikbmx.no": 1,
+    "https://math.soyescalahumana.cl": 1,
+    "https://spacing.bull.srivaishnavam.org.au": 1
   },
   "links": [
     {
@@ -2880,72 +2907,12 @@
         "ultraviolet"
       ],
       "locked": "",
-      "link": "https://mathew.recreatinganew.com",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
       "link": "https://ramzankhanyt.lervs.ro",
       "found": "5/1/2026",
       "username": "N/A",
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://best.choperascabodefrio.com.ar",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://beautiful.japan.is",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🌕 Lunar",
@@ -3001,26 +2968,6 @@
       ],
       "locked": "",
       "link": "https://going.verandahotels.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🌕 Lunar",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://math.reformarchive.com",
       "found": "5/2/2026",
       "username": "N/A",
       "password": "N/A",
@@ -4461,101 +4408,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://waves.radioimpactfm.ro",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://great.s4w.us",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://goguard.budda.lv",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://greenlight.tozsugianto.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://class.bamastuff.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "📖 StudyHub",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://vcsa.babypos.hk",
       "found": "5/4/2026",
       "username": "N/A",
@@ -4632,63 +4484,6 @@
         "unknown"
       ],
       "locked": "",
-      "link": "https://info.grahammurryinsuranceagency.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://mathew.notariamelipilla.cl",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://strawberryontop.renaca.com",
-      "found": "5/4/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
       "link": "https://strawberry.ldeazevedo.com",
       "found": "5/4/2026",
       "username": "N/A",
@@ -4714,196 +4509,6 @@
       "password": "N/A",
       "contributor": "1NobleCyber",
       "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://ramzankhan.lervs.ro",
-      "found": "5/1/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "1NobleCyber",
-      "contributor_url": "https://github.com/1NobleCyber"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://realistic.astrodestin.ro",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://greatest.budda.lv",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://booking.verandahotels.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://express.gsxpress.com.my",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://great.hoohaamelbourne.com.au",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://smartbio.quattro.net.ru",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://smartbio.bamastuff.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://smartbio.reformarchive.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🍓 Strawberry",
-      "category": "Proxy/Games",
-      "capabilities": "unknown",
-      "capability_tags": [
-        "unknown"
-      ],
-      "protocols": "unknown",
-      "protocol_tags": [
-        "unknown"
-      ],
-      "locked": "",
-      "link": "https://strawberryistuff.recreatinganew.com",
-      "found": "5/2/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
     },
     {
       "provider": "🧱 Noblocc",
