@@ -79,15 +79,16 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-10-07T04:08:04Z",
-    "checked_at_display": "2026-10-07 04:08 UTC",
+    "checked_at": "2026-10-07T12:35:14Z",
+    "checked_at_display": "2026-10-07 12:35 UTC",
     "added_count": 0,
     "removed_count": 0,
     "added_links": [],
     "removed_links": []
   },
   "failing_links": {
-    "https://gcore.jsdelivr.net/gh/mrdavidsz/svgfrosted@main/neonmesh6933.svg": 1
+    "https://gcore.jsdelivr.net/gh/mrdavidsz/svgfrosted@main/deltarealm6357.svg": 1,
+    "https://gcore.jsdelivr.net/gh/mrdavidsz/svgfrosted@main/neonmesh6933.svg": 2
   },
   "links": [
     {
