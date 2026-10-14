@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "v4.2",
-    "revision": "r283",
-    "last_updated": "October 11, 2026",
+    "revision": "r284",
+    "last_updated": "October 14, 2026",
     "unsorted_total": 2069,
     "important_notices": "### Selenite\nThe owner has announced that Selenite is here to stay! The changes made to those links have been reverted and there is currently no plans to remove or change them. Enjoy!",
     "update_notice": "### Better Contributions\nContributors, contribution rules, and ways to contribute are now all on the [Contribute page](https://yourworstnightmare1.github.io/proxy-list/contribute).\n### Sorting Unsorted Links\nLinks that are already on our main list are being automatically removed from the unsorted list to minimize the amount of unsorted links we have here. I am also working on moving unsorted links to the main list finally, it takes time as there is nearly 2000 links.\n### Security Patches\nFixed a security vulnerability.",
@@ -79,17 +79,58 @@
     ]
   },
   "link_check": {
-    "checked_at": "2026-10-14T11:06:31Z",
-    "checked_at_display": "2026-10-14 11:06 UTC",
+    "checked_at": "2026-10-14T16:27:49Z",
+    "checked_at_display": "2026-10-14 16:27 UTC",
     "added_count": 0,
-    "removed_count": 0,
+    "removed_count": 2,
     "added_links": [],
-    "removed_links": []
+    "removed_links": [
+      "https://file.vise.best",
+      "https://api-services.vise.best"
+    ]
   },
   "failing_links": {
-    "https://file.vise.best": 2,
-    "https://api-services.vise.best": 2,
-    "https://business-worldwide-solutions.notariamelipilla.cl": 1
+    "https://cdn.jsdelivr.net/gh/PeteZah-G/PeteZahStaticDone@main/timmy-tuffnuckles.svg": 1,
+    "https://cdn.jsdelivr.net/gh/lucideproxy/svg@latest/logo.svg#": 1,
+    "https://cdn.jsdelivr.net/gh/scientific-studying/svg@main/logo.svg#/g": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/recursive-analysis-3399@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/imaginary-topology-5524@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/logarithmic-limits-4596@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/discrete-limits-2042@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/euler-eigenvalues-3562@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/exponential-algebra-7667@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-eigenvalues-3653@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/recursive-vectors-8085@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/recursive-graph-theory-4335@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-vectors-5672@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/continuous-vectors-8081@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/discrete-differential-4944@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/quadratic-geometry-6832@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-vectors-4136@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/abstract-combinatorics-1766@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/infinite-trigonometry-7318@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/transcendental-symmetry-1165@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/quadratic-algebra-8700@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/exponential-calculus-6386@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/symmetric-integral-4684@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/quadratic-integral-8006@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/irrational-derivatives-8705@main/INVADDEX.SVG": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/abstract-eigenvalues-2470@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/golden-geometry-5039@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/real-eigenvalues-7807@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/axiomatic-calculus-2743@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/complex-primes-1277@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/cubic-matrices-4645@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/prime-integral-3530@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/Mr-Calvin-Math-Class/real-theorem-2414@main/doesn.svg": 1,
+    "https://cdn.jsdelivr.net/gh/applebeescheese16-glitch/science@main/main.svg": 1,
+    "https://cdn.jsdelivr.net/gh/coinbaselarper/svg@latest/logo.svg": 1,
+    "https://cdn.jsdelivr.net/gh/un-pkg/npm@main/bundle-min.svg": 1,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/math/dist/index.svg": 1,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/history/dist/index.svg": 1,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/daydreaming/dist/index.svg": 1,
+    "https://cdn.jsdelivr.net/gh/TwiLabs/art/dist/index.svg": 1,
+    "https://business-worldwide-solutions.notariamelipilla.cl": 2
   },
   "links": [
     {
@@ -1938,46 +1979,6 @@
       ],
       "locked": "",
       "link": "https://dogeub.github.io/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://file.vise.best/",
-      "found": "4/18/2026",
-      "username": "N/A",
-      "password": "N/A",
-      "contributor": "yourworstnightmare1",
-      "contributor_url": "https://github.com/yourworstnightmare1"
-    },
-    {
-      "provider": "🐶 dogeub",
-      "category": "Proxy/Games",
-      "capabilities": "wisp",
-      "capability_tags": [
-        "wisp"
-      ],
-      "protocols": "Scramjet, Ultraviolet",
-      "protocol_tags": [
-        "scramjet",
-        "ultraviolet"
-      ],
-      "locked": "",
-      "link": "https://api-services.vise.best/",
       "found": "4/18/2026",
       "username": "N/A",
       "password": "N/A",
